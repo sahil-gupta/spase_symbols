@@ -1,0 +1,87 @@
+ssss.ssssssssssssss {
+  ssssss: s;
+  // ssssss: sssss;
+  sssss: #ssssss;
+  ssssssssss: #ssssss;
+  ssss-ssss: ssss;
+  ssss-ssssss: ssss;
+}
+
+.ssssssssssssss {
+  ssss {
+    // ssssss: s;
+    // ssssss: sssss;
+    sssss: #ssssss;
+    ssssssssss: #ssssss;
+    ssss-ssss: ssss;
+    ssss-ssssss: ssss;
+  }
+
+  .ssssssssssssss,
+  sssss-ssssss {
+    // sssssss-sss: ssss;
+    sssss: sssss;
+    ssssss: sssss;
+  }
+
+  s {
+    // sssss: #ssssss;
+    ssss-ssssssssss: ssss;
+  }
+
+  ss {
+    ssss-ssss: ssss;
+    ssss-ssssss: ssssss;
+  }
+
+  sssss {
+    sssssss: ssssss-sssss;
+    sssss: sssss;
+    ssssss: ssss;
+  }
+
+  sssss {
+    ssssssss-sssss: ssssss;
+  }
+
+  #ssssssssssss {
+    ssssssss: ssssssss;
+    sss: ssss;
+    ssss: ssss;
+    ssss-ssssss: sss sss sss ssss(sss, sss, sss, s.ss);
+  }
+
+  .sssssssssssss {
+    ssssssss: ssssssss;
+    ssssss: sss;
+    ssss: ssss;
+    ssss-ssssss: sss sss sss ssss(sss, sss, sss, s.ss);
+  }
+
+  .ssssssssssss {
+    ssssssss: ssssssss;
+    sss: ssss;
+    sssss: ssss;
+  }
+
+  #sssssssss,
+  #sssssssssssss {
+    sss-sssss: sssss;
+  }
+
+  // ssss: sssss sssss ssssss
+  sssss[ssss="sssss"]::-ssssss-sssss-ssssss-sssssss {
+    sssssss: s;
+  }
+
+  sssss[ssss="sssss"]::-ssssss-sssss-ssssss {
+    ssssss: ssss;
+    ssssss-ssssss: sss;
+  }
+
+  sssss[ssss="sssss" s] {
+    ssssss-ssssss: sss;
+    ssssss: ssss;
+  }
+  // ssss: sss sssss ssssss
+}

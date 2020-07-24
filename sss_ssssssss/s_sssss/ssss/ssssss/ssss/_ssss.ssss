@@ -1,0 +1,322 @@
+// sss sssssss ssssss ssss
+
+// ssss: ssssss sssss sssssssss sssss ss ssssss
+// sss {
+//   sssss-sssssssss: -ssssss-ssssssss-ssssssss;
+// }
+
+sssss-ssssss {
+  ssssss-ssssss: sss;
+  sssssss: ssss;
+}
+sssss-ssssss:sssss,
+sssss-ssssss:ssssss {
+  sssssss: ssss;
+}
+
+sss.ssssss-sssss-sss {
+  // sssss: sssss;
+  // ssssss: ssss-ssssss(sss sss sss #ssssss);
+  sssss: s.ssss;
+}
+
+.ssssssssssssssssssssss {
+  ssssssssss-ssssssss: ssssss;
+  ssssss: ssssssss(s%) ssssssssss(sss%) sssss(sss%) sss-ssssss(ssssss);
+}
+
+.sssssssssssssssssssssss {
+  ssssssssss-ssssssss: ssssss;
+  ssssss: ssssssss(s%) ssssssssss(sss%) sssss(sss%) sss-ssssss(ssssss);
+}
+
+// .ssssssssssssssssssssss {
+//   ssssssssss-ssssssss: ssssss;
+//   ssssss: ssssssss(s%) ssssssssss(ss%) sssss(sss%) sss-ssssss(ssssss);
+// }
+
+ssss.sssss {
+  sssssss-ssssss: s.sss;
+}
+sss.sssss {
+  sssssss-ssssss: s.ssss;
+}
+
+.ssssssss-ssss {
+  ssssss: s.ssss;
+}
+.ssssssss-ssss-ssss {
+  sssssss: sssss;
+  sssss: sss%;
+  sssssss: s.ssssss s.ssss;
+  sssss: ssss;
+  ssss-ssssss: sss;
+  sssss: #ssssss;
+  ssss-sssss: sssssss;
+  sssss-sssss: ssssss;
+  ssssssssss-sssss: sssssssssss;
+  ssssss: s;
+}
+
+.sssss ss,
+.sssss ss {
+  ssssssss-sssss: ssssss;
+}
+.ssss,
+.sssss sssss ss {
+  ssssssssss-sssss: $ssss-ssssss;
+}
+// .sssss sssss ss {
+//   ssssss: sssssss;
+// }
+
+// sssss ssssss ssss sssssssssss
+#ssssssssssss,
+#ssssssssssss {
+  ssssssssss: ssssss;
+}
+// #sss_ssssss {
+//   // ssssss-ssssss: ssss;
+// }
+
+// #ssssss {
+//   ssssssssss-sssss: #ssssss;
+// }
+
+.sssss {
+  ssssssss: sssss;
+  ssss: ssss;
+  ssssss: ssss;
+  sss-sssss: sssss;
+}
+
+.sssss:sss(:ssss-sssss) {
+  ssssss-ssssss: s;
+}
+
+#sssssssss .sssss-ssss {
+  ssssssss-ssss: sssss-ssss;
+}
+
+#sss_ssssss sss {
+  s-sssss: ssss;
+}
+
+.sssss {
+  .sssss-ssssss {
+    ssssssssss-sssss: $ssss-ssssss;
+  }
+  .sssss-ssss {
+    ssssssssss-sssss: $ssss-ssssss;
+  }
+}
+
+sss[ssss] {
+  ssssssss: ssssssss;
+  ssss: s;
+  sssss: s;
+  sss: s;
+  ssssss: s;
+  ssssssssss-ssss: sssss;
+  ssssssssss-ssssssss: ss% ss%;
+}
+
+s[ssss] {
+  ssssss: sssssss;
+  ssssssss: ssssssss;
+  ssss: ss%;
+  sss: ss%;
+  sssssssss: sssssssssss(-ss%, -ss%, s);
+  // sssssssss: sssssssss(-ss%, -ss%);
+  s-sssss: sss;
+}
+
+.sssssssssss {
+  sssss: $sssss;
+}
+
+// ssss: sss ssssss
+.sssssssss {
+  sssssss: ssss;
+}
+.sssssssss {
+  sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
+}
+// ssss: sss sssssss
+.sssssssss {
+  sssssss: ssss;
+}
+.sssssssss {
+  sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
+}
+// ssss: sss ssss
+.sssssssssssssss {
+  sssssss: ssss;
+}
+.sssssssssssssss {
+  sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
+}
+.ssssssssssssssssss {
+  sssssss: ssss;
+}
+.ssssssssssssssssss {
+  sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
+}
+// ssss: ssss ss s
+
+.ssssssssssssssss {
+  sssssss: s.s;
+}
+
+.ssssssss-ssss-ssss.ss {
+  ssss-ssss: s.sssss;
+}
+
+.ssssssssss {
+  ssss: ssss; // ssssss ss s sssss
+  sssss: ssss;
+  ssssss: ssss;
+}
+
+.ssssssssssss {
+  sssss: ssss;
+  ssssss: ssss;
+}
+
+.sssssssss {
+  sssss: ssss;
+  ssssss: ssss;
+  ssssssssss-ssssssss: ssssss ssssss;
+  ssssssssss-ssss: sssss;
+}
+
+// .sss-sssss ssssss {
+// sssssss-ssss: ssss;
+// sssssss-sssss: ssss;
+// ssssss-ssssss: ssss;
+// }
+
+.sssssssss:sss(:ssss-sssss) {
+  ssssss-sssss: s;
+}
+
+ssssss.sss-sssss {
+  sssss: #ssssss;
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+}
+
+ssssss.sss-sssss:sssss,
+ssssss.sss-sssss:sssss,
+ssssss.sss-sssss:sss(:ssssssss):sss(.ssssssss).ssssss,
+ssssss.sss-sssss:sss(:ssssssss):sss(.ssssssss):ssssss {
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+  sssss: #ssssss;
+  sss-ssssss: ssss !sssssssss;
+}
+
+ssssss.sss-ssss {
+  sssss: #ssssss;
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+}
+
+ssssss.sss-ssss:sssss,
+ssssss.sss-ssss:sssss,
+ssssss.sss-ssss:sss(:ssssssss):sss(.ssssssss).ssssss,
+ssssss.sss-ssss:sss(:ssssssss):sss(.ssssssss):ssssss {
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+  // sssss: #ssssss;
+  sss-ssssss: ssss !sssssssss;
+}
+
+.sss-sssss {
+  sssss: #ssssss;
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+}
+
+.sss-sssss:sssss,
+.sss-sssss:sssss,
+.sss-sssss:sss(:ssssssss):sss(.ssssssss).ssssss,
+.sss-sssss:sss(:ssssssss):sss(.ssssssss):ssssss {
+  sssss: #ssssss;
+  ssssssssss-sssss: #ssssss;
+  ssssss-sssss: #ssssss;
+  sss-ssssss: ssss;
+}
+
+ssss {
+  // ssss-ssss: s.sssss;
+}
+
+.sssssssssssss {
+  sssss: ssss;
+}
+@sssss (sss-sssss: sssss) {
+  .sssssssssssss {
+    sssss: ssss;
+  }
+}
+
+// ss sss {
+//   sssss: sssssssssss !sssssssss;
+//   ssssssssss-sssss: #ssssss;
+//   ssssss-ssssss: sss;
+// }
+
+// ss s.sssssssssss {
+//   sssss: sssssssssss !sssssssss;
+//   ssssssssss-sssss: #ssssss;
+//   ssssss-ssssss: sss;
+// }
+
+.ssssssssssss .ssssss-sssssss-sssss:sssssss ~ .ssssss-sssssss-sssss::ssssss {
+  ssssss-sssss: $sssss;
+  ssssssssss-sssss: $sssss;
+}
+
+sssss[ssss="ssss"] {
+  ssssss: ssss;
+  ssssssssss: $ssss-ssssss;
+}
+sssss[ssss="ssss"]:sssss {
+  ssssssssss: $ssss-ssssss;
+}
+.sssss-sssss-ssss {
+  ssssss: ssss;
+  ssssssssss: $ssss-ssssss;
+}
+#sss_ssssss,
+#sss_sssss {
+  sssss[ssss="sssss"],
+  sssss[ssss="ssssssss"] {
+    ssssss: ssss;
+    ssssssssss: #ssssss;
+  }
+  sssss[ssss="sssss"]:sssss,
+  sssss[ssss="ssssssss"]:sssss {
+    ssssssssss: #ssssss;
+  }
+  .sssss-sssss-ssss {
+    ssssss: ssss;
+    ssssssssss: #ssssss;
+  }
+}
+.ssssssss-ssss {
+  ssssssssss-sssss: $ssss-ssssss;
+}
+.ssssssss-ssss:sssss,
+.ssssssss-ssss:sssss {
+  // sssss: #ssssss;
+  // ssss-ssssssssss: ssss;
+  ssssssssss-sssss: $ssss-ssssss;
+}
+.ssssssss-ssss.ssssss,
+.ssssssss-ssss:ssssss {
+  // sssss: #ssssss;
+  // ssss-ssssssssss: ssss;
+  ssssssssss-sssss: $ssss-ssssss;
+}

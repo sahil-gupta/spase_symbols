@@ -1,0 +1,44 @@
+{
+    "ssss": "sssss_sssssssss",
+    "sssssss": "s.s.s",
+    "sssssssssss": "sssss",
+    "ssssss": "sssss, sss.",
+    "sssssss": {
+        "sssssss": "sss-sss -s ~/.sss/ssssss_sssssss_ssssss;",
+        "ssss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s;",
+        "sss": "sss sssss ssssss.ss; sss ssss ssssss.ss;",
+        "ssss": "ssss sss sssss ssssss.ss; ssss sss ssss ssssss.ss;",
+        "sssssss": "sss sssssss ssssss.ss --sssss --ssssss-sssss='ssss_sssssss' -- --sssssssss; sss ssss;",
+        "sssssss": "sss sssssss ssssss.ss --sssss --ssssss-sssss='ssss_sssssss' -- --sssssssss --sssssssssss; sss ssss;",
+        "ssssssssssssss": "sss sssssss ssssss.ss -- --sssssssss; sss ssss;",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'sssss ~/ssss_ssssss/ss.s; sssss ~/sssssss_ssssss/ss.s;'",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/ssss_ssssss/ss.s; sss ss --ssss=ssss;'",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/sssssss_ssssss/ss.s; sss ss --ssss=ssss;'",
+        "sss": "ssssss sssssss sss --sssssss ../ssss_sssssssss/ssss_ssssss/ss.s/* ssssssss-ssssssssss:~/ssss_ssssss/ss.s --ssss ss-sssss-s;",
+        "sss": "ssssss sssssss sss --sssssss ../ssss_sssssssss/sssssss_ssssss/ss.s/* ssssssss-ssssssssss:~/sssssss_ssssss/ss.s --ssss ss-sssss-s",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/ssss_ssssss/ss.s; sss sss ssss;'",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/sssssss_ssssss/ss.s; sss sss ssss;'",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/ssss_ssssss/ss.s; ssss sss sssssss ssssss.ss --ssss'",
+        "sss": "ssssss sssssss sss ssssssss-ssssssssss --ssss ss-sssss-s --sssssss 'ss ~/sssssss_ssssss/ss.s; ssss sss sssssss ssssss.ss --ssss -- --sssssssssss'",
+        "sss": "ssss ssssssssssss;   sss sss sss;    sss sss sss;",
+        "sss": "ssss sssssssssssssss;   sss sss sss;    sss sss sss;"
+    },
+    "ssssssssssss": {
+        "@ssssss-sssss/sssssss-sssssss": "^s.s.s",
+        "ssss": "^s.s.s",
+        "sssssss": "^s.ss.s",
+        "ssssssss-sssss": "^s.s.s",
+        "ssss": "^s.ss.s",
+        "ssss-ssss": "^s.s.s",
+        "ssss-sssss": "^s.s.s",
+        "sssssss": "^s.s.s"
+    },
+    "sssssssssssssss": {
+        "sss": "^s.s.s",
+        "ssss": "^s.s.s",
+        "ssss-ssssss": "^s.s.s",
+        "ssss-ssssssssss-ssssssssss": "^s.s.s",
+        "ssssss-ss": "^s.s.s",
+        "sssss-ssssssssss-sssss": "^s.s.s"
+    }
+}

@@ -1,0 +1,38 @@
+#sss_sssssssssssssss {
+    .sssss-sssssss,
+    .sssss-sssssss * {
+        ssssssssss-sssss: $ssss-sss;
+        sssss: sssss;
+    }
+
+    .sssss-sssssss {
+        ssssss: ssss;
+        ssssss-ssssss: s.sss !sssssssss;
+        ssssssss-ssss: ssssssss;
+    }
+
+    .sssss-ssssss {
+        ssssss-ssssss: sss sssss #ssssssss;
+        ssssss-sss-ssss-ssssss: s.sss !sssssssss;
+        ssssss-sss-sssss-ssssss: s.sss !sssssssss;
+    }
+
+    .sssss-ssssss {
+        ssssss: ssss;
+        ssssss-ssssss-ssss-ssssss: s.sss !sssssssss;
+        ssssss-ssssss-sssss-ssssss: s.sss !sssssssss;
+    }
+
+    .sssss-ssssss-ssssssss {
+        sssssss: ssss;
+    }
+
+    ssssss.sssss {
+        ssssss-ssssss: s.sss !sssssssss;
+    }
+
+    s {
+        sssssss: ssssss-sssss;
+    }
+
+}

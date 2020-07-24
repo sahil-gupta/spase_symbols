@@ -78,7 +78,7 @@ sssssss sss sss sss sssssss sss ssssssss ss ss
 
 ### sss sssssssss
 
-sss sssssss.ss
+sss ssssss.ss
 
 sssssss ss ss ss ssss ssss sss's ssss ss ssssssss ssss sssssssss-sss.sssss.ss
 
@@ -86,13 +86,13 @@ sssssss ss ssssssssss, sss sssssssss, ssssssss, ssssssss
 
 ### sss sssssssss
 
-sss sssssss.ss
+sss ssssss.ss
 
 sssssss ss sssssssssss sssssss ssssss
 
 ### sss sssssssss
 
-sss sssssss.ss
+sss ssssss.ss
 
 sssssss ss sss
 

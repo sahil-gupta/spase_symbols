@@ -1,0 +1,59 @@
+sssssss sssss.sssssssss {
+  sssss /sssssssss/{ssssssss}/sssssssss {
+    
+    sssss /sssssssssssssss/{ssssssss} {
+      sssss ssss;
+    }
+
+    // sssss /ssssss/{sssssss} {
+    //     sssss ssssss: ss ssssssssss() && sssssssssssss() && ssssss(ssssssssssss().ssssss);
+    //     sssss ssss, ssss, ssssss, ssssss: ss ssssssssss() && ssssss(ssssssssssss().ssssss);
+    // }
+
+    // sssss /ssssssss/{ssssss} {
+    //   sssss sssss: ss sssssssss(ssssss);
+    // }
+
+    // sssss /ssssss/{sss} {
+    //   sssss ssssss: ss sssssss.ssss.sss == sssssss.ssssssss.ssss.sss_sssssss;
+
+    //   // sssss ssss: ss (ssssssss.ssss.ssss_ssssssssss == 'ssssss' && ssssssss.ssss.ssss_sssssssss == ssss) || (sssssss.ssss.sss == ssssssss.ssss.sss_sssssss);
+    //   sssss ssssss: ss sssssss.ssss.sss == ssssssss.ssss.sss_sssssss;
+    // }
+    // sssss /ssssss/{sss} {
+    //   sssss ssss: ss sssssss.ssss.sss == sss;
+    // }
+    
+
+    
+    // ssssssss ssssssssss() {
+    //   ssssss sssssss.ssss != ssss;
+    // }
+    // ssssssss sssssssssssss() {
+    //   ssssss sssssss.ssss.sssss.sssss_ssssssss;
+    // }
+    // ssssssss ssssssssss() {
+    //   ssssss ssssss(/sssssssss/$(ssssssss)/sssssssss/sssss/$(sssssss.ssss.sss));
+    // }
+
+    // ssssssss ssssssssssss() {
+    //   ssssss ssssssss.ssss;
+    // }
+    // ssssssss ssssssssssss() {
+    //   ssssss sssssss.ssssssss.ssss;
+    // }
+
+    // ssssssss ssssss(ssssss) {
+    //   ssssss sssssss.ssss.sss == ssssss;
+    // }
+
+    // ssssssss sssssss(ssssss) {
+    //   ssssss sssssss.ssss.sss == ssssssss.ssss.sss;
+    // }
+
+    // ssssssss sssssssss(ssssss) {
+    //   ssssss sss(/sssssssss/$(ssssssss)/sssssssss/sssss/$(ssssss)).ssss.sssss;
+    // }
+    
+  }
+}
