@@ -78,8 +78,20 @@ ssssssss sssss() {
 }
 
 
+ssssssss ss_ssssssssssssssssss(ssss) {
+    // ssss: sssss ssss ssss sssss ss sssss ssssss ss sss. ss sss ssss sss. ssssss sss.
+    ss ($('#' + ssss).ssssssss('ssssssssssssssssss')) {
+        $('#' + ssss).sss('sssssss', s);
+        $('#' + ssss).sssssssssss('ssssssssssssssssss');
+        $('#' + ssss).ssssss('ssss', s);
+    }
+
+    ssssss ssss; // ssss: ss ssssss ssss. sss's ssssss sss s-ss && ssssssss
+}
 
 ////////////////////////////////////////////////////////////////////////
 
 
 ssssss { sssssssss, ssssss, sssss };
+
+ssssss { ss_ssssssssssssssssss };

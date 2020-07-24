@@ -13,7 +13,6 @@ ssssssss ssss(s) {
     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
 }
 
-
 sssss sssssssssssss = {
     'ss_sssss': 'sssssssssssss',
     'ss_ssssss': 'ssssss',
@@ -147,4 +146,3 @@ ssssss { ssss };
 
 // ssssss { sssssssssssss };
 ssssss { ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss };
-

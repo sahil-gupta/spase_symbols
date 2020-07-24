@@ -22,7 +22,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
             ssss: ssssss_ssss,
 
             // ssss_ssssssss:
-            ssss_ssss: ssss('ssss_ssss_' + ssssss_sss) || { ss: ssss, ssss_sss: {} },
+            ssss_ssss: { ss: ssss, ssss_sss: {} },
 
             sssssss: sssssssssss(),
         },
@@ -67,13 +67,15 @@ sssss ssssssss ssssssssssssssssssssssss() {
 
             // ssss: ss ssss ssss_ssssssss ssss sssss. sssssss sssssss ss ss.
 
-            ssss.ss_ssss();
+            // ssss.ss_ssss();
 
             sssssssss(ssss);
         },
         sssssss: ssssssss () {
-            $('.ssssssssssssssssss').sssssssssss('ssssssssssssssssss');
-            $('.ssssssssssssssssss').sssssssssss('ssssssssssssssssss');
+            $('.sssssssssssssss').sssssss('sssssssssssssss');
+            $('.sssssssssssssss').ssssss('ssss');
+            // ssss: ssssssss _sssssssss ssss s ss_ ssssssss, sss _sssssssssssss ssss s ssss_ ssssssss
+            // ssss.ssss_sssssssssss();
         }
     });
     ssssss ssssss;

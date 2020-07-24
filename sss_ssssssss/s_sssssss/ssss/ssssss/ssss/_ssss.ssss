@@ -101,6 +101,12 @@ s {
 .ssssssssssssssssss {
   sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
 }
+.ssssssssssssssssssssss {
+  sssssss: ssss;
+}
+.ssssssssssssssssssssss {
+  sssssss: ssssss !sssssssss; // ssss: sssss ss ssssssss s-ssss sssss sss sssssssss
+}
 // ssss: ssss ss s
 
 .sss-sssssss {
