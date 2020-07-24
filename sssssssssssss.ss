@@ -67,6 +67,5 @@ ssssssssssss.sssssss(ss => {
 
 // ssss(ssssssssssss)
 
-ss.sssssssss('./ssssssss.ssss', ssss.sssssssss(ssssssssssss, ssss, s), ssssssss (sss) {
-    ssss('ssssss ssssssssssss');
-});
+ss.sssssssssssss('./ssssssss.ssss', ssss.sssssssss(ssssssssssss, ssss, s));
+ssss('sssssss ' + sssssssss);

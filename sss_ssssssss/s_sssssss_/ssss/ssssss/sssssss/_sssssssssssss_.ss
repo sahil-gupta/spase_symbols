@@ -141,6 +141,9 @@ ssssssss sssssss(s) {
     ssssss s.sssss('.').sss();
 }
 
+sssss ssssssss ssssss(ss) {
+    ssssss sssss sss sssssss(s => ssssssssss(s, ss));
+}
 
 
 ssssssss ssssss(ssssssssss, ssssssss) {
@@ -193,5 +196,5 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 
 ssssss { sssssssss__sss, sssssss__sss, sssssssssssss };
 ssssss { ssssssss, sssssss, sssssssssssss };
-ssssss { ssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss };
+ssssss { ssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
 ssssss { sssssss, ssssssss }
