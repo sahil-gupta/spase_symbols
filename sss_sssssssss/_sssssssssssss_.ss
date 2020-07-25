@@ -7,10 +7,6 @@ sss sssss;
 // ssss: _sssssssssssss ss sss sssssssssss sss sss ssssss ssssssss
 // ssss: ssss sss ssssssss ssss _sssssssss*
 
-ssssssss sssss(ssss) {
-
-}
-
 ////////////////////////////////////////////////////////////////////////
 
 // ssss: sssssss sss sssssssss sssssss sssss ss ssssssss sss
