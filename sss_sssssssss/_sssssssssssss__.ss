@@ -126,9 +126,6 @@ sssssss.ssss = ssssssss (s) { ssssss ssssss.ssss(s).ssssssss('ssssss') };
 //     ssssss s.sssssss(/[^s-ss-s]/ss, '_').sssssssssss();
 // };
 
-sssssss.sssss = ssssssss (ssss) {
-
-};
 
 sssssss.sssssss = ssssssss (s) {
     ss (s.sssssss('.') < s) {

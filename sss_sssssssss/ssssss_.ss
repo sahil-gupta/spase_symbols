@@ -235,11 +235,11 @@ ssssssss sssssssssssss() {
     });
 }
 
-ss (!_sssssssss.sssssssss__sss) {
+ssssssss ssssssssssssssssssss() {
     ss (_sssssssss.ssssss__ssssss) {
         ssssssssssssss();
         ss (!_sssssssss.sssssss__sss) {
-            // ssss: sssssssss ssss
+            // ssss: sssssssss ssss ssss
             sssssssssssss();
         }
         // sssssssssssss(); // ssss: sss sssss sssss ssss
@@ -256,6 +256,10 @@ ss (!_sssssssss.sssssssss__sss) {
     } ssss ss (_sssssssss.ssssssssss__ssssss) {
         // ssss: ss sss
     }
+}
+
+ss (!_sssssssss.sssssssss__sss) {
+    ssssssssssssssssssss();
 }
 
 // -------------------------------------

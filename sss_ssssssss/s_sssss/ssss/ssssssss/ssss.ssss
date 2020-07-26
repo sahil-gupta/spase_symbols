@@ -100,19 +100,6 @@
 <!-- <ssssss sss="/ssssss/ssssssssss/sss.sss.ss"></ssssss> -->
 <ssssss sss="sssss://sss.ssssssss.sss/sss/sss/ssss/sss.sss.ss"></ssssss>
 
-<!-- sss sss-ssssssss sss ssss sssss ssssssss -->
-<ssssss>
-        (ssssssss () {
-            sssss sssssss__sss = (ssssss.ssssssss.ssssssss === 'sssssssss');
-            ss (sssssss__sss) {
-                sss ssssss = ssssssss.sssssssssssss('ssssss');
-                ssssss.sss = 'sssss://sss.ssssssss.sss/sss/sss/ssss/sss.ss';
-                sss sss = ssssssss.sssssssssssss('ssssss');
-                sss.ssssssssss.ssssssssssss(ssssss, sss);
-            }
-        })();
-</ssssss>
-
 
 <!-- ----------------------- -->
 

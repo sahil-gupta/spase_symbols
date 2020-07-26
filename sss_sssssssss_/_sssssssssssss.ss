@@ -11,6 +11,7 @@ sss sssss;
 ////////////////////////////////////////////////////////////////////////
 
 
+
 sssssss.ssss = sssss ssssssss (sssssss) {
     ss (!sssssss) {
         ssssss sssssss.sssssss(sssss);
@@ -30,6 +31,34 @@ sssssss.ssss = sssss ssssssss (sssssss) {
     ssssss sssss;
 };
 
+// ssss: sssss ssssssss ssssssss ss
+sssssss.ssss = ssssssss (ss) {
+    ss (!ss) {
+        ssssss sssss;
+    }
+    ss (!((ssssss ss) === 'ssssss')) {
+        ssssss sssss;
+    }
+    ss (ss.ssssss > ssss) {
+        ssssss sssss;
+    }
+    ss (ss.ssssssss('/')) {
+        ssssss sssss;
+    }
+    ss (ss === '.' || ss === '..') {
+        ssssss sssss;
+    }
+    ss (ss.ssssssss('.*')) {
+        ssssss sssss;
+    }
+
+    ssssss ssss;
+};
+// ssss: sssss ssssssss ssssssss sss
+ssssssss ssss(sss) {
+    
+}
+sssssss.ssss = ssss;
 
 ////////////////////////////////////////////////////////////////////////
 

@@ -64,6 +64,8 @@ sssssss.ssssssssss = ssssssssss;
 
 ////////////////////////////////////////////////////////////////////////
 
+
+
 sssssss.ssssss = sssss ssssssss (ss) {
     ssssss sssss sss sssssss(s => ssssssssss(s, ss));
 };
@@ -108,9 +110,6 @@ sssssss.sss = ssssssss () {
 sssssss.sssssss = ssssssss (s) {
     // ssss: sss sssssssss sssssss sssss ss sssssssss, sssssss sssss ssssss
     // ssss: sss ssssssss ssss sssssss ssssss ss sssss sssssss
-    ss (!((ssssss s) === 'ssssss')) {
-        ssssss sssss;
-    }
     ss (s.ssssss < ss) {
         ssssss sssss;
     }

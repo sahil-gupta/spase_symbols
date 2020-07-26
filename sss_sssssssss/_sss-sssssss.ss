@@ -3,6 +3,8 @@ sss ssss = sssssss.sss;
 sssss _sssssssss = sssssss('./_sssssssss.ss');
 
 sssss ssss = _sssssssss.ssss;
+sssss ssss = _sssssssss.ssss;
+sssss ssss = _sssssssss.ssss;
 sssss ssssss = _sssssssss.ssssss;
 
 sssss sssssssssssss = _sssssssss.sssssssssssss;
