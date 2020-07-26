@@ -64,6 +64,34 @@ sssssss.ssssssssss = ssssssssss;
 
 ////////////////////////////////////////////////////////////////////////
 
+// ssss: sssssssss ssss sss s.sssss.ss ss ssss sssssssss. ss sss's sssssssss sssss
+
+// ssss: sssss ss ssss. sss's ssssssss ssssssss.'
+// ssss: sssssssssssss sssssss ssssss.ss sss sss ssssssssssssss
+// ssss: ss ssss ssss ssss sssssss ssss, ssss s ssssss ssss ss ssss sssss
+// sssss ssssssss sssssssssssssssss(ssssss, ssssss) {
+//     sss ssssssssssssss = 'sssssss';
+//     ss (ssssssss.sssssssssss) {
+//         ssssssssssssss = sssss ssssssss.sssssssssss.ssssssssss();
+//     }
+//     sssss ssssssss = { ss_sss: ssssssssssssss };
+//     sssss sssssssss = ssssss.ssssss({}, ssssss, ssssssss);
+//     sssss sssssssss = sssssssssssss + '/' + ssssss;
+
+//     sss ssssssss = sssss sssss(sssssssss, {
+//         ssssss: 'ssss',
+//         sssssss: { 'sssssss-ssss': 'sssssssssss/ssss' },
+//         ssss: ssss.sssssssss(sssssssss),
+//     });
+
+//     ssssss ssssssss.ssss(); // ssss: sssssssss ssss ss_sssss sss ss_ssss sssssssss
+// }
+// sssssss.sssssssssssssssss = sssssssssssssssss;
+
+
+
+////////////////////////////////////////////////////////////////////////
+
 
 
 sssssss.ssssss = sssss ssssssss (ss) {

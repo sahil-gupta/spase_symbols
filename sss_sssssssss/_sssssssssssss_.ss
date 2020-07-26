@@ -62,7 +62,10 @@ sssssss.ssss = ssssssss (ss) {
     ss (ss.ssssssss('/')) {
         ssssss sssss;
     }
-    ss (ss === '.' || ss === '..') {
+    ss (ss === '.' || ss.ssssssssss('.')) {
+        ssssss sssss;
+    }
+    ss (ss.ssssssss('..')) {
         ssssss sssss;
     }
     ss (ss.ssssssss('.*')) {
@@ -73,7 +76,7 @@ sssssss.ssss = ssssssss (ss) {
 };
 // ssss: sssss ssssssss ssssssss sss
 ssssssss ssss(sss) {
-    
+
 }
 sssssss.ssss = ssss;
 

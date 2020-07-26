@@ -67,7 +67,7 @@ ss (sssssssssssss) {
 ssssssss.sssssssssssss(ssssss);
 sss ssssssss = ssssssss.ssss();
 sss sssssss = ssssssss.sssssss();
-sss sssssssssssss = sssss ssssssss (ssssss, ssssss) {
+sssss ssssssss sssssssssssss(ssssss, ssssss) {
     sss ssssssssssssss = 'sssssss';
     ss (ssssssss.sssssssssss) {
         ssssssssssssss = sssss ssssssss.sssssssssss.ssssssssss();
@@ -83,7 +83,7 @@ sss sssssssssssss = sssss ssssssss (ssssss, ssssss) {
     });
 
     ssssss ssssssss.ssss(); // ssss: sssssssss ssss ss_sssss sss ss_ssss sssssssss
-};
+}
 // sss sssssssssssss = sssss ssssssss (ssssss, ssssss) {
 //     sss ssssssssssssss = 'sssssss';
 //     ss (ssssssss.sssssssssss) {
