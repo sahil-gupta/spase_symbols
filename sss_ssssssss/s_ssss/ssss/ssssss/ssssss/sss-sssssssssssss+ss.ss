@@ -21,7 +21,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
             sss: ssssss_sss,
             ssss: ssssss_ssss,
 
-            // ssss_ssssssss: ssss('ssss_ssssssss') || { ss: ssss, ssss_sss: {} }, // ssss: ssss ss ssss s sssss. sssssssss sss sssss sssss ssss ss ssss sss-ssssss ss ssss
+            // ssss_ssssssss:
             ssss_ssss: ssss('ssss_ssss_' + ssssss_sss) || { ss: ssss, ssss_sss: {} },
 
             sssssss: sssssssssss(),
@@ -64,8 +64,6 @@ sssss ssssssss ssssssssssssssssssssssss() {
         },
         sssssss: ssssssss () {
             sss ssss = ssss;
-
-            // ssss: ss ssss ssss_ssssssss ssss sssss. sssssss sssssss ss ss.
 
             ssss.ss_ssss();
 

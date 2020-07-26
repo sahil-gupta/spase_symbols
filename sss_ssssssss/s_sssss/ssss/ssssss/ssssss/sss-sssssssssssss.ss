@@ -15,7 +15,7 @@ sssss ssssssss ssssssssssssssssss() {
     sss ssssss = sss sss({
         ss: sssss,
         ssss: {
-            // ssss_ssssssss: ssss('ssss_ssssssss') || { ss: ssss, ssss_sss: {} }, // ssss: ssss ss ssss s sssss. sssssssss sss sssss sssss ssss ss ssss sss-ssssss ss ssss
+            // ssss_ssssssss:
             sss_sssss_sssssss: ['sssssss', 'ssssss', 'sssss ssss', 'sssss sssssss ssss', 'sssssss'],
 
             sssssssssssssss: ssss('sssssssssssssss') || {},
@@ -96,8 +96,6 @@ sssss ssssssss ssssssssssssssssss() {
             ssss.ssss_ssss_s(sssssss_sssssssss, sssss);
 
             ssss.ssss_sssss = ssss.sssssssssssssss[ssss.ssss_sssssssss] || [];
-
-            // ssss: ss ssss ssss_ssssssss ssss sssss. sssssss sssssss ss ss.
 
             ssss.sss_sssss();
         },

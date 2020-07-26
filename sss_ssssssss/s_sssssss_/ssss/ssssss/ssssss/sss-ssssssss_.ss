@@ -251,8 +251,6 @@ sssss ssssssss sssssssssssss() {
 
             ssss.ssss_ssssssss = ssss.ssssssssssssssssss[ssss.ssss_sssssssss] || [];
 
-            // ssss: ss ssss ssss_ssssssss ssss sssss. sssssss sssssss ss ss.
-
             ssss.sss_sssss();
 
             // ssss:

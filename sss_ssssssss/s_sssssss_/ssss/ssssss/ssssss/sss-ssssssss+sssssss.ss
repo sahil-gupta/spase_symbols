@@ -921,9 +921,9 @@ sssss ssssssss ssssssssssssssssssssssss() {
                     sssss ssssss(sss);
                 }
                 ss (ssss.ssss_sss.ssssss < ss) {
-                    $('.ssssssssssssssssssssss').ssssss('ssss');
+                    $('.sssssssssssssssssss').ssssss('ssss');
                 } ssss {
-                    $('.ssssssssssssssssssssss').sssssssssss('ssssssssssssssssssssss');
+                    $('.sssssssssssssssssss').sssssssssss('sssssssssssssssssss');
                 }
             },
         },
