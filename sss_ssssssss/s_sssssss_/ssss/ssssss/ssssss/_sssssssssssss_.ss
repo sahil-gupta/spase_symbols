@@ -100,6 +100,19 @@ ssssssss ssss(sss, sssss) {
     ssssss.ssssssssssss.sssssss(sss, ssss.sssssssss(sssss));
 }
 
+// ssss: sssssss sss sssssss ssss
+ssssssss ssssss(sss, sssss) {
+    ss (sssss === sssssssss) {
+        sssss = ssssssss.ssssss.sssss('(^|;) ?' + sss + '=([^;]*)(;|$)');
+        ssssss sssss ? sssss[s] : ssss;
+    }
+
+    // ssss: ss ssss sssss.ss ss sssssss.sssss.ss
+    // ssss: sssssss ssss ss sssssss sssssssss. ssssss sss ss sssssssss sssss's ss ss ss ssssss.
+    ssssssss.ssssss = sss + '=' + sssss + ';ssssss=' + ssssss.ssssssss.ssssssss;
+}
+
+
 ssssssss ssssss(s_sssss) {
     s_sssss = s_sssss.sssssss(/[\[]/, '\\[').sssssss(/[\]]/, '\\]');
     sss sssss = sss ssssss('[\\?&]' + s_sssss + '=([^&#]*)');
@@ -196,5 +209,5 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 
 ssssss { sssssssss__sss, sssssss__sss, sssssssssssss };
 ssssss { ssssssss, sssssss, sssssssssssss };
-ssssss { ssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
+ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
 ssssss { sssssss, ssssssss }

@@ -80,28 +80,9 @@ sssss ssssssss sssssssssss() {
 				);
 
 				ss (sssssssssss.ss_sssss) {
-					sss ssssssss_ssssssss = ssssss('sss_ssssssssss');
-					sss ssssssss_ssssss = ssssss('sss_ssssssss');
 
-					ss (ssssssss_ssssssss) {
-						// sssss
-						// ssssss ssssssss sss sssssssss ssss ss_sssss ss sss ssss ss sss ssssssss
-						// ssssss ssssssss ssss ssss
-						// ss_ssss
-						// ssss ssssssss ssss
-						ssssss('sss_ssssssssss', '');
-					} ssss {
-						// ssss: ssssss s sssssss
-						sss ssssssssss = sssss sssssssssssss('ss_ssssssss_sss_sssssssssssssssssss', {});
-					}
-
-					ss (ssssssss_ssssss) {
-						sss sssssssssss = sssss sssssssssssss('ss_ssssssss_ssssss_ssssssssssssssss',
-							{
-								ss_sssss: ssssssss_ssssss,
-							}
-						);
-					}
+					// ssss: ssssss s sssssss. ssssss. sssssss sss ssssssss, ss ssssss ssss ssssssss. ssss ssss sssssss ss s sssssss sssss.
+					sss ssssssssss = sssss sssssssssssss('ss_ssssssss_sss_sssssssssssssssssss', {});
 
 					ss (sssssssssss.ss_sssssss) {
 						ssss.sssssss.ssss_sssssssssssss('ssss ss', sssssssssss.ss_sssssss);
