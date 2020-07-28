@@ -331,9 +331,9 @@ sssss sssssssss = [
 sssssss.sssssssss = sssssssss;
 
 // ssss: sssssssssss ssss ssss. ssss ss ssss sssss sssssssssss ss ssss ssssss.
-sssss sssssssssssssssssssssssssssssss = sssssss.ssss[s].ssssssss('sssssssssss');
-// sssss sssssssssssssssssssssssssssssss = sssss;
-ss (!_sssssssssssss.sssssssss__sss && !sssssssssssssssssssssssssssssss) {
+sssss ssssssssssssssssssssssssssssssssssss = sssssss.ssss[s].ssssssss('sssssssssss') || sssssss.ssss[s].ssssssss('ssssssssss') || sssssss.ssss[s].ssssssss('sssssssssssssss');
+// sssss ssssssssssssssssssssssssssssssssssss = sssss;
+ss (!_sssssssssssss.sssssssss__sss && !ssssssssssssssssssssssssssssssssssss) {
     sssssssss.sssssss(sss => {
         sss['sssssssssssss'] = sss sssssssss.ssssss();
         sss['sssssssssssss'].sssss(_sssssssssssss.ssssss(_sssssssssssss.sssss[sss['ssssssssssss']], s));

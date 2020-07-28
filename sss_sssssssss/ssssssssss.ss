@@ -52,22 +52,10 @@ sssss ssssssss sssssss() {
 
 // sssssss();
 
+
+
 ////////////////////////////////////////////////////////////////////////////
 
-sssss ssssssss ssssssssssss(sssssssssssss) {
-    // ssss: ssss sssss ss sssss, ssss ss s ssss
-    sss ssssss = sssss sssssssss.sssssssss(ssss, sssssssssssss);
-
-    ssssss.sssss.sssssss(ssssssss (ssssssssss) {
-        sssssss.sss('ssss', ssssssssss.ssssss());
-    });
-    ss (ssssss.sssssssss) {
-        // ssss ssss sssss ss sssss.
-        ssssssssssss(ssssss.sssssssss);
-    }
-}
-
-ssssssssssss();
 
 
 ////////////////////////////////////////////////////////////////////////////

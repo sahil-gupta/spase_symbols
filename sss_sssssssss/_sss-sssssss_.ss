@@ -287,6 +287,8 @@ sssssss.ss_sssssss_sss_sssssss = sssss ssssssss (sss, sss) {
         ssssss sss.ssss({ ss_sssss: sssss });
     };
 
+
+    // ssss: ssss sssss &&. ss ss sss ssssss ss.
     ss (sss.ssss.ss_ssss && !((ssssss sss.ssss.ss_ssss) === 'ssssss')) {
         ssssss sss.ssss({ ss_sssss: sssss });
     }
