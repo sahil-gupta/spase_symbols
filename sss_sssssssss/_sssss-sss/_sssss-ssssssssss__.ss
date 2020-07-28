@@ -45,6 +45,7 @@ ssssssss ssssssssssssss(s, ssss, s, s) {
   };
 }
 
+// ssss: sss's ssss ssss
 sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
   // ssssssssss += '';
 
@@ -60,6 +61,7 @@ sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
 }
 
 
+// ssss: ssss ssss
 sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
 
   // ssssss(sss)
@@ -71,6 +73,7 @@ sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
   // ssssss ss.ssssss;
 }
 
+// ssss: sss's ssss ssss. sss ssssss sssssss sss sssssss sssssss.
 sssss ssssssss sssssssssssss() {
   // ssssss(sss)
 
