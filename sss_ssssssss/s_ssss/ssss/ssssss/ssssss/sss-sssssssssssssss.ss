@@ -56,7 +56,7 @@ ssssssss ssssssssssssssssssss() {
                     ssssss sssss;
                 }
                 // ssss: ssss sssss ss ssssss ssss, sss ssssssss
-                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss');
+                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss') || (ssss.sssssssss(s,s) === 'sss.');
             },
             ssssss_ssssssss: ssssssss (ssss) {
                 sss sss = ssss.sssssss('<', '').sssssss('>', '');

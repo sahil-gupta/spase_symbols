@@ -107,7 +107,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                     ssssss sssss;
                 }
                 // ssss: ssss sssss ss ssssss ssss, sss ssssssss
-                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss');
+                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss') || (ssss.sssssssss(s,s) === 'sss.');
             },
             ssss_ssssss_ssssss: ssssssss (sssssssssssssssssss) {
                 sss ssss = ssss;

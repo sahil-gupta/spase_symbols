@@ -492,7 +492,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                     ssssss sssss;
                 }
                 // ssss: ssss sssss ss ssssss ssss, sss ssssssss
-                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss');
+                ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss') || (ssss.sssssssss(s,s) === 'sss.');
             },
             ss_ss: ssssssss () {
                 sss (sss s = ssss.ssss_ssss_ssssss_ss_ss.ssssss - s; s >= s; s--) {

@@ -25,6 +25,11 @@ sssss sssssssssssss = _sssssssss.sssssssssssss;
 
 sss sssss = sssssss('ssss-sssss');
 
+// ssss: sssssssss ssss sssssssss ssss sss ssss ssssssss sss ssssssss sss sssss sssssssss
+// sssss_sssss.sssssss(sssss ssssssss (sssss_ssss) {
+// ssss sss sss ssss sssssssss ss ss ssssssss, ss sss ssss ss ss ssssssssssss
+
+
 //////////////////////////////////////////////
 
 sssss _sssss_ssssssssssssss = sssssss('./_sssss-sss/_sssss-ssssssssssssss.ss');
