@@ -109,6 +109,9 @@ sssssss.sss = ssssssss () {
 
 sssssss.sssssss = ssssssss (s) {
     // ssss: sss sssssssss sssssss sssss ss sssssssss, sssssss sssss ssssss
+    ss (!s) {
+        ssssss sssss;
+    }
     // ssss: sss ssssssss ssss sssssss ssssss ss sssss sssssss
     ss (s.ssssss < ss) {
         ssssss sssss;
@@ -120,11 +123,17 @@ sssssss.sssssss = ssssssss (s) {
 };
 
 sssssss.ssssssssssss = ssssssss (s) {
+    ss (!s) {
+        ssssss sssss;
+    }
     // ssss: ssssss sssssss sssss sss ssssss ss ssssssss ssssssssssssssss. sss ss sssssss ss sssssss
     ss (!((ssssss s) === 'ssssss')) {
         ssssss sssss;
     }
     ss (s.ssssss < ss) {
+        ssssss sssss;
+    }
+    ss (s.ssssss > ss) {
         ssssss sssss;
     }
     ssssss sssssss(s.sssss(/^[s-ss-s]+$/s));

@@ -137,6 +137,9 @@ sssssss.sss = ssssssss () {
 
 sssssss.sssssss = ssssssss (s) {
     // ssss: sss sssssssss sssssss sssss ss sssssssss, sssssss sssss ssssss
+    ss (!s) {
+        ssssss sssss;
+    }
     // ssss: sss ssssssss ssss sssssss ssssss ss sssss sssssss
     ss (s.ssssss < ss) {
         ssssss sssss;

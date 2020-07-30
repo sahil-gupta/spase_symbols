@@ -277,22 +277,12 @@ sssssss.ss_sssssss_sss_sssssss = sssss ssssssss (sss, sss) {
 
     // ssss: sssss sssssss sssssssssss sss ssssssssssssssss sss sssssssssssssssss
 
-    ss (!sss.ssss.ss_ss) {
-        ssssss sss.ssss({ ss_sssss: sssss });
-    }
-    ss (!((ssssss sss.ssss.ss_ss) === 'ssssss')) {
-        ssssss sss.ssss({ ss_sssss: sssss });
-    }
     // ssss: ssss ssssssssss sssssss sssssss ssss
     ss (!_sssssssss.ssssssssssss(sss.ssss.ss_ss)) {
         ssssss sss.ssss({ ss_sssss: sssss });
-    };
-
+    }
 
     // ssss: ssss sssss &&. ss ss sss ssssss ss.
-    ss (sss.ssss.ss_ssss && !((ssssss sss.ssss.ss_ssss) === 'ssssss')) {
-        ssssss sss.ssss({ ss_sssss: sssss });
-    }
     ss (sss.ssss.ss_ssss && !_sssssssss.ssssssssssss(sss.ssss.ss_ssss)) {
         ssssss sss.ssss({ ss_sssss: sssss });
     }
