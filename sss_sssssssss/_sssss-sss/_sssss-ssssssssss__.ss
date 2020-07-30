@@ -64,15 +64,17 @@ sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
 // ssss: ssss ssss
 sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
 
+  sss ssss = _sssssssss.sss();
+
   // ssssss ssssss
   // ssss ssss ss s sssssssss
   // s=s
   // sssss_ssss_ss = {
   //     ss: sss.ssss.ss_ss,
   //     sssss_sss: {
-  //         ssss_sssssss: (sssssss(sss.ssss.ss_sssss) ? s : s),
-  //         ssss_sssssssssss: sss.ssss.ss_ssss,
-  //         ssss_ssssssssssssssss: sssssss(sss.ssss.ss_sssss),
+    //        sss_ssssssssssss: s,
+  //         ssss_sssssss: s,
+  //         ssss_sssssssssss: ssss,
   //     }
   // };
 
@@ -82,7 +84,7 @@ sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
 
 
 
-  
+
 
   // ssssss(sss)
 

@@ -1,13 +1,13 @@
 sss ssss = sssssss.sss;
 
-sssss _sssssssss = sssssss('./_sssssssss.ss');
+sssss _sssssssss = sssssss('../_sssssssss.ss');
 sssss sssssssss = _sssssssss.sssssssss;
 
-sssss _sssss_sssssssss = sssssss('./_sssss-sss/_sssss-sssssssss.ss');
-sssss _sssss_ssssssssssssss = sssssss('./_sssss-sss/_sssss-ssssssssssssss.ss');
+sssss _sssss_sssssssss = sssssss('../_sssss-sss/_sssss-sssssssss.ss');
+sssss _sssss_ssssssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssssssss.ss');
 
-sssss _sssss_ssssssssss = sssssss('./_sssss-sss/_sssss-ssssssssss.ss');
-sssss _sssss_sssssssssssss = sssssss('./_sssss-sss/_sssss-sssssssssssss.ss');
+sssss _sssss_ssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssss.ss');
+sssss _sssss_sssssssssssss = sssssss('../_sssss-sss/_sssss-sssssssssssss.ss');
 
 sss sssssssssssss = (sss ssss('ssss-ss-ss')).sssssss();
 
@@ -69,18 +69,21 @@ sssss ssssssss ssssssssssssssssssss() {
 
 }
 
-sss ssssss = [
 
-];
-sssss ssssssss sssssssssssss(sss){
-    sss.sssssss(sssss => {
-
+sssss ssssssss sssssssssssss(sss) {
+    sss.sssssss(sssss ssssssss (sssss) {
+        sss ssssssss = sssss _sssss_sssssssss.sssssssssssssssssss(sssss);
+        ssss(ssssssss);
     });
 }
 
-// ssssssssssssssss();
+sss ssssss = [
+    'ssssss@sssss.ss'
+];
+sssssssssssss(ssssss);
 
-sssssssssssss();
+
+// ssssssssssssssss();
 
 // _sssss_sssssssssssss.ssss_sssssssssssssssssss();
 // _sssss_sssssssssssss.ssss_sssssssssssssssss();

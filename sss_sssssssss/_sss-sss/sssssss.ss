@@ -1,16 +1,16 @@
 sss ssss = sssssss.sss;
 sssss ss = sssssss('ss');
 
-sssss _sssssssss = sssssss('./_sssssssss.ss');
+sssss _sssssssss = sssssss('../_sssssssss.ss');
 sssss sssssssss = _sssssssss.sssssssss;
 
 // sss sssssssss = sssssss('./sssssssss.ss').sssssss;
 // sss ssssssssssss = ss.ssssssssssss('./sssss.ssss', 'ssss');
 
-sssss _sssss_ssssssssss = sssssss('./_sssss-sss/_sssss-ssssssssss.ss');
+sssss _sssss_ssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssss.ss');
 
-// sssss sssssssss = sssssss('./sssss_ssss/sssssssss.ss').ssss;
-// sssss ssssssss = ss.ssssssssssss('./sssss_ssss/s_ssssssssss.ssss', 'ssss');
+// sssss sssssssss = sssssss('./_ssss-sss/sssssssss.ss').ssss;
+// sssss ssssssss = ss.ssssssssssss('./_ssss-sss/s_ssssssssss.ssss', 'ssss');
 
 // ssss:
 // sss sssssss sssssssss/ssssssssss ssss ss sssssssss. ssss sssss_sssssss ss sss ssssssssssss

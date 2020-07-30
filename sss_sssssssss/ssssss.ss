@@ -23,8 +23,7 @@ sss s's sssss ssss ssss sss ssssssssss
     sssssss sss sss ss sssssss sss sssss ssssss
 
 ssss
-- sssssss ssss sss sssss sss ssss sssssss sssssss sssss ssss. ss ssss ssss ss sssss ss ssssssss
-- ss sssssss sss's ss sssss
+- sssssss ssss sss sssss sss ssss. ssss ssss ss sssss ss sss --sssssssss. ss sssssss sss's ss --sssssssss
 
 ------------------------------------------------------------
 
