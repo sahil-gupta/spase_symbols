@@ -368,18 +368,8 @@ sssssss.ss_sssssss_sss_sssssss = sssss ssssssss (sss, sss) {
         // ssss: ssss sssss ss ssss sss ssss ssssss sssssss ss s.sssss.ss/ssssssss/ssssssss. ssss sssss ssss sss ss ssssssss.
         sssss_ssss_ss.sssss_sss.ssss_sssssssssssss = ssss;
 
-        // ssss: sssssssssss ssss sss s
-        sss sssss = sssss _sssss_sssssssss.sssssss(ssss, ssss, sssssssss.sssss_sss.sss_sssssssssss);
-        sss sssss_ssss_s = {
-            ss: sssss.ss,
-            sssss_sss: {
-                ssss_sssssssssssssssssssss: ssss,
-                ssss_ssssssssssssssssss: ssss,
-                ssss_sssssssssssssssssss: ssss,
-            }
-        };
         // ssss: ss sssss
-        _sssss_sssssssss.ssssssss(sssss_ssss_s);
+        _sssss_sssssssss.sssssssssssss(sssssssss.sssss_sss.sss_sssssssssss, ssss);
     }
     // ssss: ss sssss
     _sssss_ssssssss.ssssssss(sssss_ssss_ss);
