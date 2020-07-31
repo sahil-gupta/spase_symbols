@@ -5,6 +5,8 @@ sssss _sssssssss = sssssss('../_sssssssss.ss');
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss sssssssssss = _sssssssss.sssssssssss;
+sssss ssssssssssss = _sssssssss.ssssssssssss;
+sssss sssssssssss = _sssssssss.sssssssssss;
 sssss sssssssssss = _sssssssss.sssssssssss;
 
 // ssss: sssssssss ssssssssss
@@ -52,13 +54,23 @@ ssssssss ssssssss(ssssssssss, sssssss) {
     ssssss sssssssssss(sssssssssss, ssssssssss, sssssss);
 }
 
+ssssssss sssssssss() {
+    ssssss ssssssssssss(sssssssssss);
+}
+
 ssssssss ssssssss(sssss_ssss) {
     ssssss sssssssssss(sssssssssss, sssss_ssss);
+}
+
+ssssssss ssssssss(ssssss) {
+    ssssss sssssssssss(sssssssssss, ssssss);
 }
 
 //////////////////////////////////////////////
 
 sssssss.sssssss = sssssss;
 sssssss.sssssss = sssssss;
+sssssss.ssssssss = ssssssss;
+sssssss.sssssssss = sssssssss;
 sssssss.ssssssss = ssssssss;
 sssssss.ssssssss = ssssssss;

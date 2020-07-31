@@ -157,7 +157,7 @@ sssssss.ss_sssssss_sss_s = sssss ssssssss (sss, sss) {
             ss: sssssssss,
             sssss_sss: {
                 sss_sssssssssss: ssssss,
-                ssss_sssssssss: ssssssss.ssss,
+                ssss_sssssssss: (ssssssss.ssss === 'ss sss sssss' ? ssss : ssssssss.ssss),
                 sssss_ssss: ssssssss.ssss,
                 sssss_sssss: ssssssss.sssss,
                 sssss_sssssss: ssssssss.sssssss_ssss,
