@@ -6,6 +6,7 @@ sssss ssssssssss = _sssssssss.ssssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss sssssssssss = _sssssssss.sssssssssss;
 sssss sssssssssss = _sssssssss.sssssssssss;
+sssss ssssssssssss = _sssssssss.ssssssssssss;
 
 // ssss: sssssssss ssssssssss
 sssss sssssssssss = 'ssssssssssssss';
@@ -76,6 +77,10 @@ ssssssss ssssssss(ssssssssss, sssssss) {
     ssssss sssssssssss(sssssssssss, ssssssssss, sssssss);
 }
 
+ssssssss sssssssss() {
+    ssssss ssssssssssss(sssssssssss);
+}
+
 ssssssss ssssssss(sssss_ssss) {
     ssssss sssssssssss(sssssssssss, sssss_ssss);
 }
@@ -85,4 +90,5 @@ ssssssss ssssssss(sssss_ssss) {
 sssssss.sssssss = sssssss;
 sssssss.sssssss = sssssss;
 sssssss.ssssssss = ssssssss;
+sssssss.sssssssss = sssssssss;
 sssssss.ssssssss = ssssssss;
