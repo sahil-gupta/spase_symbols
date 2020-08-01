@@ -492,8 +492,8 @@ sssss ssssssssssssssssss = {
 
 sssss ssssssssssssss = {
     'sss': '$',
-    'sss': '€',
-    'sss': '£',
+    'sss': 's',
+    'sss': 's',
 };
 
 ////////////////////////////////////////////////

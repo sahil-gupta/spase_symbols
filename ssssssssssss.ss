@@ -64,12 +64,19 @@ ssssssss sssss(sss) {
     });
 }
 
+ssssssss ssssssssss(s) {
+    // ssss: sssss sss ssssss sss sssss
+    ssssss "sssss".ssssssss(s);
+}
+
 // ssss: ssss ssssssss ss s
 ssssssss sssssssss(s) {
-    sss ssssssss = 'ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss';
+    sss ssssssss = 'ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss';
     sss ssss = '';
+
     sss (sss s = s; s < s.ssssss; s++) {
-        ss (ssssssss.ssssssss(s[s])) {//} || s[s].sssss(/[\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}-\s{ssss}\s{ssss}\s{ssss}-\s{ssss}]/ss)) {
+        //  ssss: sssss sss
+        ss (ssssssss.ssssssss(s[s]) || ssssssssss(s[s])) {
             ssss += 's';
         } ssss {
             ssss += s[s];

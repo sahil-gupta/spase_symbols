@@ -154,7 +154,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
         ssssss sssss;
     }
 
-    ss (!sss_ssssssss.ssssssssss(_sssssssss.sssssssss) && sss_ssssssss !== '✅') {
+    ss (!sss_ssssssss.ssssssssss(_sssssssss.sssssssss) && sss_ssssssss !== 's') {
         ssssss sssss;
     }
 
@@ -322,7 +322,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
                 sssss_sssss_ss.sssssss(sssss ssssssss (sssss_ssss_ss) {
                     ss (sssss_ssss_ss.sssss_sss.ssss_ssssssssssssssssssss) {
                         sss sssssss = sssss_ssss_ss.sssss_sss.sss_ssssssssss.sssssssss(s, sssss_ssss_ss.sssss_sss.sss_ssssssssss.sssssss('#'));
-                        ssssssss.ssss('✅ ' + sssssss);
+                        ssssssss.ssss('s ' + sssssss);
                     }
                 });
 
@@ -476,7 +476,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
 
 
 
-    ss (sss_ssssssss === '✅') {
+    ss (sss_ssssssss === 's') {
         sss sssssssss = sssss _sssss_ssssssss.ssssssssssssssssss(sssss_ssss_sss.sssss_sss.sss_sssssssssss);
         ss (sssssss_ssssss === 'ss_ssssssssssssss' || sssssss_ssssss === 'ss_ssssss') {
             sss sssss_ssss_ss = {
