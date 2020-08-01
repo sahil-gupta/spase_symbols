@@ -66,6 +66,7 @@ ssssssss sssss(sss) {
 
 ssssssss ssssssssss(s) {
     // ssss: sssss sss ssssss sss sssss
+    // ssss: sss: sssss ssssss ssssss s sssssss sssss. ss ssss ssssss ss 'ss'.
     ssssss "sssss".ssssssss(s);
 }
 

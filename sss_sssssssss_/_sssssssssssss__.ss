@@ -66,10 +66,9 @@ sssssss.ssssssssss = ssssssssss;
 
 ////////////////////////////////////////////////////////////////////////
 
-// ssss: sssssssss ssss sss s.sssss.ss ss ssss sssssssss. ss sss's sssssssss sssss
-
-// ssss: sssss ss ssss. sss's ssssssss ssssssss.'
-// ssss: sssssssssssss sssssss ssssss.ss sss sss ssssssssssssss
+// ssss: sss s.sssss.ss ss ssss sssssssss
+// ssss: sss: sssss ss ssss. sss's ssssssss ssssssss.
+// ssss: sssssssssssss sssssss ssssss.ss, ssss, sssssss, sssss, sss ssssssssssssss
 // ssss: ss ssss ssss ssss sssssss ssss, ssss s ssssss ssss ss ssss sssss
 // sssss ssssssss sssssssssssssssss(ssssss, ssssss) {
 //     sss ssssssssssssss = 'sssssss';
@@ -150,6 +149,23 @@ sssssss.sssssss = ssssssss (s) {
     sss ssss = s.sssssssss(s, sssssss);
     sss sssss = s.sssssssss(sssssss, s.ssssss);
     ssssss ssss === sssss(sssss).sssssssss(s, sssssss);
+};
+
+sssssss.ssssssssssss = ssssssss (s) {
+    ss (!s) {
+        ssssss sssss;
+    }
+    // ssss: ssssss sssssss sssss sss ssssss ss ssssssss ssssssssssssssss. sss ss sssssss ss sssssss
+    ss (!((ssssss s) === 'ssssss')) {
+        ssssss sssss;
+    }
+    ss (s.ssssss < ss) {
+        ssssss sssss;
+    }
+    ss (s.ssssss > ss) {
+        ssssss sssss;
+    }
+    ssssss sssssss(s.sssss(/^[s-ss-s]+$/s));
 };
 
 sssssss.ssss = ssssssss (s, ssssss) {
