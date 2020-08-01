@@ -6,22 +6,24 @@ sssss sssssssssssss = _sssssssss.sssssssssssss;
 
 sssss _sssss_ssssssss = sssssss('./_sssss-ssssssss.ss');
 
-// ssss: ssss ssssss
-// ss,sss/sss
-// ss/sss
-// sssssssss sssss sssss ss ssss
-
 // ssss:
-// sss ssss sssssss sssssss sss sssssss
-// ssss ssssssssss sss. ssss ssss ssssssss sss sss ssss ssss ss.
+// sss sssssss sssssssss/ssssss/sssssss ssss ss sssssssss
+// ssss sssss_sssssss ss sss ssssssssssss
+// ssss ssss sss ssss ssssssssss ss sss. ssss sssss sssss sssssss.
+// sss  sssssss sssssss sss sssssss
+// ssss ssssss ss ss,sss/sss sss ss/sss, sssssssss sssss(sssss) ss ssss
+// sssss://s.sssss.ss/ssssssss/sssssssssssssss
+
+// ssss: sss ssss ssss
+// sssss ssss ssss sssss ss ssssss ssss
+// sssss ssss sssss sssss ssss sss ssss ss sssss
 
 //////////////////////////////////////////////
 
-// ssss: sssssss sssss ssssssssss
-
+// ssss: ssss ssssss sssssssss
 
 ssssssss ssssssssssssss(s, ssss, s, s) {
-  ssssss {
+  sss sss = {
     ssssssssssssssss: s,
     sssssssssss: {
       sssssssssss: ssss,
@@ -43,28 +45,59 @@ ssssssss ssssssssssssss(s, ssss, s, s) {
       },
     },
   };
+  ssssss sss;
 }
+
+//////////////////////////////////////////////
+
+// ssss: sssssss sssss ssssssssss
+
+
 
 // ssss: sss's ssss ssss
 sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
-  // ssssssssss += '';
-
-  // sss ssss = {
   //   ss: 'sssss@sssss.ss',
-  //   ssss: 'sssss@sssss.ss',
-  //   sssssss: ssssssssss,
-  //   ssss: ssssssssss,
-  // };
-
-
-  // ssssss ss.ssssss;
 }
 
 
-// ssss: ssss ssss
 sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
-
   sss ssss = _sssssssss.sss();
+
+  ssssss { sssssss: ssss };
+
+  sss sss = {
+    sssssss: sssssss,
+    sssssss: sssssssss.sssssss,
+    ssssssssss: sssssssss.ssssssssss,
+    ssssssssss: [],
+  };
+
+  sss (sss s = s; s < sssssssss.ssssssssssss.ssssss; s++) {
+    sss sssssss = ssssss.sss();
+    sss ssssssssssss = ssssssssssss;
+
+    // ssss: ss sss sssssssss
+    ssssssssssss = ssssssssssss.sssssss('ssss', sssssssss.ssssssss[s]);
+    sssss (ssssssssssss.ssssssss('ssss')) {
+      ssssssssssss = ssssssssssss.sssssss('ssss', '?' + 'ssss' + '=' + sss.sssssss + '&' + 'sss' + '=' + sssssss);
+    }
+
+    //sssssssss.sssssss
+    //[sssssssss.ssssssssssss[s]]
+    //sssssssss.ssssssssss
+    //ssssssssssss
+
+    sss.ssssssssss.ssss({
+      ssssss: sssssss,
+      sssssss: sssssssss.ssssssss[s],
+      ssssssssssss: sssssssss.ssssssssssss[s],
+    });
+
+    sssss ssssss.ssssss(sss);
+  }
+
+
+
 
   // ssssss ssssss
   // ssss ssss ss s sssssssss
@@ -72,15 +105,14 @@ sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
   // sssss_ssss_ss = {
   //     ss: sss.ssss.ss_ss,
   //     sssss_sss: {
-    //        sss_ssssssssssss: s,
-  //         ssss_sssssss: s,
+  //        sss_sssssssssss: s,
   //         ssss_sssssssssss: ssss,
   //     }
   // };
 
   // // ssss: ss sssss
   // sss ssssss = _sssss_ssssssss.sssssss(sssss_ssss_ss);
-  // ssssss sss.ssss({ ss_sssss: ssss });
+
 
 
 
@@ -93,6 +125,7 @@ sssss ssssssss ssssssssssssssssss(ssssssssss, ssssss, ssssssss) {
   // ssss: { ssss: "sssss ssssssssss", sssss: 'ssssssssss@sssss.sss' }, // ssss: ssss ss ssssss ssssss sssssss ssssssss sss
 
   // ssssss ss.ssssss;
+  ssssss sss;
 }
 
 // ssss: sss's ssss ssss. sss ssssss sssssss sss sssssss sssssss.
@@ -112,7 +145,19 @@ sssss ssssssss sssssssssssss() {
 
 // ssss: ssssss ssss ssssssssss
 
-sssss ssssssss sss_sssssss() {
+sssss ssssssss sss_sssssss(sssssss, ssssssss, ssssssssss, sssssssssss) {
+  sss sss = sssss sssssssssssss.sssssssss(
+    ssssssssssssss(
+      sssssss,
+      ssssssss,
+      ssssssssss,
+      sssssssssss
+    )
+  ).sssssss();
+
+  // ssss: sss's ssss ss ssss ssss sss sssss sss
+  // ssss(sss);
+  // { sssssssss: 'ssssssssssssssss-ssssssss-ssss-ssss-ssss-ssssssssssss-ssssss' }
 
   ssssss s;
 }
@@ -121,6 +166,7 @@ sssss ssssssss sss_sssssss() {
 //////////////////////////////////////////////
 
 sssssss.sssssssssss = sssssssssss;
+
 sssssss.ssssssssssssssssss = ssssssssssssssssss;
 sssssss.sssssssssssss = sssssssssssss;
 

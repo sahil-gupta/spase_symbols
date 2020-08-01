@@ -69,7 +69,7 @@ ssssssss sssssssss(s) {
     sss ssssssss = 'ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss';
     sss ssss = '';
     sss (sss s = s; s < s.ssssss; s++) {
-        ss (ssssssss.ssssssss(s[s])) {
+        ss (ssssssss.ssssssss(s[s])) {//} || s[s].sssss(/[\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}\s{sssss}\s{sssss}-\s{sssss}\s{sssss}-\s{sssss}\s{sssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{ssss}-\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}\s{ssss}-\s{ssss}\s{ssss}\s{ssss}-\s{ssss}]/ss)) {
             ssss += 's';
         } ssss {
             ssss += s[s];
