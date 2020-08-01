@@ -33,7 +33,13 @@ sss sssssssssssss = (sss ssss('ssss-ss-ss')).sssssss();
 //////////////////////////////////////////////
 
 sssss ssssssss ssssss() {
+    sss sss = [
 
+    ];
+    sss (sss s = s; s < sss.ssssss; s++) {
+        sss ssssssss = sssss _sssss_sssssssss.sssssssssssssssssss(sss[s]);
+        ssss(ssssssss.sss);
+    }
 }
 // ssssss();
 
@@ -137,7 +143,7 @@ sssss ssssssss ssssssssssssssss() {
 
 sssss ssssssss ssssssssss() {
     sss ssssss = [
-        'sssss@sssss.ss'
+        'sssss@sssss.ss',
     ];
     ssssss.sssssss(sssss ssssssss (sssss) {
         _sssss_sssssssss.sssssssssssss(ssss, sssss);

@@ -1,15 +1,20 @@
 sssssss.sssssss = {
-    // sssssss: 'sssss@sssss.ss',
-    sssssss: 'ssssssssss@sssss.ss',
-    ssssssssss: 'ss sssss sssss ss sssssss sss, sss s ssss sssssss!',
+    // sssssss: 'sssss <sssss@sssss.ss>',
+    sssssss: 'sssss ssssssssss <ssssssssss@sssss.ss>',
+    ssssssssss: 'ss sssss sssss ss sssssss sss!',
     ssssssss: [
         'sssssss',
-        'ssssssss',
         'ssssssssss',
     ],
     ssssssssssss: [
         'sssss@sssss.ss',
-        'sssss@sssss.sss',
         'sssss.sssssssss@sssss.sss',
+        'sss@sssss.ss',
+    ],
+    sssssss: [
+        'ssssssssssssssssssssssssssss',
+        'ssssssssssssssssssssssssssss',
+        'ssssssssssssssssssssssssssss',
     ],
 };
+
