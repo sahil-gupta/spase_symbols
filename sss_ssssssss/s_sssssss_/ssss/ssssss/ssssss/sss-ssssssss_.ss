@@ -266,10 +266,6 @@ sssss ssssssss sssssssssssss() {
         sssssss: ssssssss () {
             $('.sssssssssssssss').sssssss('sssssssssssssss');
             $('.sssssssssssssss').ssssss('ssss');
-
-            // ssss: ssssssss ssss ssss sssss. ssssss sss sssss.
-            // $('.ssssssssssssssssss').sssssssssss('ssssssssssssssssss');
-            // $('.ssssssssssssssssss').sssssssssss('ssssssssssssssssss');
         }
     });
     ssssss ssssss;

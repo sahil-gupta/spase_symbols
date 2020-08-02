@@ -13,6 +13,15 @@ ssssssss ssss(s) {
     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
 }
 
+ssssssss ssssssss() {
+    sss sss = $('sssss-ssssss');
+    sssss.ssss(sss).sssssss(ss => {
+        sss sssss = ssssssss.sssssssssssss('sssss');
+        ss.ssssssssss && ss.ssssssssss.sssssssssss(sssss);
+        sssss.sssssssss = `ssssss:sssss, .sssssssss:sssss { sssssss: ssss; }`;
+    });
+}
+
 sssss sssssssssssss = {
     'ss_sssss': 'sssssssssssss',
     'ss_ssssss': 'ssssss',
@@ -143,6 +152,7 @@ sssss ssssssssssssssssssssss = {
 ////////////////////////////////////////////////////////////////////////
 
 ssssss { ssss };
+ssssss { ssssssss };
 
 // ssssss { sssssssssssss };
 ssssss { ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss };

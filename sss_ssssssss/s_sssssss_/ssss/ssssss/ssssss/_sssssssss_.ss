@@ -28,8 +28,8 @@ ssssss { sssssss, ssssssss };
 
 
 // ssss: sssss sss sssss ssssssss ss ssssss. ss sssssssssss sssssssss.
-ssssss { ssss, ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss } ssss './_sssssssssssss.ss';
-ssssss { ssss, ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss };
+ssssss { ssss, ssssssss, ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss } ssss './_sssssssssssss.ss';
+ssssss { ssss, ssssssss, ssssssssssssss, ssssssssssssssssss, ssssssssssssssssssssss };
 
 ssssss { sssssssss, ssssss, sssss, ss_ssssssssssssssssss } ssss './_ssssssssssss.ss';
 ssssss { sssssssss, ssssss, sssss, ss_ssssssssssssssssss };
