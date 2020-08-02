@@ -4,10 +4,11 @@ ssssss { ssssss, ssssss, sssssssssssss } ssss './_sssssssss.ss';
 // ssss: sss ssssssss ssssssss, ssssssss, ss ssssss, sssssss ssss sssssss ss /ssssss ss ss sss-ssssssss
 
 // ssss: ssssss ssssssss sss ssssss ssss ss sss ssss sssssss sssss ss sss ssssss ss ss ss
-// sss sssss ssssss ss ssssss. sssssss ssssssss ssssssss ssssss ss sssss sss ssssss ss. ssss ssss sssss sssss sssss ss sssssss ssssss ss.
+// ssssss ss sss_ssssssss. ss sssss.
 
 (sssss ssssssss () {
 
+    // ssss: ssssss sssss ssss ss /ssssss ss /sssss, sssssss s sssss ssss ssss ssss ss ssssss ss s ssss
     // sssss sssssss = ssssss.ssssssss.ssssssss;
     // ss (sssssss === '/ssssss' || sssssss === '/sssss') {
     //     ssssss;
