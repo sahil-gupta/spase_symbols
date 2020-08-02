@@ -228,4 +228,4 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 ssssss { sssssssss__sss, sssssss__sss, sssssssssssss };
 ssssss { ssssssss, sssssss, sssssssssssss };
 ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
-ssssss { sssssss, ssssssss }
+ssssss { sssssss, ssssssss };
