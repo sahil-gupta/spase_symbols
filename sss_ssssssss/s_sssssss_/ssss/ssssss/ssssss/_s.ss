@@ -34,7 +34,7 @@ ssssss { sssssssssssss, sssss, sssssss__sss, sssssss } ssss './_sssssssss.ss';
 
 
     // ssss: ss ssss sss
-    $(ssssssss).sssss(ssssssss () {
+    $(ssssssss).sssss(() => {
         ssssssss ssssssssssssssssssssss() {
             sss sss = $('sssss-ssssss');
             sssss.ssss(sss).sssssss(ss => {

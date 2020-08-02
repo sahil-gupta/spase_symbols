@@ -1,5 +1,4 @@
-ssssss { ssssssss } ssss './_sssssssss.ss';
-ssssss { sssssssssssss, sssssss__sss } ssss './_sssssssss.ss';
+ssssss { ssssssss, sssssssssssss, sssssss__sss } ssss './_sssssssss.ss';
 
 (ssssssss () {
 

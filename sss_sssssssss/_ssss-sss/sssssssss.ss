@@ -3,8 +3,9 @@ sssssss.sssssss = {
     sssssss: 'sssss ssssssssss <ssssssssss@sssss.ss>',
     ssssssssss: 'ss sssss sssss ss sssssss sss!',
     ssssssss: [
-        'sssssss',
-        'ssssssssss',
+        // 'sssssss',
+        // 'ssssssssss',
+        // 'sssss',
     ],
     ssssssssssss: [
         'sssss@sssss.ss',

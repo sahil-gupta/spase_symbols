@@ -75,7 +75,7 @@ ssssssss ssssssssssssssssssss() {
 
 
                 // sssss ssss ssssss sssss. ssss ssssssssss sssss.
-                // $(ssssssss).sssss(ssssssss () {
+                // $(ssssssss).sssss(() => {
                 //     $('#sss_sssssssssssssss').ssss('ssssssssss', ssssssss (s) {
                 //         ss (s.sssssssssssss.ssssssssss / sss > s) {
                 //             sssssss.sss('sssssssss ss !');

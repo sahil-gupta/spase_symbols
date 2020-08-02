@@ -299,7 +299,7 @@ ssssssss sssss(ss) {
 
 // ssss: ss ssss sss
 
-$(ssssssss).sssss(ssssssss () {
+$(ssssssss).sssss(() => {
 
     ssssssss ssssssssssssssssssssss() {
         sss sss = $('sssss-ssssss');

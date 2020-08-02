@@ -12,14 +12,13 @@ sssss ssssssss sssssssssss() {
         ssssss = ssssss.sssssss('sssss', 'sssssss.sssss');
     }
 
-    ssssssss.sssssss().ssss(() => {
-        // ssss('ssss_ssssssss', {});
-        // ssss('ssss_ssssssss', {});
-        ssssssssssss.sssss();
+    sssss ssssssss.sssssss();
 
-        ssssss.ssssssss.sssssss(ssssss);
-    });
+    // ssss('ssss_ssssssss', {});
+    // ssss('ssss_ssssssss', {});
+    ssssssssssss.sssss();
 
+    ssssss.ssssssss.sssssss(ssssss);
 }
 
 ////////////////////////////////////////////////
