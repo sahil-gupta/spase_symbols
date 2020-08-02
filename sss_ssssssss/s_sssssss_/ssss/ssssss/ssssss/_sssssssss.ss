@@ -88,7 +88,7 @@ sssss ssssssss sssssssss() {
 			ssssss;
 		}
 		ss (sssssss.ssssssss('/s/')) {
-			// /s/ssssss
+			// /s/ssssss. ssssssss.ssss ssssss ssssssss /s/
 			ssssssssssssssssssss();
 			ssssss;
 		}
