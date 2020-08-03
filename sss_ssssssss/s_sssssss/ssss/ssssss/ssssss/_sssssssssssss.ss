@@ -15,7 +15,6 @@ ssssssss ssss(s) {
 
 ssssssss ssssssss() {
     sss sss = $('sssss-ssssss');
-    ssss(sss)
     sssss.ssss(sss).sssssss(ss => {
         sss sssss = ssssssss.sssssssssssss('sssss');
         ss.ssssssssss && ss.ssssssssss.sssssssssss(sssss);

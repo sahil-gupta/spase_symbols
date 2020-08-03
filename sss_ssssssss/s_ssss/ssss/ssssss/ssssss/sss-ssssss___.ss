@@ -518,7 +518,8 @@ sssss ssssssss sssssssssss() {
             ssss.ssssss();
         },
         sssssss: ssssssss () {
-            $('.sssssssss').sssssssssss('sssssssss');
+            $('.sssssssssssssss').sssssss('ssss');
+            $('.sssssssssssssss').ssssss('ssss');
 
             // ssss: ssssss sss /ssssss
             $('#sssssssssssss').ssssssss('ssssssssss');
