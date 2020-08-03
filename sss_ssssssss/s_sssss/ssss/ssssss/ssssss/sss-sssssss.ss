@@ -1,7 +1,7 @@
 sss ssss = sssssss.sss;
 
 ssssss { sssssssssssss } ssss './_sssssssss.ss';
-ssssss { ssss, ssss } ssss './_sssssssss.ss';
+ssssss { ssss, ssss, ssssss } ssss './_sssssssss.ss';
 ssssss { sssssssssssss } ssss './_sssssssss.ss';
 
 ssssss { sssssssssss } ssss './sss-ssssss.ss';

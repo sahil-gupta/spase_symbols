@@ -10,12 +10,12 @@ sssssss.sssssss = {
     ssssssssssss: [
         'sssss@sssss.ss',
         'sssss.sssssssss@sssss.sss',
-        'sss@sssss.ss',
+        // 'sss@sssss.ss',
     ],
     sssssss: [
         'ssssssssssssssssssssssssssss',
         'ssssssssssssssssssssssssssss',
-        'ssssssssssssssssssssssssssss',
+        // 'ssssssssssssssssssssssssssss',
     ],
 };
 
