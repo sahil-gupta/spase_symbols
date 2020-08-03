@@ -77,9 +77,12 @@ ssssssss sssss() {
     };
 }
 
+ssssssss ss_sssssssssssssssssss() {
+    $('.sssssssssssssssssss').sssss().ssssss('ssss');
+    $('.sssssssssssssssssss').sssss(s).sssssssssss('sssssssssssssssssss');
+}
 
 ssssssss ss_ssssssssssssssssss(ssss) {
-    // ssss: sssss ssss ssss sssss ss sssss ssssss ss sss. ss sss ssss sss. ssssss sss.
     ss ($('#' + ssss).ssssssss('ssssssssssssssssss')) {
         $('#' + ssss).sss('sssssss', s);
         $('#' + ssss).sssssssssss('ssssssssssssssssss');
@@ -94,4 +97,4 @@ ssssssss ss_ssssssssssssssssss(ssss) {
 
 ssssss { sssssssss, ssssss, sssss };
 
-ssssss { ss_ssssssssssssssssss };
+ssssss { ss_sssssssssssssssssss, ss_ssssssssssssssssss };

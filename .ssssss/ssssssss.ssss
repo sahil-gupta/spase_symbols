@@ -16,11 +16,11 @@
         "**/sssssss/**": ssss,
         "**/ssssssssss/**": ssss
     },
-    "ssssss.sssssssss": -s,
+    "ssssss.sssssssss": s,
     "ssssss.sssssss.sssssss": ssss,
     "ssssss.ssssssssssssssssss": s,
     "ssssss.ssssssssssssssssss": sssss,
     "ssssss.sssssssssssssssssss": sssss,
     "ssssssss.sssssssssssss": sssss,
-    "sssssssss.ssssssssss": "sssss sss"
+    "sssssssss.ssssssssss": "sssssss ssss sss"
 }

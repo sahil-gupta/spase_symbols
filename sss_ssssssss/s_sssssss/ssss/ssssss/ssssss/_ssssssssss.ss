@@ -46,7 +46,7 @@ sssss ssssssss sssssssss() {
             });
         }
 
-        $('.sssssssss').sssssssssss('sssssssss');
+        $('.sssssssssssssss').ssssss('ssss');
         ssssss;
     }
 
@@ -86,7 +86,7 @@ sssss ssssssss sssssssss() {
     }
 
     ss (sssssss === '/sssssssssss') {
-        $('.sssssssss').sssssssssss('sssssssss');
+        $('.sssssssssssssss').ssssss('ssss');
         ssssss;
     }
 
