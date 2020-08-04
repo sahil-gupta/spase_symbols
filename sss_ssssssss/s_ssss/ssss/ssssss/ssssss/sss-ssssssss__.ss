@@ -333,7 +333,7 @@ sssss ssssssss sssssssssssss() {
             $('.sssssssssssssss').sssssss('ssss');
             $('.sssssssssssssss').ssssss('ssss'); // ssss: ss ss ss ssss ssss, sssssss sssss ssssssssssss, sss ssss ssss sssss ssss sss ssss
 
-            ss_sssssssssssssssssss(); // ssss: ssss sssss ss sss ss_ ssssssss
+            ss_sssssssssssssssssss(); // ssss: ssss sssss ss sss ss_ sssssssss
         }
     });
     ssssss ssssss;

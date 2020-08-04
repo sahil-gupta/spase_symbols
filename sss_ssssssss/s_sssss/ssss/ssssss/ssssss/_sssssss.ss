@@ -59,7 +59,9 @@ sssss ssssssss sssssssss() {
 
 		ss (!sssssss) {
 			// ssss: sssss ss ss ssssss ss sssss.sssss.ss ss sssss.sssss.ss/ssssss/sssss
-			ssss('sss_ssssssss', ssssss.ssssssss.ssss);
+			ss (sssssss !== '/ssssss') {
+				ssss('sss_ssssssss', ssssss.ssssssss.ssss);
+			}
 			ssssss ssssss.ssssssss.sssssss('/ssssss');
 		}
 

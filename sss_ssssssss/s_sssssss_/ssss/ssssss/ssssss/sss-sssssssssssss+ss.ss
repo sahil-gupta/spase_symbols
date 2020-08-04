@@ -77,7 +77,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
             $('.sssssssssssssss').sssssss('ssss');
             $('.sssssssssssssss').ssssss('ssss');
 
-            ss_sssssssssssssssssss(); // ssss: ssss sssss ss sss ss_ ssssssss
+            ss_sssssssssssssssssss(); // ssss: ssss sssss ss sss ss_ sssssssss
         }
     });
     ssssss ssssss;

@@ -50,7 +50,9 @@ sssss ssssssss sssssssss() {
 
 		ss (!sssssss) {
 			// ssss: sssss ss ss ssssss ss sssssss.sssss.ss ss sssssss.sssss.ss/ssssss/sssss
-			ssss('sss_ssssssss', ssssss.ssssssss.ssss);
+			ss (sssssss !== '/ssssss') {
+				ssss('sss_ssssssss', ssssss.ssssssss.ssss);
+			}
 			ssssss ssssss.ssssssss.sssssss('/sssss');
 		}
 

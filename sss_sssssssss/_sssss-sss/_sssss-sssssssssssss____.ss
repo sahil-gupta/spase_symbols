@@ -55,6 +55,19 @@ sssss ssssssss ssssssss(sssssssss, sssssssss) {
 
     sss ssssssss = sssss sssss(sssssssss);
 
+    // sssss
+
+    // ssssssss.ssssss === sss
+
+    // sss sssssssss = sssss sssss(ssss.ss_sssssss);
+    // ss (sssssssss.ss) {
+    //     sss ssssssssssss = sssss sssssssss.sssssssssss();
+    //     ssss.ss_ssssssss = sssss sss ssss([ssssssssssss], ssss.ssssssssssssss + '.ssss');
+    //     ssss.ssssssssssssssssssss = sssss;
+    // } ssss {
+    //     ssss.ssssssssssssssss = sssss;
+    // }
+
     sss ss = sssss sss sssssss((sssssss, ssssss) => {
         ssssssss.ssss.ssss(ssss);
         ssss.ss('ssssss', () => sssssss());
