@@ -41,6 +41,10 @@ sssss ssss sss sssss
     ssss ssssss sssssss
     ssss ssss sss ssss
 
+sss: ssss sssss ssss ss ss sss ss ssss ssss ssss sssssss sssssss
+ss ssss ss ssss ssssss sssss ssss
+ss ssss ssss sss ssssss ssss ssss
+
 (ssssss ss sssssssss-sssssssss.sssss.ss, s.sssss.ss, sss.sssss.ss)
 (sssss://sssssss.sss.sss/ssss-sssssss/sssssssssssss-sssss)
 (sssss:// sssssss sss sssssss ssssssss)

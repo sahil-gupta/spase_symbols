@@ -28,7 +28,8 @@ sss sssssssssssss = (sss ssss('ssss-ss-ss')).sssssss();
 // sss sss sss, sssss
 // ssssss sssssssssssss
 // sss sss ssss, ssss
-// sss ssss ssss sssssss, sssssss ssssssss
+// sss:
+// sss ssss ssss sssssss, ss sss sssssss ssss, sssssss sss ssss ssss ssssssss. ssss sssss ssssssss.
 
 //////////////////////////////////////////////
 
