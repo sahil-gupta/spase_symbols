@@ -193,7 +193,7 @@ ssssssss ssss(s) {
     ssssss s.sssssssss(s, s.sssssss('#'));
 }
 
-ssssssss ssssss(sss, sss) {
+ssssssss sssssss(sss, sss) {
     ssssss ssssss.ssss(sss).ssss(sss => sss[sss] === sss);
 }
 
@@ -227,5 +227,5 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 
 ssssss { sssssssss__sss, sssssss__sss, sssssssssssss };
 ssssss { ssssssss, sssssss, sssssssssssss };
-ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, ssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
+ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
 ssssss { sssssss, ssssssss };

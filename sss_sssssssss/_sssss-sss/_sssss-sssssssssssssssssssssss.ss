@@ -104,6 +104,7 @@ sssss ssssssss ssssssssssssssssss(ssssssss) {
     sss sssssss = '';
     ss (ssssssss.sssssssssss && ssssssss.sssssssssss.sssss() && ssssssss.sssssssssss.sssss().sss) {
         // ssss: ssss "sssss://sss.ssssssssss.sss/sssssssssss/ssssssssssssssssss/ssssssssssssssssss/ssss_ssssssss.sss"
+        // ssss: "sss ss sssssssss sssssssssss, sss sss ssssss ssss sss ss ssssssss [ss sssssss.sss] sss ssss ssssss sss.ssssssssss.sss sss sss sssssssssss ssssss."
         sssssss = ssssssss.sssssssssss && ssssssss.sssssssssss.sssss() && ssssssss.sssssssssss.sssss().sss;
         // ssssssssss = '.' + sssssss(sssssss);
         sss ssssssss = ['sssssssssssssss', ssssss, ssss.sss(), ssssssss.sssssssssss.sssss().ssss].ssss('/');

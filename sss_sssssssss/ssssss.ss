@@ -73,7 +73,7 @@ sss ssss
 sssss://sssssss.sss/ssssssssss/ssssssssssss
 
 ssss sss sssssss ssss sssss sssss
-sssss://ssssssssss.sss/sss/ssssss/sssssssss?ssssss_ss=ssssssssssssssssss&sssssssssss=sssssssss&sssss=sss
+sssss://sssssss.sss/ssssss/sssssssss?ssssss_ss=ssssssssssssssssss&sssssssssss=sssssssss&sssss=sss
 (ssssss sss ?ssssss_ss)
 - ssssss sssss
 - ssssss ssssssss

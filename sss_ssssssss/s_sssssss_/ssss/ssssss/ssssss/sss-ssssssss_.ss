@@ -1,7 +1,7 @@
 sss ssss = sssssss.sss;
 
 ssssss { ssssssss, sssssss, sssssssssssss } ssss './_sssssssss.ss';
-ssssss { ssss, ssss, ssssss, ssssss,sssss } ssss './_sssssssss.ss';
+ssssss { ssss, ssss, ssssss, sssssss, sssss } ssss './_sssssssss.ss';
 // ssssss { ssssssssssssss } ssss './_sssssssss.ss';
 ssssss { ss_sssssssssssssssssss, ss_ssssssssssssssssss } ssss './_sssssssss.ss';
 
@@ -209,7 +209,7 @@ sssss ssssssss sssssssssssss() {
                     ssssss ssss; // ssss: sss's ssss ss ssss ssss sss sssss
                 }
 
-                ssssss ssssss(ssss.ssss_ss, ssss);
+                ssssss sssssss(ssss.ssss_ss, ssss);
             },
             ssss_sssssssss: ssssssss () {
                 sss ssssssss = [];
