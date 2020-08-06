@@ -378,6 +378,7 @@ ss (!_sssssssssssss.sssssssss__sss && !ssssssssssssssssssss) {
     });
 }
 
+// ssss: sssssss ssss sss, sssss ssssssss ssssss
 sssssss.ssssssssssssssssss = ssssssss (sssss) {
     ss (!sssss) {
         ssssss ssss;
@@ -385,7 +386,7 @@ sssssss.ssssssssssssssssss = ssssssss (sssss) {
 
     sss ssssss = '';
     sssssssss.sssssss(sss => {
-        ss (sss.ssssssss.ssssssss(sssss)) {
+        ss (sss['ssssssss'].ssssssss(sssss)) {
             ssssss = sss;
         }
     });
