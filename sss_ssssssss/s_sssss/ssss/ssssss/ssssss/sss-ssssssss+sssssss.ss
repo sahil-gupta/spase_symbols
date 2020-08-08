@@ -110,6 +110,12 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 // ssss: ssss sssss ss ssssss ssss, sss ssssssss
                 ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss') || (ssss.sssssssss(s, s) === 'sss.');
             },
+            ssss_ssss: ssssssss (ssss) {
+                ss (ssss.sssssssss(s, s) === 'sss.') {
+                    ssssss 'sssss://' + ssss;
+                }
+                ssssss ssss;
+            },
             ssss_ssssss_ssssss: ssssssss (sssssssssssssssssss) {
                 sss ssss = ssss;
 

@@ -497,6 +497,12 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 // ssss: ssss sssss ss ssssss ssss, sss ssssssss
                 ssssss (ssss.sssssssss(s, s) === 'ssss') || (ssss.sssssssss(s, s) === '<ssss') || (ssss.sssssssss(s, s) === 'sss.');
             },
+            ssss_ssss: ssssssss (ssss) {
+                ss (ssss.sssssssss(s, s) === 'sss.') {
+                    ssssss 'sssss://' + ssss;
+                }
+                ssssss ssss;
+            },
             ss_ssssssssss: ssssssss (ssss) {
                 ssssss ssss.ssss_sssss[ssss] && ssss.ssss_sssss[ssss].ssssss;
             },

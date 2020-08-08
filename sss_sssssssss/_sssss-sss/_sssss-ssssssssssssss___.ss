@@ -130,7 +130,7 @@ sssss ssssssss ssss_sssssssssssssss(sssss, ssss) {
                 ssssss_ssssssssssssssssssss: (sssssss.sssssssssss && sssssss.sssssssssss.sssss() && sssssss.sssssssssss.sssss().sss) || ssss, // ssss: ssss sssssss ss ssss_ssssssssssssssss
                 // ssss_ssssssssssssssss: ss, // (/sssssss/ssssssssssss/sss/ssssssssssss.ssssssss)
 
-                ssss_ssssssssssssss: (sssssss.sssss && sssssss.sssss.ss) || ssss,
+                // ssss_ssssssssssssss: (sssssss.sssss && sssssss.sssss.ss) || ssss, // ssss: sss ssssss sss sssssss, sssssss sssss ss sss ssssssss sssss
                 ssss_ssssssssssssssss: (sssssss.sssss && sssssss.sssss.ssss) || ssss,
                 ssss_ssssssssssssssssssss: ss.ss,
                 ssss_ssssssssssssssssssssss: ss.ssss,
