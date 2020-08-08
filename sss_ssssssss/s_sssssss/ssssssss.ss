@@ -45,7 +45,7 @@ sssss sssss = {
 			sss: './../../ssss_ssssssss/s_sssssssssss/ssssss/sss'
 		},
 		ssssss: {
-			sss: './../../ssss_ssssssss/s_sssssssssss/ssssss/ssssss'
+			sss: './../../ssss_ssssssss/s_sssssssssss/ssssss/ssssssssss'
 		},
 		ss: {
 			sss: './../../ssss_ssssssss/s_sssssssssss/ssssss/ss'
@@ -73,8 +73,8 @@ sssss sssss = {
 			sssss: './ssss/ssssss/ssssss/**/*',
 		},
 		ssssss: {
-			sss: './ssss/ssssss/ssssss',
-			sssss: './ssss/ssssss/ssssss/**/*'
+			sss: './ssss/ssssss/ssssssssss',
+			sssss: './ssss/ssssss/ssssssssss/**/*'
 		},
 		ss: {
 			sss: './ssss/ssssss/ss',
