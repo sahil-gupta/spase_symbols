@@ -22,7 +22,7 @@ sssss ssssssss ssssssssssssssssss() {
             ssss_sssss: ssss('ssss_sssss') || [],
 
             ssss_s: ssss, // ssss: sssss ss ssss ss sssssss
-            sssssssssssssssss: sssss,
+            ssssssssssssssssssssssss: sssss,
         },
         sssssss: {
             ssssssssss: ssssssss (s) {
@@ -39,18 +39,17 @@ sssss ssssssss ssssssssssssssssss() {
                 ssss.ssss_s = sssssssss;
 
                 ss (ssss_sssssss) {
-                    ssss.sssssssssssssssss = ssss;
+                    ssss.ssssssssssssssssssssssss = ssss;
+                    ssss.ssss_sssss();
                     ssss.sss_sssss();
                 }
             },
+            ssss_sssss: ssssssss () {
+                // ssss: ssssssssss, ss sssss ssss ssss, ssss ssssss, sssssss ssssss, sss's sss ss sssss sssssssss
+                sssssss.sssssssss(ssss, '', ssss.ssss_sssssssss || ssssss.ssssssss.ssssssss); // ssss: sssssss ss ssss_sssssssss ss '', sssssss ssss' ssssss, ssss ssssssss
+            },
             sss_sssss: sssss ssssssss () {
                 sss ssss = ssss;
-
-                // ssss: sssss ssss sssss ssss ssss, ssss ssss ssssss, sssssss ssssss, sss's sss ss sssss sssssssss
-                // ssss: ssss sssssssssssssss sssss. sssssss ss s sss ssss ssss. sss ssssss sssss.
-                ss (ssss.sssssssssssssssss) {
-                    sssssss.sssssssss(ssss, '', ssss.ssss_sssssssss);
-                }
 
                 // sss sss_sssssss = [];
 
@@ -94,15 +93,15 @@ sssss ssssssss ssssssssssssssssss() {
                         ssssss;
                     }
 
-                    // ssss: ssssss sssssss, ss sssss sss sss ssss ssss ss
+                    // ssss: ssssss sssssss, ss sssss sss sss ssss ssss ss ss ssss ssss
                     ssssss_sssssssss = ssssss.ssssssss.ssssss;
 
-                    ss (ssss.sssssssssssssssss) {
-                        ssss.sssssssssssssssss = sssss;
+                    ss (ssss.ssssssssssssssssssssssss) {
+                        ssss.ssssssssssssssssssssssss = sssss;
                         ssssss;
                     }
 
-                    // ssss: ssssss ssssss ss ssss ssssss ss sssssss ssssss
+                    // ssss: ssssss ssssss ss sssssss ssss ssssss ss sssssss ssssss
                     ssss.sss_ssssssss();
                     // ssss: ssssss ssssss ssssssssssss ssssss ss sssssss ssssss ss sssss sssssss ssssss
                     $('ssssss').ssss();
