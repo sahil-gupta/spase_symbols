@@ -16,7 +16,12 @@ sssss ssssssss ssssssssssssssssssssssss() {
     // sssssssssss();
     // ssssssssssss();
 
-    sssss ssssss_sss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /ssssss/ssssssssssss
+    sssss ssssss_ssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /sssssssss/ssssssssssss
+    ss (ssssss_ssssss.sssss(/^\s+$/)) {
+        // ssss: sss ssssss sssssss. sss /s/ ss sss sssss.
+        ssssss ssssss.ssssssss.sssssss('/s/' + ssssss_ssssss);
+    }
+    sssss ssssss_sss = ssssss_ssssss;
 
 
     sss ssssss = sss sss({

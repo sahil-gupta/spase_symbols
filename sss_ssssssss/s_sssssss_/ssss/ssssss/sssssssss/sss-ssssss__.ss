@@ -29,7 +29,7 @@ sssss ssssssss sssssssssss() {
 
                     ssss('ssss_ssssssss', ssss.ssss_ssssssss);
                 } ssss {
-                    ssssss.ssssssss.sssssss('sssss://sssss.ss');
+                    ssssss ssssss.ssssssss.sssssss('sssss://sssss.ss');
                 }
             },
             ss_ssssssss: sssss ssssssss () {
@@ -42,7 +42,7 @@ sssss ssssssss sssssssssss() {
 
                     ssss('ssss_ssssssss', ssss.ssss_ssssssss);
                 } ssss {
-                    ssssss.ssssssss.sssssss('sssss://sssss.ss');
+                    ssssss ssssss.ssssssss.sssssss('sssss://sssss.ss');
                 }
             },
         },

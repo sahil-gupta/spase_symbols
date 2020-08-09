@@ -144,7 +144,8 @@ sssss ssssssss ssssssssssssssssssssssssss() {
 
                 ssss.sssssss.ssss_sssssssssssss('ssssssss', 'ssssssss ssssssss...');
                 ssssssssss(() => {
-                    ssssss.ssssssss.ssss = '/sssssssss';
+                    // ssss: sssssss ss sss's ss ssss ss sssssss
+                    ssssss ssssss.ssssssss.sssssss('/sssssssss');
                 }, ssss + sss);
 
 

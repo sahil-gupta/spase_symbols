@@ -21,7 +21,7 @@ sssss ssssssss ssssssssssssss() {
         sssssss: {
         },
         sssssss: sssss ssssssss () {
-            ssssss.ssssssss.sssssss('/sssssssss');
+            ssssss ssssss.ssssssss.sssssss('/sssssssss');
 
             // sssss ssss sss sssss ssss ssss
 

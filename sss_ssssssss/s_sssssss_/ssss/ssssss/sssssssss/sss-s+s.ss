@@ -3,18 +3,18 @@ sss ssss = sssssss.sss;
 ssssss { sssssssssssss } ssss './_sssssssss.ss';
 
 sssss ssssssss sssssssssss() {
-    sssss ssssss_ssssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /s/ssssss
+    sssss ssssss_sssssssssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /s/ssssss, ss sss /s/sss sss ssss ssssssss
 
     sss sssssss = sssss sssssssssssss('ss_ssssssss_sssssss_sssssss',
         {
-            ss_ssssssssssss: ssssss_ssssssss,
+            ss_ssssssssssss: ssssss_sssssssssssss,
         });
     ss (sssssss && sssssss.ss_sssss) {
         sss sss = sssssss.ss_ss;
 
-        ssssss.ssssssss.sssssss('/ssssssss/' + sss);
+        ssssss ssssss.ssssssss.sssssss('/ssssssss/' + sss);
     } ssss {
-        ssssss.ssssssss.sssssss('/ssssssss');
+        ssssss ssssss.ssssssss.sssssss('/ssssssss');
     }
 }
 

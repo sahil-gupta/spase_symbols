@@ -18,7 +18,7 @@ sssss ssssssss sssssssssss() {
     // ssss('ssss_sssssssssssssssss', {});
     ssssssssssss.sssss();
 
-    ssssss.ssssssss.sssssss(ssssss);
+    ssssss ssssss.ssssssss.sssssss(ssssss);
 }
 
 ////////////////////////////////////////////////

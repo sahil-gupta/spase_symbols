@@ -25,7 +25,12 @@ sssss ssssssss ssssssssssssssssssssssss() {
     // sssssssssss();
     // ssssssssssss();
 
-    sssss ssssss_sss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /ssssssss/ssssssssssss
+    sssss ssssss_ssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /ssssssss/ssssssssssss
+    ss (ssssss_ssssss.sssss(/^\s+$/)) {
+        // ssss: sss ssssss sssssss. sss /s/ ss sss sssss.
+        ssssss ssssss.ssssssss.sssssss('/s/' + ssssss_ssssss);
+    }
+    sssss ssssss_sss = ssssss_ssssss;
 
     sss ssssss = sss sss({
         ss: sssss,
@@ -449,6 +454,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
             ss_sssssssssssssss: sssss ssssssss () {
                 ssss.ss_sssssss();
                 ssssssssss(() => {
+                    // ssss: ssss ss ssss sssssss ss sssssss
                     ssssss.ssssssss.ssss = '/ssssssss';
                 }, ssss + sss + ssss);
             },
@@ -459,7 +465,8 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 ssss.sssssss.ssss_sssssssssssss('sssssss', 'ssssssss sssssss...');
 
                 ssssssssss(() => {
-                    ssssss.ssssssss.ssss = '/ssssssss';
+                    // ssss: sssssss ss sss's ss ssss ss sssssss
+                    ssssss ssssss.ssssssss.sssssss('/ssssssss');
                 }, ssss + sss);
 
                 sssssssssssss('ss_ssssssss_ssssss_sssssss',
