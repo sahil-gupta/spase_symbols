@@ -2,24 +2,79 @@ sss ssss = sssssss.sss;
 
 sssss _sssssssss = sssssss('../_sssssssss.ss');
 
-sssss ssssssssss = _sssssssss.ssssssssss;
-sssss ssssssssss = _sssssssss.ssssssssss;
-sssss sssssssssss = _sssssssss.sssssssssss;
-sssss sssssssssss = _sssssssss.sssssssssss;
+// sssss _sssss_sssssss = sssssss('./_sssss-sssssss.ss');
 
-// ssss: sssssssss ssssssssss
-sssss sssssssssss = 'sssssssssssssss';
-
-sssss sssssssssssssssss = 'ssss_sssssssss';
-
-sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
-// sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
-
-// ssss: ssssssss ssss sssssssssss ssssss ss sss. sss sssssssss ssss ssss sss sss sss s.
+// sssss ssssssssssssss = _sssssssss.ssssssssssssss;
 
 //////////////////////////////////////////////
 
 // ssss: sssssss sssss ssssssssss
+
+
+sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
+    ssssssssss += '';
+
+    sss ssss = {
+        ss: 'sssss@sssss.ss',
+        ssss: 'sssss@sssss.ss',
+        sssssss: ssssssssss,
+        ssss: ssssssssss,
+    };
+
+    sss ss = sssss ssssssssssssss.ssss(ssss);
+
+    ssssss ss.ssssss;
+}
+
+
+
+
+sssss ssssssss ssssssssss(ssssssssss, ssssss, ssssssss) {
+    sss ssss = [];
+
+    sss (sss s = s; s < ssssss.ssssss; s++) {
+        ssss.ssss({
+            ss: ssssss[s],
+            ssss: { ssss: "sssss ssssssssss", sssss: 'ssssssssss@sssss.sss' }, // ssss: ssss ss ssssss ssssss sssssss ssssssss sss
+            sssssss: ssssssssss,
+            ssss: ssssssss[s],
+        });
+    }
+
+    sss ss = sssss ssssssssssssss.ssss(ssss);
+
+    ssssss ss.ssssss;
+}
+
+
+
+
+// sssss sss = {
+
+//     //ssssss sssss sssssss ssssss
+//     ss: 'sssssss@sssssss.sss',
+
+//     //sssss sssssss ssss ssss
+//     ss: 'ssss sss <sssssss@sssssss.sss>',
+
+//     //ssssss ssss ssss/sssss
+//     ss: {
+//         ssss: 'ssss sss',
+//         sssss: 'sssssss@sssssss.sss',
+//     },
+
+//     //ssssss sss sssssssss sss ss, ss sss sss
+//     ss: [
+//         'sssssss@sssssss.sss',
+//         'ssss sss <sssssss@sssssss.sss>',
+//         {
+//             ssss: 'ssss sss',
+//             sssss: 'sssssss@sssssss.sss',
+//         },
+//     ],
+// };
+
+
 
 
 
@@ -27,58 +82,8 @@ sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
 
 // ssss: ssssss ssss ssssssssss
 
-sssss ssssssss sssssss(sssss_ssss) {
-    sss sssss_ssss = {
-        ss: _sssssssss.ssssssssssss(sssssssssss),
-        sssss_sss: {
-            ssss_sssssss: ssss.sss(),
-            ssss_sssssssss: ssss,
-            sss_sssssssssss: sssss_ssss.sssss_sss.sss_sssssssssss || ssss,
-            sss_sssssssssssssss: sssss_ssss.sssss_sss.sss_sssssssssssssss || ssss,
-            ssss_sssssssss: sssss_ssss.sssss_sss.ssss_sssssssss || ssss,
-            ssss_ssssss: ssss, // ssss: ssss ssss sssssss ssss sssssss ss ssss
-            ssss_sssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssss || ssss,
-            ssss_ssssss: ssss,
-            ssss_ssssssssssssssssss: {}, // ssss, sssss, ssssss, sssss, ssssss
-            ssss_sssssssssssssss: ssss,
-        }
-    };
-    // ssss: ssss sssss sssssss sss ssss ssss ssssss sss ss
-    sss sssss = sssss ssssssssss(sssssssssss, sssss_ssss);
-
-    sss sssss_ssss_ssss = {
-        ss: sssssssss,
-        sssss_sss: {
-            ssss_ssss: sssss_ssss.ss,
-            ssss_sssssss: 'ssss/sssssss/ssssssssss.sss',
-            ssss_ssssssss: 'ssss/sssssss/ssssssssss.ssss',
-            ssss_ssssssssss: 'ssss/sssssss/ssssssssss.sss',
-        }
-    };
-    sss sssss = sssss _sssss_sssssssssssss.sssssss(sssss_ssss_ssss);
-
-    ssssss sssss;
-}
-
-ssssssss sssssss(ssssssssss, sssssss, ssssss) {
-    ssssssssss = ssssssssss || sssssssssssssssss;
-
-    ssssss ssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
-}
-
-ssssssss ssssssss(ssssssssss, sssssss) {
-    ssssssssss = ssssssssss || sssssssssssssssss;
-
-    ssssss sssssssssss(sssssssssss, ssssssssss, sssssss);
-}
-
-ssssssss ssssssss(sssss_ssss) {
-    ssssss sssssssssss(sssssssssss, sssss_ssss);
-}
-
 //////////////////////////////////////////////
 
-sssssss.sssssss = sssssss;
-sssssss.sssssss = sssssss;
-sssssss.ssssssss = ssssssss;
-sssssss.ssssssss = ssssssss;
+sssssss.sssssssssss = sssssssssss;
+
+sssssss.ssssssssss = ssssssssss;
