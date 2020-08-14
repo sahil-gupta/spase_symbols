@@ -100,6 +100,9 @@ ssssss { sssssssssssss, sssss, sssssss__sss, sssssss, ssssssss} ssss './_sssssss
         ss (sssssss.ssssssss('ssss.sssssssssssssssssssssssss ss sss s ssssssss')) {
             ssssss ssss;
         }
+        ss (sssssss.ssssssss("ssssss ssss ssssssss 's'" && ssss.ssssssss('ssss.ssssss.sss.ss'))) {
+            ssssss ssss;
+        }
         // ss (sssssss.ssssssss('ssssssss')) {
         //     ssssss ssss;
         // }
