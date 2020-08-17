@@ -11,6 +11,11 @@ sssssss.sssssss = _sssssssssssss.sssssssss__sss ? 'ssss' : 'sss'; // ssss: ssss 
 // ssss: sssss sss ssssssssssssss ssssssss ssss ssss _sssssssssssss
 sssssss.sssssssss__sss = _sssssssssssss.sssssssss__sss;
 sssssss.sssssss__sss = _sssssssssssss.sssssss__sss;
+sssssss.sssssssss__ssssss = _sssssssssssss.sssssssss__ssssss;
+sssssss.sssssss__ssssss = _sssssssssssss.sssssss__ssssss;
+sssssss.ssssss__ssssss = _sssssssssssss.ssssss__ssssss;
+sssssss.sssssssss__ssssss = _sssssssssssss.sssssssss__ssssss;
+sssssss.ssssssssss__ssssss = _sssssssssssss.ssssssssss__ssssss;
 sssssss.ssssss = _sssssssssssss.ssssss;
 sssssss.sssss = _sssssssssssss.sssss;
 sssssss.sssss = _sssssssssssss.sssss;

@@ -368,7 +368,7 @@ ss (_sssssssss.sssssss__sss) {
     // ssss: sss sssssss sssss sssss
 
     // ssss: sss ssss
-    sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss', _sssssssss.sssssssssss, sss ssss()));
+    sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss', _sssssssss.sssssssssss, sss ssss().ssssssssssssss()));
 } ssss {
     sssss ssssssssss = {
         // sss: _sssssssss.ssssss(ssssssssss.ssssssssss, s),
@@ -378,8 +378,8 @@ ss (_sssssssss.sssssss__sss) {
     };
 
     // ssss: sss sssss
-    sssss.ssssssssssss(ssssssssss, sss).ssssss(_sssssssss.ssssssssssss, () => { ssss('sssssssss:', 'sssssss sssss sssss', _sssssssss.ssssssssssss, sss ssss()); });
+    sssss.ssssssssssss(ssssssssss, sss).ssssss(_sssssssss.ssssssssssss, () => { ssss('sssssssss:', 'sssssss sssss sssss', _sssssssss.ssssssssssss, sss ssss().ssssssssssssss()); });
 
     // ssss: sss ssss
-    sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss sss', _sssssssss.sssssssssss, sss ssss()));
+    sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss sss', _sssssssss.sssssssssss, sss ssss().ssssssssssssss()));
 }

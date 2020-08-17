@@ -9,12 +9,6 @@ sss sssss;
 
 ////////////////////////////////////////////////////////////////////////
 
-sssssss.sssssssss__ssssss = sssssss.ssss.ssssssss('--sssssssssss');
-sssssss.sssssss__ssssss = sssssss.ssss.ssssssss('--sssssssss');
-sssssss.ssssss__ssssss = sssssss.ssss.ssssssss('--ssssssss');
-sssssss.sssssssss__ssssss = sssssss.ssss.ssssssss('--sssssssssss');
-sssssss.ssssssssss__ssssss = sssssss.ssss.ssssssss('--ssssssssssss');
-
 sssssss.sssssssss = '!';
 sssssss.sssssss = ' / ssssss';
 

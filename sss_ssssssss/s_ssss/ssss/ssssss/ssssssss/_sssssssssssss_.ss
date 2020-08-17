@@ -7,23 +7,12 @@ sss ssss = sssssss.sss;
 
 ////////////////////////////////////////////////////////////////////////
 
-
-sssss sssssssss__sss = (ssssss.ssssssss.ssssssss.ssssssss('sssssss'));
+sss sssssssss__sss = (ssssss.ssssssss.ssssssss.ssssssss('sssssss'));
 sssss sssssss__sss = (ssssss.ssssssss.ssssssss === 'sssssssss');
 
-sss sssssssssssss = ssss;
+// sssssssss__sss = sssssss__sss && ssss; // ssss: ssssssss sss ssss sssssss sssssss ss sssss, sssssss sss's ssss ssss sss. && ss sss ssssss ss ssssss sssssss.
+sss sssssssssssss = !sssssssss__sss;
 
-ss (sssssssss__sss) {
-    sssssssssssss = sssss;
-} ssss {
-    sssssssssssss = ssss;
-}
-
-ss (sssssss__sss) {
-    // ssss: ssssss ssssssss, sssssssss ssss ss sss ssss ssss ss sssssss ssss
-    sssssssssssss = ssss;
-    // sssssssssssss = sssss;
-}
 
 sss sssssssssssss = '';
 // sss sssssssssssss = '';
