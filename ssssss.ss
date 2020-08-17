@@ -68,7 +68,7 @@
 
 ### sss sssssssss
 
-sss ssssss.ss
+ssssss.ss
 
 sssss ssss sssssssssssss ss ssssssssss
 
@@ -78,7 +78,7 @@ sssssss sss sss sss sssssss sss ssssssss ss ss
 
 ### sss sssssssss
 
-sss ssssss.ss
+ssssss.ss
 
 sssssss ss ss ss ssss ssss sss's ssss ss ssssssss ssss sssssssss-sss.sssss.ss
 
@@ -86,19 +86,19 @@ sssssss ss ssssssssss, sss sssssssss, ssssssss, ssssssss
 
 ### sss sssssssss
 
-sss ssssss.ss
+ssssss.ss
 
 sssssss ss sssssssssss sssssss ssssss
 
 ### sss sssssssss
 
-sss ssssss.ss
+ssssss.ss
 
 sssssss ss sss
 
 ### sss sssssssss
 
-sss ssssss.ss
+ssssss.ss
 
 sssssss ss s ssssss sssss
 
@@ -125,7 +125,7 @@ sssssss ss s ssssss sssss
 ---
 ## sss sssssss
 
-- sssss ss ssssss.ss
+- sssss ss ssssss_sss.ss
 
 ---
 ## sssss
