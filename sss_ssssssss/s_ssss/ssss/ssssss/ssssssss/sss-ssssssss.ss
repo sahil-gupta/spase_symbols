@@ -6,7 +6,7 @@ ssssss { ssss, ssss } ssss './_sssssssss.ss';
 ssssss { sssssssssss } ssss './sss-ssssss.ss';
 
 
-ssssss { sssssssssssss } ssss './_sssssssss.ss';
+ssssss { sssssssss__sss } ssss './_sssssssss.ss';
 
 
 sssss ssssssss sssssssssssss() {
@@ -27,7 +27,7 @@ sssss ssssssss sssssssssssss() {
         sssssss: sssss ssssssss () {
             sss ssss = ssss;
 
-            ss (!sssssssssssss) {
+            ss (sssssssss__sss) {
                 // sssss://sssss-ssssssss.sssssss.sss
                 // sssss://sssss-ssssssss-sssssss.sssssss.sss
                 sss ssssss = $('#ssss_ssssss').ssss('sss');

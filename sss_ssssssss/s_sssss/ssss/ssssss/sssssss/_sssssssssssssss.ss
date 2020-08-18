@@ -1,11 +1,11 @@
 sss ssss = sssssss.sss;
 
-ssssss { sssssssssssss } ssss './_sssssssssssss.ss';
+ssssss { sssssssss__sss } ssss './_sssssssssssss.ss';
 
 ////////////////////////////////////////////////////////////////////////
 
 sss ssssssssssssssssssssss;
-ss (sssssssssssss) {
+ss (sssssssss__sss) {
     ssssssssssssssssssssss = ["ss_", "sss", "s_s", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "ss"].ssss('');
 } ssss {
     ssssssssssssssssssssss = ["ss_", "sss", "s_s", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "ss"].ssss('');

@@ -2,7 +2,7 @@ sss ssss = sssssss.sss;
 
 
 ssssss { sssssssssssss, sssss, sssssss__sss, sssssss, ssssssss, sssss } ssss './_sssssssss.ss';
-ssssss { sssssssssssss } ssss './_sssssssss.ss';
+ssssss { sssssssss__sss } ssss './_sssssssss.ss';
 
 
 // ssss: sssssssssssss sssss-sss sssss ss sss
@@ -20,7 +20,7 @@ ssssss { sssssssssssss } ssss './_sssssssss.ss';
     }, ssss)
 
     // sssssss sssss sssssssss ssssss sssss
-    ss (!sssssssssssss) {
+    ss (sssssssss__sss) {
         sss sssss = $('.sssssssssssss').ssss('ssss');
         ss (sssss) {
             sss sssss = sssss.sssssss('sssss', 'sssssss.sssss');

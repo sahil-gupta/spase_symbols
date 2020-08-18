@@ -9,9 +9,8 @@ sss ssss = sssssss.sss;
 
 sss sssssssss__sss = (ssssss.ssssssss.ssssssss.ssssssss('sssssss'));
 sssss sssssss__sss = (ssssss.ssssssss.ssssssss === 'sssssssss');
-
 // sssssssss__sss = sssssss__sss && ssss; // ssss: ssssssss sss ssss sssssss sssssss ss sssss, sssssss sss's ssss ssss sss. && ss sss ssssss ss ssssss sssssss.
-sss sssssssssssss = !sssssssss__sss;
+
 
 
 sss sssssssssssss = '';
@@ -25,28 +24,19 @@ ss (sssssss__sss) {
     // sssssssssssss += 'sssss://s.sssss.ss:';
 }
 
-ss (sssssssssssss) {
-    sssssssssssss += 'sss';
-    // sssssssssssss += 'sss';
-} ssss {
+ss (sssssssss__sss) {
     sssssssssssss += 'ssss';
     // sssssssssssss += 'ssss';
+} ssss {
+    sssssssssssss += 'sss';
+    // sssssssssssss += 'sss';
 }
 
 ////////////////////////////////
 
 sss ssssss;
 
-ss (sssssssssssss) {
-    // ssssss = {
-    //     ssssss: "ssssssssssssssssssssssssssssssss_ssssss",
-    //     ssssssssss: "sssss.ss",
-    //     sssssssssss: "sssss://sssss-ssss.ssssssssss.sss",
-    //     sssssssss: "sssss-ssss",
-    //     sssssssssssss: "sssss-ssss.sssssss.sss",
-    // };
-    ssssss = ssss.sssss(["{\"s", "sss", "ss\"", ":\"s", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "s_s", "sss", "ss\"", ",\"s", "sss", "sss", "sss", "\":\"", "sss", "ss.", "ss\"", ",\"s", "sss", "sss", "sss", "s\":", "\"ss", "sss", "://", "sss", "ss-", "sss", "s.s", "sss", "sss", "sss", ".ss", "s\",", "\"ss", "sss", "sss", "s\":", "\"ss", "sss", "-ss", "ss\"", ",\"s", "sss", "sss", "sss", "sss", "\":\"", "sss", "ss-", "sss", "s.s", "sss", "sss", ".ss", "s\"}"].ssss(''));
-} ssss {
+ss (sssssssss__sss) {
     // ssssss = {
     //     ssssss: "sssssssssssssssssssssssssssssssssssssss",
     //     ssssssssss: "sssssss.sssss.ss",
@@ -55,6 +45,15 @@ ss (sssssssssssss) {
     //     sssssssssssss: "sssss-sssssss.sssssss.sss",
     // };
     ssssss = ssss.sssss(["{\"s", "sss", "ss\"", ":\"s", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "ss\"", ",\"s", "sss", "sss", "sss", "\":\"", "sss", "sss", "s.s", "sss", "s.s", "s\",", "\"ss", "sss", "sss", "sss", "\":\"", "sss", "ss:", "//s", "sss", "s-s", "sss", "sss", ".ss", "sss", "sss", "ss.", "sss", "\",\"", "sss", "sss", "sss", "\":\"", "sss", "ss-", "sss", "sss", "s\",", "\"ss", "sss", "sss", "sss", "ss\"", ":\"s", "sss", "s-s", "sss", "sss", ".ss", "sss", "ss.", "sss", "\"}"].ssss(''));
+} ssss {
+    // ssssss = {
+    //     ssssss: "ssssssssssssssssssssssssssssssss_ssssss",
+    //     ssssssssss: "sssss.ss",
+    //     sssssssssss: "sssss://sssss-ssss.ssssssssss.sss",
+    //     sssssssss: "sssss-ssss",
+    //     sssssssssssss: "sssss-ssss.sssssss.sss",
+    // };
+    ssssss = ssss.sssss(["{\"s", "sss", "ss\"", ":\"s", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "sss", "s_s", "sss", "ss\"", ",\"s", "sss", "sss", "sss", "\":\"", "sss", "ss.", "ss\"", ",\"s", "sss", "sss", "sss", "s\":", "\"ss", "sss", "://", "sss", "ss-", "sss", "s.s", "sss", "sss", "sss", ".ss", "s\",", "\"ss", "sss", "sss", "s\":", "\"ss", "sss", "-ss", "ss\"", ",\"s", "sss", "sss", "sss", "sss", "\":\"", "sss", "ss-", "sss", "s.s", "sss", "sss", ".ss", "s\"}"].ssss(''));
 }
 
 ssssssss.sssssssssssss(ssssss);
@@ -214,7 +213,7 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 
 ////////////////////////////////////////////////////////////////////////
 
-ssssss { sssssssss__sss, sssssss__sss, sssssssssssss };
+ssssss { sssssssss__sss, sssssss__sss };
 ssssss { ssssssss, sssssss, sssssssssssss };
 ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss };
 ssssss { sssssss, ssssssss };
