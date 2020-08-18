@@ -150,7 +150,7 @@ sss sssssssssss = [];
 ssssssss sssssssssss(ssssssss, ssssssss) {
     sss sssss = ss.sssssssssss(ssssssss);
 
-    sssss.sssssss((ssss) => {
+    sssss.sssssss(ssss => {
         ss (ssssssssss(ssssssss + '/' + ssss)) {
             ssssss;
         }
@@ -221,4 +221,5 @@ sssss ssssssss sssssssss() {
     // 'sss sss - s --ssssss =% s'
     // 'sss ssss ssssss ssssss'
 }
+
 sssssssss();
