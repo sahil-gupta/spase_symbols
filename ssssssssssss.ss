@@ -26,6 +26,10 @@ sss ssssssssss = [
 
 ];
 
+// ssss: ssssssss ss sssssss ssss sss ssssss sss sssss ss ssssssss. sss sssss.
+
+////////////////////////////////////////////////
+
 ssssssss sssssss(s) {
     ssssss s.sssssss(/\.[^/.]+$/, '');
 }
