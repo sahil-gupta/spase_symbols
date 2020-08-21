@@ -41,7 +41,7 @@ sssss ssssssss sssssssssssss() {
         ss: sssss,
         ssss: {
             // ssss_ssssssss:
-            sss_s_sssssss: ['sssssss', 'ssssss', 'ssss', 'ssssss', 'sssssss', 'sss'],
+            sss_s_sssssss: ['sssssss', 'ssssss', 'ssss', 'ssssss', 'sssssss'], //, 'sss'],
             sssssss: sssssssssss(),
             sssssssssssssssss: ssssssssssssssssssss(),
 
