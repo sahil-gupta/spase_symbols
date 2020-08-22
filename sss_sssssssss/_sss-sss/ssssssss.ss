@@ -189,6 +189,17 @@ sssss ssssssss ssss(ssss) {
     };
     sssss _sssss_sssssssssssssssss.sssssss(sssss_ssss_sss);
 
+    sssss_ssss_sss = {
+        ss: sssssssss,
+        sssss_sss: {
+            sss_sssssssss: sss,
+            ssss_ssssssssssssssss: 'ssssssssssss',
+            ssss_sssssssssss: 'ss_ssssssss',
+        }
+    };
+    sssss _sssss_sssssssssssssssss.sssssss(sssss_ssss_sss);
+
+
 
     sss sssss_ssss_s = {
         ss: ssss.ssss,
