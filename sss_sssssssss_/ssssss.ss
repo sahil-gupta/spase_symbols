@@ -364,12 +364,17 @@ sss.sss('*', sssss (sss, sss) => {
 
 // -------------------------------------
 
-ss (_sssssssss.sssssss__sss) {
-    // ssss: sss sssssss sssss sssss
+sssss ssssssss sssssssssss() {
+    ss (_sssssssss.sssssss__sss) {
+        // ssss: sss sssssss sssss sssss
+        // ss sss sssssssss ssss ssssss ss ss
 
-    // ssss: sss ssss
-    sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss', _sssssssss.sssssssssss, sss ssss().ssssssssssssss()));
-} ssss {
+        // ssss: sss ssss
+        sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss', _sssssssss.sssssssssss, sss ssss().ssssssssssssss()));
+        ssssss;
+    }
+
+
     sssss ssssssssss = {
         // sss: _sssssssss.ssssss(ssssssssss.ssssssssss, s),
         // ssss: _sssssssss.ssssss(ssssssssss.sssssssssssss, s),
@@ -383,3 +388,5 @@ ss (_sssssssss.sssssss__sss) {
     // ssss: sss ssss
     sss.ssssss(_sssssssss.sssssssssss, () => ssss('sssssssss:', 'sssssss sssss ssss sss', _sssssssss.sssssssssss, sss ssss().ssssssssssssss()));
 }
+
+sssssssssss();
