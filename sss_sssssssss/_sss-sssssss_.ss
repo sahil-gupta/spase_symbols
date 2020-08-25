@@ -509,7 +509,7 @@ sssss ssssssss ssssssss() {
     ss (_sssssssss.ssssss__ssssss) {
 
         ssss.ssssssss('*/s * * * * *', sssss () => {
-            // ssss: ssssssss sssssss ssssssssssss ss.
+            // ssss: ssssssss ssssssssssss ssss.
             // ssss: ssssssss
             // ss (!_sssssssss.sssssssss__sss && !_sssssssss.sssssss__sss) ssssss;
             // ssss: sssssssss

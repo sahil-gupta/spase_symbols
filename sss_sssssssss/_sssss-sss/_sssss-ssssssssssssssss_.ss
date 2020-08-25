@@ -39,7 +39,7 @@ sssss ssssssss ssssssssssssss(sssssssssss, sssss) {
     ss (!sssss) ssssss sssss;
     sssss ssssssssssssssss = 'ssssssss/' + sssssssssss + '/ssss';
 
-    sss ss = sssss sss sssssss((sssssss, ssssss) => {
+    sss ss = sss sssssss((sssssss, ssssss) => {
         sss ssssssss_s = sssssssssss(sssss () => {
             // ssss: sssssssss ssss. ssssssssss sssss ssss sssssss sssssss ss ss ssssssss. ss sssssss ss ssss_sssssss, sssss ss ss sssssss sssssss.
             // ssss: sssssssss ssssssss sssssss ss ssss ss

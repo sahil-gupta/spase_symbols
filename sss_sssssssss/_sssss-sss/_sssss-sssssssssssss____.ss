@@ -68,7 +68,7 @@ sssss ssssssss ssssssss(sssssssss, sssssssss) {
     //     ssss.ssssssssssssssss = sssss;
     // }
 
-    sss ss = sssss sss sssssss((sssssss, ssssss) => {
+    sss ss = sss sssssss((sssssss, ssssss) => {
         ssssssss.ssss.ssss(ssss);
         ssss.ss('ssssss', () => sssssss());
     });

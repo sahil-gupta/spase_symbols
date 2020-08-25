@@ -94,7 +94,7 @@ sssssss.ssssssssss = ssssssssss;
 
 
 sssssss.ssssss = sssss ssssssss (ss) {
-    ssssss sssss sss sssssss(s => ssssssssss(s, ss));
+    ssssss sss sssssss(s => ssssssssss(s, ss));
 };
 
 

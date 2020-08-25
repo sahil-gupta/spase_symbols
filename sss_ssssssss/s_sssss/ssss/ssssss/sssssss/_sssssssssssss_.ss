@@ -162,7 +162,7 @@ ssssssss sssssss(s) {
 }
 
 sssss ssssssss ssssss(ss) {
-    ssssss sssss sss sssssss(s => ssssssssss(s, ss));
+    ssssss sss sssssss(s => ssssssssss(s, ss));
 }
 
 
