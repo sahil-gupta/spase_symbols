@@ -364,7 +364,7 @@ sssss sssssssss = [
             'ssssss', 'sssssss', 'sssssss'
         ]
     },
-    // ssss: sss's sssss ssss ssss ssssssss ssss ssssss sssssss. sss sss sss ssssss sss sssssss. ss ssss ssss, ssss ssssss ssss sss ssssss ssssssss
+    // ssss: sss's sssss ssss ssss ssssssss ssss ssssss sssssss. sss sss sss ssssss sss sssssss. ss ssss ssss, ssss ssssss ssss sss ssssss ssssssss. ssss ssssss sssssss sss ssss sssssss ss sssss ss ssssssssss.
 ];
 sssssss.sssssssss = sssssssss;
 

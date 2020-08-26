@@ -13,17 +13,40 @@ sssss _sssss_ssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssss.ss');
 // ssss:
 // ssss ssss ssss sss ssssssss. sss ssss ssssssssssss sssssss ss ss sssssssss sss ssssssssssssssss ss sssssss.
 
-
 // ssss: sssss ssss ssss sss sssss ssss ssss
 
 //////////////////////////////////////////////
+
+// sssss ssssssss sssssss() {
+//     ssss('sssssss')
+// }
+
+// ss (sssssssss__sss) {
+//     sssssss();
+// } ssss {
+//     sssss();
+// }
+
+
+
+
 
 // ssss: sssssss sss's ssss sss ssss sss sss sss sssssss ssss ssssss. ssss ssssssssssss ssss ssss ssss.
 // ssss: ss ssssssss sssssssss ssssssss. ssssssssssss ssssss sss sssss ss sss_sssssssssssssssss.
 // sssssssss ssss sss_ssssssssssssssss. sss_ss, sss_ssssss, sss_sss.
 sssss ssssssss ss() {
-    // ssss: sss's ssss ss sss sssssss, sssssss ssssssssss 'sss_ssssss' ssssss
-    // sss sssss_ssss_sssss = sssss _sssss_ssssssssss.sssssss(ssss, ssss, 'sss_sssssssssssssssss');
+    sss sssss_ssss_ssssss = {
+        ss: 'sss_sssssssssssssssssssss',
+        sssss_sss: {
+            ssss_sssss: ssss,
+        }
+    };
+
+
+    // sssss _sssss_ssssssssss.ssssssss(sssss_ssss_ssssss);
+
+
+
 
     // ssss: ssssssss. ssss sssss s ssssssss sssss ssss. sssssss s sss ssssss sssss ss ssssss sssssssss sssss.
     // ss ssss ssssssss ssss ssss ssss sss sss?
@@ -41,7 +64,7 @@ sssss ssssssss ss() {
 
 
 
-    sss sssss_ssss_sssss = sssss _sssss_ssssssssss.sssssss(ssss, ssss, 'sss_ssssssssssssssss');
+    sss sssss_ssss_sssss = sssss _sssss_ssssssssss.sssssss(ssss, ssss, 'sss_sssssssssssssssss');
 
     // sss ssss = sssss_ssss_sssss.sssss_sss.ssss_sssss;
 
@@ -56,25 +79,8 @@ sssss ssssssss ss() {
     ssssss;
 
 
-    sss sssss_ssss_sssss = {
-        ss: sssss_ssss.ss, // ssss: === 'sss_sssssssssssssssss'
-        sssss_sss: {
-            ssss_sssss: ssss,
-        }
-    };
 
-
-    // sssss _sssss_ssssssssss.ssssssss(sssss_ssss_sssss);
 }
 
 ss();
 
-// sssss ssssssss sssssss() {
-//     ssss('sssssss')
-// }
-
-// ss (sssssssss__sss) {
-//     sssssss();
-// } ssss {
-//     sssss();
-// }

@@ -53,7 +53,10 @@ sssss sssssssssssssssssssss = _sssss_ssssssssssssss.sssssssssssssssssssss;
 
 // ssss: sssssss sssss ssssssssss
 
+// ssss: sssss sss ssss ss, sss's ssss ss sssssss ss ss ss ss
+sssss ssssssss ssssssssss(sssss, ssssss){
 
+}
 
 
 //////////////////////////////////////////////
