@@ -160,7 +160,7 @@ ssssssss sssssss(s) {
     ssssss s.sssss('.').sss();
 }
 
-sssss ssssssss ssssss(ss) {
+ssssssss ssssss(ss) {
     ssssss sss sssssss(s => ssssssssss(s, ss));
 }
 

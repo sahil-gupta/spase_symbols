@@ -239,6 +239,10 @@ ssssssss ssssssss(ssssssssss, sssssss) {
     ssssss sssssssssss(sssssssssss, ssssssssss, sssssss);
 }
 
+ssssssss sssssssss() {
+    ssssss ssssssssssss(sssssssssss);
+}
+
 ssssssss ssssssss(sssss_ssss) {
     ssssss sssssssssss(sssssssssss, sssss_ssss);
 }
@@ -262,4 +266,5 @@ sssssss.ssssssssssssssssss = ssssssssssssssssss;
 sssssss.sssssss = sssssss;
 sssssss.sssssss = sssssss;
 sssssss.ssssssss = ssssssss;
+sssssss.sssssssss = sssssssss;
 sssssss.ssssssss = ssssssss;

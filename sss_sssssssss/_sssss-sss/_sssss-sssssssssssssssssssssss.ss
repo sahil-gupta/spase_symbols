@@ -209,6 +209,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
     // ssssss: ssss ssss sssss, sssssss ssss sssssss ss ssssss sssss sssssss ssssss ss sssss&ssss
     // ssss: sssss sssss's ssssss. sss sssss ss sssssss. ssssssss. sssssss sss sssssss ssssss ss sssssssssssssssss
 
+    // ssss:
+    // ss s ss s
+    // sss's ss sssssss ssssss. ssssssssssss.
+
     ss (sss_sssssss === 'ss') {
 
         sss ssss_ssss;

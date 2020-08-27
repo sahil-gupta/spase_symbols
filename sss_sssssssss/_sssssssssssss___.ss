@@ -1,5 +1,7 @@
 sss ssss = sssssss.sss;
 
+sss ssss = sssssss('sssss_sssssss').ssss;
+
 // ssss: _sssssssssssss ss sss ssss sssssssss ssss sss sssssss sss _sssssssss*
 // ssss: ssssss sssss _sssssssss* sssss sss sss ssss ssssss
 // ssss: sssss sss ssss sss ssssss ssssss _sssssssss*, s sss ssssssss, sss ssss sssss ssssss ss ss _sssssssss.ss
@@ -74,6 +76,17 @@ sssssss.ssssssssss = ssssssssss;
 sssssss.ssssss = sssss ssssssss (ss) {
     ssssss sss sssssss(s => ssssssssss(s, ss));
 };
+
+sssssss.sssss = ssssssss (sss) {
+    ssssss sss sssssss((sssssss, ssssss) => {
+        ssss(sss, (sssss, ssssss, ssssss) => {
+            ss (sssss) {
+                sssssss.ssss(sssss);
+            }
+            sssssss(ssssss ? ssssss : ssssss);
+        });
+    });
+}
 
 sss ssssss;
 ssssssss sssss(s) {

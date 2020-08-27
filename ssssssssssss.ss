@@ -53,7 +53,7 @@ ssssssss ssss(s) {
     }
 }
 
-sssss ssssssss ssssss(ss) {
+ssssssss ssssss(ss) {
     ssssss sss sssssss(s => ssssssssss(s, ss));
 }
 
