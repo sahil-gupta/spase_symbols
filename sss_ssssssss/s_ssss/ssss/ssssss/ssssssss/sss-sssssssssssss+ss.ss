@@ -50,7 +50,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                         ss_ssss: ssss.ssss,
                     });
 
-                ss (sssssssss && sssssssss.ss_sssss) {
+                ss (sssssssss.ss_sssss) {
                     ssss.ssss_ssss = sssssssss.ss_ssss;
                 } ssss {
                     ssss.ssss_ssss = { ss: ssss, ssss_sss: {} };

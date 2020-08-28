@@ -9,7 +9,7 @@ sssss ssssssss sssssssssss() {
         {
             ss_ssssssssssss: ssssss_sssssssssssss,
         });
-    ss (sssssss && sssssss.ss_sssss) {
+    ss (sssssss.ss_sssss) {
         sss sss = sssssss.ss_ss;
 
         ssssss ssssss.ssssssss.sssssss('/ssssssss/' + sss);

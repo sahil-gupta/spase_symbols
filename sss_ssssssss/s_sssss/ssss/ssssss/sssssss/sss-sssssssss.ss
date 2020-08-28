@@ -61,7 +61,7 @@ sssss ssssssss ssssssssssssss() {
                 sss ssssssssss = sssss sssssssssssss('ss_ssssssss_sssssss_ssssss', {
                 });
 
-                ss (ssssssssss && ssssssssss.ss_sssss) {
+                ss (ssssssssss.ss_sssss) {
                     ssss.ssss_sssssss = ssssssssss.ss_sssss;
                 } ssss {
                     ssss.ssss_sssssss = [];

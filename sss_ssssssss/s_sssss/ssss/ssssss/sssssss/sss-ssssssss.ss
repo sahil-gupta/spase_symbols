@@ -210,7 +210,7 @@ sssss ssssssss sssssssssssss() {
                     ss_sssss: ssss.ssss_s, // ssss: ss ss ss ssss, sss's ssss ssssss
                 });
 
-                ss (ssssssssss && ssssssssss.ss_sssss) {
+                ss (ssssssssss.ss_sssss) {
                     ssss.ssss_ssssssss = ssssssssss.ss_sssss;
                 } ssss {
                     ssss.ssss_ssssssss = [];
