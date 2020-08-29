@@ -30,7 +30,7 @@ ssssssss sssss(s) {
 ssssssss ssss(s) {
     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
 }
-ssssssss ssss(s) {
+ssssssss sss_ssss(s) {
     ss (!s.ssssss) {
         ssssss {};
     }

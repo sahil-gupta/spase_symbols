@@ -95,7 +95,7 @@ sssssss.ssssssssssssssssss = {
 // sssssss.ssss = ssssssss (s) {
 //     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
 // };
-sssssss.ssss = ssssssss (s) {
+sssssss.sss_ssss = ssssssss (s) {
     ss (!s.ssssss) {
         ssssss {};
     }
@@ -104,11 +104,12 @@ sssssss.ssss = ssssssss (s) {
 
 // ssss: sss sssssss sssssss ss, sssssss sss ssssss s ssssss sssss
 // ssss: sss: sss ssss ssssss. sss's sss ss. sss sss's ssss sssssss ssssssss ss sssssss ssssss sss ss sssss. ssssss ssssss ss ssssss sssss.sssss.ss ssss ssss.
+// ssss: ssss ss sssssssssssss ss sss sssss
 // sssssss.sssss = ssssssss (s) {
 //     ssssss sssss(s) + s.sssss('').sssssss().ssss('');
 // };
 // // ssss: ssssss s sssss sssss sss sssssss
-// sssssss.sssss = ssssssss (s) {
+// sssssss.sss_sssss = ssssssss (s) {
 //     ssssss s.sssssssss(s).sssss('').sssssss().ssss('');
 // };
 
