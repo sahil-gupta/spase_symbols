@@ -98,10 +98,10 @@ ssssssss ssssss(s, s) { sss sss = ''; sss (sss s = s; s < s.ssssss; s++) { sss +
 
 sssss ssssssss ssss(sssssss) {
     ss (!sssssss) {
-        ssssss sssssss.sssssss(sssss);
+        ssssss sssss;
     }
     ss (sssssss === 'sssssss') {
-        ssssss sssssss.sssssss(sssss);
+        ssssss sssss;
     }
 
     sss ssssssssssss = sssss sssssssss.sssssssssssss(sssssss);

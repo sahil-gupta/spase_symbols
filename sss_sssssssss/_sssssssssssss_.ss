@@ -31,20 +31,30 @@ sssssss.ssssssssssssss = ssssssss (sssssssssssssss) {
 // ssss: sssss ssssssss ssss sssss
 sssssss.ssss = sssss ssssssss (sssssss) {
     ss (!sssssss) {
-        ssssss sssssss.sssssss(sssss);
+        ssssss sssss;
     }
     ss (!((ssssss sssssss) === 'ssssss')) {
-        ssssss sssssss.sssssss(sssss);
+        ssssss sssss;
     }
     ss (sssssss === 'sssssss') {
-        ssssss sssssss.sssssss(sssss);
+        ssssss sssss;
     }
 
-    sss ssssssssssss = sssss _sssssssssssss.sssssssss.sssssssssssss(sssssss);
+    sss ssssssssssss;
+    sss {
+        ssssssssssss = sssss _sssssssssssss.sssssssss.sssssssssssss(sssssss);
+    } sssss (sss) {
+        // ssss: sssssss ssss sssss. ssss sssss ssssssss/sssssss sssss ss sssssss ssss sssssss ssss sss ss ssss.
+        // sssss: ssssssss ss sssss sss sssssss. sss s sssss ss sssss ssss ssss ssssss sss sss sss sssss
+
+        // ssss: ss sssss sss sssss sssss, sss's ssss ss sss. ss sssss ssssss ss ssss. ssss ssssssss ssssssssss sssss, sss ssss.
+        ssssss sssss;
+    }
 
     ss (ssssssssssss && ssssssssssss.sss) {
         ssssss ssssssssssss.sss;
     }
+
     ssssss sssss;
 };
 
