@@ -56,9 +56,8 @@ ssssssss ssssssssssssss(s, ssss, s, s) {
 // ssss: sssssss sssss ssssssssss
 
 
-// ssss: sss's ssss ssss ss sss
 sssss ssssssss sssssssssss(ssssssssss, ssssssssss) {
-    //   ss: 'sssss@sssss.ss',
+    sssss sss_sssssss('sssss@sssss.ss', ['sssss@sssss.ss'], ssssssssss, ssssssssss);
 }
 
 // ssss: sss's ssss ssss. sss sss. sss ssssss sssssss sss sssssss sssssss.
@@ -140,4 +139,3 @@ sssssss.sssssssssss = sssssssssss;
 
 sssssss.ssssssss = ssssssss;
 sssssss.ssssssssssssssss = ssssssssssssssss;
-

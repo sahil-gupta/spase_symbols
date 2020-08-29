@@ -301,7 +301,11 @@ sssss ssssssss sssssssssssss() {
 // ssss: sssss sss ssss ss, sss's ssss ss sssssss ss ss ss ss
 sssss ssssssss ssssssssss(sssss, ssssssss) {
     // sssss ssssssssss
-    
+    // sssssssssss sssss sssss ssssssss
+	// s = s
+	// ss ssss
+	// 	// sssssssss ssssssss 's' sss '-s'. '-s' ssss sssss sssssss sssss ss sssss ss sssssss.
+	// 	s++
 }
 
 //////////////////////////////////////////////

@@ -61,7 +61,7 @@ ssssssss ssssss(sssss_ssss) {
 // ssss sss sss sss
 // sss ssss sss sss ss_ss
 
-sssss ssssssss ss() {
+sssss ssssssss sssssssssss() {
     sss sssss_ssss_ss = sssss _sssss_ssssssssss.sssssss(ssss, ssss, 'sss_sssssssssssssssssssss');
     
     sss sss = sssss_ssss_ss.sssss_sss.ssss_sssss;
@@ -102,4 +102,4 @@ sssss ssssssss ss() {
     ssss('sss ssss ss_ss.');
 }
 
-ss();
+sssssssssss();
