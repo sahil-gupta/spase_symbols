@@ -15,9 +15,11 @@ sssss ssssss = _sssssssss.ssssss;
 
 // ssss: sss: sss ssss ss sssssss sssss ssssssss.
 
-// ssss: sss's ssss ss sss sssss sssssssss ssss ssssssss sssssss sssss sssssss ss ssssss
+// ssss: sss's ssss ss sss sssss sssssssss ssss ssssssss sssssss sssss sssssss ss ssssss. sss: sss ssssss.
 
-// ssss: ssss sssssss ssssssssss sss sssssssssssssssss, ss ssss ss sssss ssssss ss sssssss ssssssssss sssss ssssss, ssss
+// ssss: sss's ssss sssss sss. ssssss sssssss ss ssssssssssssssss ss ssssss ss.
+
+// ssss: ssss ssss ss sssss ssssss ss sssssss ssssssssss sssss ssssss, ssss
 // ssss_sssssssssssssssssssssssssssss
 // ssss_ssssssssssssssssssssssss
 

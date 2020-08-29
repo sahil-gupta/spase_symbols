@@ -65,7 +65,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 's.s': sssss, // ssss: sssss ss ss s.s ss ss ssssss sssss
             },
 
-            ssss_ssssss: [
+            ssss_ssssssssss: [
                 'ss_sss',
                 'ss_sssss',
                 'ss_sss',
@@ -165,8 +165,8 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 });
 
             },
-            sss_s: ssssssss (ssss_s) {
-                sss.sss(ssss.ssss_sssssss.ssss_sss, 'ssss_sssssssss', ssss_s);
+            sss_ss: ssssssss (ssss_ss) {
+                sss.sss(ssss.ssss_sssssss.ssss_sss, 'ssss_sssssssss', ssss_ss);
             },
             sss_ss: ssssssss (ssss_ss) {
                 sss.sss(ssss.ssss_sssssss.ssss_sss, 'ssss_sssssssssssssssss', ssss_ss);
