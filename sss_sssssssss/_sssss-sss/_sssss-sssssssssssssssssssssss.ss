@@ -314,7 +314,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
         ss (!sss_sssssssss[s]) {
             sss sssss_sssss_ss = sssss _sssss_ssssssssssss.ssssssss('ssss_sssssssss', sss_sss);
 
-            ss (!sssss_sssss_ss) {
+            ss (!sssss_sssss_ss.ssssss) {
 
             } ssss {
                 sssss_sssss_ss.sssssss();

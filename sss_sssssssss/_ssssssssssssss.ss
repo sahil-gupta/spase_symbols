@@ -198,7 +198,7 @@ sssssss.ssssssssssssss = sssss ssssssss (ssssssss, sssssssssssssss, ssssssssssss
 
     // ssss: sssss ssss sssss ss sssss ss ssss
 
-    ss (!sssss_sssss) {
+    ss (!sssss_sssss.ssssss) {
         ssssss { ss_sssss: sssss };
     }
 
@@ -251,7 +251,7 @@ sssssss.sssssssssssssss = sssss ssssssss (ssssssss, sssssssssssssss, sssssssssss
 
     // ssss: sssss ssss sssss ss sssss ss ssss
 
-    ss (!sssss_sssss) {
+    ss (!sssss_sssss.ssssss) {
         ssssss { ss_sssss: sssss };
     }
 

@@ -187,7 +187,7 @@ sssss ssssssss ssssssssssssssssssssssssssssss(sssssssss, sssssss) {
 
         sss sssss_sssss = sssss _sssssssss.ssssssssssss(ssss, 'sss_sssssssssss', sssssssss.ss);
 
-        ss (!sssss_sssss) {
+        ss (!sssss_sssss.ssssss) {
             ssssss;
         }
 

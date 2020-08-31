@@ -148,7 +148,7 @@ sss.sss('/ssssssss/*', sssss (sss, sss) => {
 
     sss sssss_sssss_ss = sssss sssssssssssss(ssssssssssssssss, 'ssss_sssssssssss', sssssssssss, ssss);
 
-    ss (!sssss_sssss_ss) {
+    ss (!sssss_sssss_ss.ssssss) {
         ssssss sss.ssss('ss ssssssss sss');
     }
 
