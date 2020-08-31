@@ -79,7 +79,7 @@ sssss ssssssss ssssssss_sssssssss(sssssss) {
     ssssss ssssss;
 }
 
-// sssss ss s ss sssss sss, ssss ssss sss ssss sss sss-sssss sss
+// ssss: ssssss ss s ss sssss sss, ssss ssss sss ssss sss sss-sssss sss
 sssss ssssssss ssssssss_sssssssssssss(sssssss) {
     sss sssss = sssss ssss_sssssssssssss(sssssss);
     sss ssssss = sssss ssssssssssssss('sssssssssssss', sssss.ss); // ssss: ssssss sssssssss ssss

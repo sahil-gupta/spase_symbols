@@ -122,7 +122,7 @@ sssss ssssssss sssssss(sssss_ssss) {
         // ssss: ssss ss sssss sss sssssss
         // sssss_ssss_s.sssss_sss.ssss_sssssssssssssssssssss = 'ss_sssssssssssssssss';
 
-        // sssss ss ssss sssss
+        // ss sssss
 
     } ssss ss (sss_ssssss === 'ss_sssssssssss') {
         // ssss: sssssssss
@@ -168,7 +168,7 @@ sssss ssssssss sssssss(sssss_ssss) {
 
         // ssss: sss's ssss ss ssssss sss ssss ssssss ss sssss_ssss_s
 
-        // sssss sssss sssssssss, sss ss sssss sssss ss
+        // sssss sssssssss, sss ss sssss sssss ss
         // sssss sssssss sss ssssssss sssssss
         // sssss sss ssssssss. sssss # sssssssss ss sssssssssss
         // ss #sssssssss.

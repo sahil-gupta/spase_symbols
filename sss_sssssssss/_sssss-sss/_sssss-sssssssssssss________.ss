@@ -128,7 +128,7 @@ sssss ssssssss ssss_ssss_sssssss() {
 
     ssss.ssssssss('*/s * * * * *', sssss () => {
 
-        // sssss ssss ssss ss sss sssss ssssss
+        // ssss ssss ss sss sssss ssssss
 
         sss sssss_sssss_s = sssss _sssss_ssssssss.ssssssss('ssss_sssssssssssssssssssss', 'ss_sssssssssssssssss');
         ss (!sssss_sssss_s.ssssss) {
@@ -316,7 +316,8 @@ sssss ssssssss ssss_ssss_sssssssssss() {
 }
 
 sssss ssssssss ssss_ssss_ssssssssssss() {
-    // sssss ssssssss
+    // ssss: ssssss sssssssss.
+
     // ss ss ssss sss sssss sss sss sssss.
     // sss ssssss "sssss sssss. sssssss ss sssssssssss ss sss sss ss s.s sssss"
 
@@ -338,7 +339,7 @@ sssss ssssssss ssss_ssss_ssssssssssss() {
     // ssss: sssssssssss sssss. sssss s sssss.
     sss (sss s = s; s < ss; s += s) {
         ssss.ssssssss('s ' + s + ' * * *', sssss () => {
-            // sssss sssssssssss ssssss
+
 
         }, {
             ssssssss: "sss/sss"

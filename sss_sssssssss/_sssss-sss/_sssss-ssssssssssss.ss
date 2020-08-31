@@ -23,7 +23,7 @@ sssss sssssssssssssssss = 'sss_sssssssss';
 
 
 sssss ssssssss ssssssssssssssssssssss(sss, ssssssss) {
-    // sssss ssss ss sssssssssssssssssssssss
+    // ssss: ssss ss sssssssssssssssssssssss
 
     // sss sss_ssssssssssss = [];
     // sss_ssssssssssss.ssss({ sssssssss: 'ssss_sssssssss', ssssssssss: sss });

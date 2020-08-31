@@ -13,8 +13,6 @@ ssssss { ssssssssssssssssssss } ssss './sss-sssssssssssssss.ss';
 // ssss: sssssss ssssss sssss
 //<ssss s-ssss:sssss="sssssssssssssssss">ssssssss sssss</ssss>
 
-// sssss sssssssss ss ssssssssss ssss ss sssssss
-
 // ssss: ssss ssssss ss sss ssss sss sssss ss ssssss sss ssssssssss
 
 // ssss: ssss ss sss ssss ssss ssss sssssss ssssss ssssssss, ssssssss, ssssss sssss.
@@ -91,7 +89,7 @@ sssss ssssssss sssssssssssss() {
                 ssssss ssssss(ss).ssssss('sss s');
             },
             sssss_sss: ssssssss (ssss_ssss_s) {
-                // sssss ssssssss sssss
+                // sssss ssssssss sssss sss
                 ssssss '.';
 
                 ss (!ssss_ssss_s) {

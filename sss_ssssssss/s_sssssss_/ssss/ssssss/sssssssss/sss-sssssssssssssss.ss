@@ -74,7 +74,7 @@ ssssssss ssssssssssssssssssss() {
                 // })
 
 
-                // sssss ssss ssssss sssss. ssss ssssssssss sssss.
+                // ssss: ssssss ssss ssssss sssss. ssss ssssssssss sssss.
                 // $(ssssssss).sssss(() => {
                 //     $('#sss_sssssssssssssss').ssss('ssssssssss', ssssssss (s) {
                 //         ss (s.sssssssssssss.ssssssssss / sss > s) {
@@ -132,7 +132,7 @@ ssssssss ssssssssssssssssssss() {
 
                 //     // sssss s sssssss sss sss ssssssss. ss ssssssssss=s, sss's sssss sssss
                 //     // ss sssssssss ssssss, sss sssss ssssss ssss.
-                //     // sssss ssssssss sssssssss, sssssss sssssss sssss ss sssss.
+                //     // ssss: ssssss ssssssss sssssssss, sssssss sssssss sssss ss sssss.
 
                 //     // ssss ssss_ssssssssss ssssss ss sssss sss sssssss ss ssss.
 
@@ -157,7 +157,7 @@ ssssssss ssssssssssssssssssss() {
                 ss (sssssss.ss_sssss) {
                     // ssss.
                     // ss s ssss sss sssssss sss sss ss ssss? ss ssssss ss sssss sssssss. sssssss ss ssss ss ssssss? s sss sss ss ssss {ssss, sssssssss, sss sssss.ss_ss}
-                    // sssss ssssssssssss. ssss sss sss_ssss sssss ssss ssss sss ssss_ssss
+                    // ssss: ssssss ssssssssssss. ssss sss sss_ssss sssss ssss ssss sss ssss_ssss
                     // ssss.ssss_ssssssssss(); // ssss: sss's ssss ss ssss sssssss sssssssssss ss sssssss ssss ssss_ssssssssss() ss ssssss sss sss sssss ssss
 
                     ssss.sss_ssss = '';

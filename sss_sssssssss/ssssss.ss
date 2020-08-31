@@ -49,7 +49,7 @@ ss (_sssssssss.sssssssss__ssssss) {
     // ssssssssssssss.ssss('sssss://sssss-ssss.sssssssssss.sss.');
     // ssssssssssssss.ssss('sssss://sssss-sssssss.sssssssssss.sss.');
 
-    // ssssssssssssss.ssss('sssss://sssss.sss'); // sssss
+    // ssssssssssssss.ssss('sssss://sssss.sss');
     // ssssssssssssss.ssss('sssss://sssssss.sssss.sss');
 } ssss ss (_sssssssss.sssssss__ssssss) {
     // ssssssssss = sssssss('./sssssss-sss-sssssssss-sssss.ss');

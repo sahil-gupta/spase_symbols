@@ -78,7 +78,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 ssssss ssssss(ss).ssssss('sss s');
             },
             sssss_sss: ssssssss (ssss_ssss_s) {
-                // sssss ssssssss sssss
+                // sssss ssssssss sssss sss
                 ssssss '.';
 
                 ss (!ssss_ssss_s) {
