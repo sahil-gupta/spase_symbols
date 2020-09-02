@@ -315,14 +315,19 @@ sssss ssssssss sssssssssssssssss(sssss, sssssssss, sssssssss) {
     sss sssss_sssss_s = sssss sssssssss(sss_ssssssssssss, ssss, ssss, ssss, ssss, ssss);
 
     ss (!sssss_sssss_s.ssssss) {
-        ssssss [];
+        ssssss sssss;
     }
 
-    // ssss: ssssss ssssssss ssss s ssss. s ssss ssss, 's', ss '-s'. sss sssssss. 's' sss '-s' sssss sssssss ssss ssss ss sssss ss sssssss,  sssssssss ssss ss sssss ss sssssss.
-
+    // ssss: ssssss ssssssss ssss s ssss. s ssss ssss, 's', ss '-s'. sss sssssss. 's' sss '-s' sssss sssssss ssss ssss ss sssss ss sssssss, sssssssss ssss ss sssss ss sssssss.
     sss sssss_sssss_s_s = sssss_sssss_s.ssssss(sssss_ssss => sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss);
 
-    ssssss sssss_sssss_s_s;
+    ss (sssss_sssss_s_s.ssssss < ss) {
+        ssssss sssss;
+    }
+
+    // ssss: ssssss sss ss ss ss. sssssss ssss ssss sssssssss ss ssss sss.
+
+    ssssss sssss_sssss_s_s[ss];
 }
 
 //////////////////////////////////////////////
