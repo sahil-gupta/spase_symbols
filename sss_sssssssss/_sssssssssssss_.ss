@@ -319,6 +319,25 @@ sssssss.sssssssssssss = sssss ssssssss (sssssssssssssss, sssssssssssssss, ssssss
     ssssss sssss_sssss;
 };
 
+sssssss.sssssssssssss = sssss ssssssss (sssssssssssssss, sssssssssssssss, ssssssssssss) {
+    // ssss: sssssssssss sssssss sss ssssssss ss sssss
+
+    sss ssssssss = sssss _sssssssssssss.ssssssssss.ssssssssss(sssssssssssssss).sssss(sssssssssssssss, '==', ssssssssssss).sssssss('ssss_sssssss', 'ssss').sss();
+
+    ss (ssssssss.sssss) {
+        ssssss [];
+    }
+
+    sss sssss_sssss = [];
+
+    ssssssss.sssssss((sss) => {
+        sss sssss_ssss = { ss: sss.ss, sssss_sss: sss.ssss() }; // ssss: sssssssss ss ssss ssss sssss ssss
+        sssss_sssss.ssss(sssss_ssss);
+    });
+
+    ssssss sssss_sssss;
+};
+
 sssssss.ssssssssssss = sssss ssssssss (sssssssssssssss) {
     // ssss: sssssssssss sssssssss sss sssssss ssssssssss sss ssssssss ss sssss, sss ss s sssss
     // ssss: ssssss ss ss sss sssss sssssss ssss sssss sss's ssss sss sssss sssssssssss
