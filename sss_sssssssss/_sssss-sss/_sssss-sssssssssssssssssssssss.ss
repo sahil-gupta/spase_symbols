@@ -232,6 +232,8 @@ sssss ssssssss ssssssssssssss(sssss_ssss_sss, sssss_ssss_s) {
         sss ssss_ssss;
 
         ss (sss_sssssssss[s] === 's') {
+            // sssss ss sss ss ss s ssss ss_ssssssssss
+
             ss ([].ssssssss(sssssss_ssssss)) {
                 sss s = sssssssssssssss(sssss_sssss);
                 sss sssss = s.ssssssssss.sssssssss(ssssssss => ssssssss.ssss_ssss === sssssss_ssssss);
@@ -571,6 +573,26 @@ sssss ssssssss sssssss(sssss_ssss) {
     };
 
     // ssssss ssssss sss sss sssss s ss ssss, sss ss sssss ssss. sss's sss sssss_s ss sss_sssssss ss sss_ssssssss ss ssssssssssssssssss
+    // sss sss sssssssss. sss ssss sss sss ssssss. ssssss. ssssssss.
+
+    // ssss: ssssssss sss sss sssssssss. ssssss sssss ss sssss ssssss#ssss ss sss
+    // ss sss ssssss ss ssss ssss ss's s ssss sssssss.
+    // ss (sssssss.ssss_sss.ssss_sssssssss) {
+    //     sss sssss_ssss_s = sssss _sssss_ssssssss.sssssss(ssss, ssss, sssssss.ssss_sss.ssss_sssssssss);
+    //     ss (!sssss_ssss_s || sssss_ssss_s.sssss_sss.ssss_sssssssss) {
+    //         ssssss sss.ssss({ ss_sssss: sssss });
+    //     }
+    //     // sssssss.ssss_sss.ssss_ssssssssssssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssss;
+    //     sssssss.ssss_sss.ssss_ssssssssssssssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssssss;
+    //     sssssss.ssss_sss.ssss_ssssssssssssssssssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssss;
+    //     sssssss.ssss_sss.ssss_ssssssssssssssssssssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssssss;
+    // }
+
+    // ssss: ssssssssss ssssssssss ss ssss sssssss(). sss ss sss ss ssssssss. ssssss ss ssssssss. sss ssss sss_sssssss sss sss_ssssssss sssssss sss ssssssssssss.
+    // sss sssss ss ss_sssssss_ssssss_ssssssssssssssssssssss
+    // sss !ssss sss sssssssssss sssss ss ssssssssssssss()
+
+    // sssss sssssss ss sss's ssss ss ss sssssss sssss_ssss_s sssssssss ss sssssss ssss ss.
 
     //sssss ssssssssssssssssss
         //sss sss sssss s. ss s.ssss ss s ss -s ssss ssssss. sss ssssss ss-ssssss ssss "sssssss sssss ss " sss sss's sssss ssssssss sss ssss "ssssss". ssss ss ssss s.ssss sss sss sss
