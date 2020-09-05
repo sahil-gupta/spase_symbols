@@ -132,6 +132,7 @@ sssss ssssssss ssss_ssss_ssssss() {
 // ss ss ssss
 // sss ssss ssssssssss
 // sss ssss ssssss ssssssss ssss ssssssss
+// ssss sss sssss's sssssss ssss ssss s sss ssssss. sssssssss sss's ssss ss sssss ss ssss ssss s sss ssssss. ss sss sssss s ss ssss. sssssss sssss ssss.
 // sssss ssssssssssssssssssssssss
     //ssssssss ssssssss. sssss ssss sssssssss ss ssssss s.
         // sss sss_ssssssssssss = [];
@@ -154,7 +155,9 @@ sssss ssssssss ssss_ssss_ssssss() {
 // ssss sssssss ss ss ss sss ssss ss s ssssss s ssssss. ss ssss ssssss. sss ss ss sssss, sssssss.ss sssss sssss.
 sssss ssssssss ssss_ssss_sssssssssss() {
 
-// ssss ss sssssssssss sssssssssss sssssssssss ssssssssss
+// sssssssss.sssssss
+// ssss ss ssssssss sssssssssss sssssssssss ssssssssss
+// ssssssssssssss = _sssssssss.sssssssssss.ssssss(s => sss['ssssssss'].ssssssss(s['ssss']) && s['sssssssssss'] === _sssssssss.sssssssss__sss);
 
 // sssssssssssssssssssssss
     // sss ssss sss ssss ssss.
@@ -205,10 +208,11 @@ sssss ssssssss ssss_ssss_sssssssssss() {
 
     // sssss. sss sss ssssss sssss ssss ssss.
                 // sss ssss sssss sssssssssss sssssss ssssss ssssssssssssss.
+                // sss?
+                // ssss sss sssss ssss. ss sss sssssssssss ss sss ssssssss.
         // _sssssssss.ssssss.ssss('sss_sssssssssssss ' + sss);
-        // ssssss sss sssss ss s ssssss ssss.
         // sssss ss ssssss sss === 'ssssss'. sss ssss.sss ss sssss ssss ss sss sssss
-        // ss sss.sssssss ssss ssssss ss. sss's sssss sssss sssss.
+            // ss sss.sssssss ssss ssssss ss. sss's sssss sssss sssss.
         // ssss sss ss s sssssss. ssss's ss. sss's sss sssss.
         // ss sssss sssss. ssssss. sssssss ssss ssss. sss ssss ssss sss. sss ssss ss. ssssss sssss.
         //     sss ss = sssss _sssss_ssssssssss.sssssssssss('sss_sssssssssssss ', ssss.sssssssss({ 'ssss': ssss.sss() }));
