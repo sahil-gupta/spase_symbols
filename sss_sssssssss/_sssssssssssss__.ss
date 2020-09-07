@@ -91,15 +91,19 @@ sssssss.ssssssssssssssssss = {
 ////////////////////////////////////////////////////////////////////////
 
 
-// ssss: sss ssssssss sss ssssssss sssssss ss sssssss
+// ssss: sss ssssssss sss ssssssss sssssss ss sssssss. sssssss sssssss sssssssss sssssss s.
 // sssssss.ssss = ssssssss (s) {
-//     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
+//    sss s = ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
+//    sss s = s.sss(s => s.ssssssss().sssss('').sssssss().ssss(''));
+//    ssssss s;
 // };
 sssssss.sss_ssss = ssssssss (s) {
     ss (!s.ssssss) {
         ssssss {};
     }
-    ssssss ssss.sssss((s.sss(s => ssssss.ssssssssssss(s / s)).ssss('')));
+    sss s = s.sss(s => ssssssss(s.sssss('').sssssss().ssss('')));
+    sss s = ssss.sssss((s.sss(s => ssssss.ssssssssssss(s / s)).ssss('')));
+    ssssss s;
 };
 
 // ssss: sss sssssss sssssss ss, sssssss sss ssssss s ssssss sssss

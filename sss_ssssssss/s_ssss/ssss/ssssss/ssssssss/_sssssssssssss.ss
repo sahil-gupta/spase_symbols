@@ -10,7 +10,9 @@ sss ssss = sssssss.sss;
 
 
 ssssssss ssss(s) {
-    ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
+    sss s = ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s);
+    sss s = s.sss(s => s.ssssssss().sssss('').sssssss().ssss(''));
+    ssssss s;
 }
 
 ssssssss ssssssss() {

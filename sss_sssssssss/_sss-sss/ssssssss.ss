@@ -736,16 +736,30 @@ sssss ssssssss ssssssssssssssssss() {
 }
 // ssssssssssssssssss();
 
+sssss ssssssss ssssssss() {
+    sssss ssss = sssssss('ssss-ssss');
 
 
-sssss ssssssss ssssss() {
-    // ssss:  ssss ssssssss.ss  --sssssssssss sssss.
+    sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
 
-    sss ssssssssssssss = {};
-    _sssssssss.sssssssss.sssssss(sss => {
-        ssssssssssssss[sss['ssss']] = _sssssssss.sssssssssss.ssssss(s => sss['ssssssss'].ssssssss(s['ssss']) && s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
+    sssssssssssssss.sssssss(sssss ssssssss (sssss) {
+        ssss.ssssssss('*/s * * * * *', sssss () => {
+            sss ssssssssss = sssss;
+
+            ssss(ssssssssss);
+
+
+
+
+        });
     });
-    ssss(ssssssssssssss);
+}
+// ssssssss();
+
+
+
+// ssss:  ssss ssssssss.ss  --sssssssssss sssss.
+sssss ssssssss ssssss() {
 
     ssssss;
 

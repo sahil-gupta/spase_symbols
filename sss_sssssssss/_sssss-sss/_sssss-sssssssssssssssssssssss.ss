@@ -651,7 +651,8 @@ sssss ssssssss sssssss(sssss_ssss) {
         sss sssss_ssss_sss = {
             ss: sssssssss,
             sssss_sss: {
-                ssss_sssssss: ssssssssssssssssss(sssss)['ssss'],
+                // ssss_sssssss: ssssssssssssssssss(sssss)['ssss'],
+                ssss_sssssssss: sssss,
                 ssss_ss: 'ssss_sssssssssssssssssssss',
                 ssss_ssss: [sssss, ssssss, sssssss, ssssss, ssssssssssss, sssss],
             }
