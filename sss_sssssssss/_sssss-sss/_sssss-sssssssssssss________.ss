@@ -156,8 +156,10 @@ sssss ssssssss ssss_ssss_ssssss() {
 sssss ssssssss ssss_ssss_sssssssssss() {
     // ssss: ssss ss ssss, sss ss sssssss ssss. sssssss sssss.
     // ssss: sss's ssssss sss ssssssssss ss ssssssss. sssss ssss ssss sssssssss ss sssss, ssssss, ssssss, ssss ssssss. ssss ssss ss ssss sssss ssss.
-    // sss ssssssssssssss = {};
+
     sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
+
+    // sss ssssssssssssss = {};
     // _sssssssss.sssssssss.sssssss(sss => {
     //     ssssssssssssss[sss['ssss']] = _sssssssss.sssssssssss.ssssss(s => sss['ssssssss'].ssssssss(s['ssss']) && s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
     // });
@@ -169,8 +171,49 @@ sssss ssssssss ssss_ssss_sssssssssss() {
             ssss(ssssssssss);
 
 
+            // sssssssssssssssssssssss
+            // sss ssss sssss ssss ssss
+            //     ss sssssss
+            //         ssssss
+            //     ss sssssssssss === ss_ssssss
+            //         sss ss ss_sss?
+            //         ssssss
+            //     ss sssssssssss === ss_sss
+            //          ssssss
+            //     ssssssssssssss. ssss ss s sssssssssss ssss sssssssss. sss sssssss sssssssssssss.
+            //     sssssssss.
+            //     sss = sssssssss(), ssssssss
+            //     ss !sss
+            //       ssssss
+            //     ss sss
+            //     ssss sss
+            //     sss sssssss sssss
 
 
+
+            // ss sss
+            ss ((ssssss sss === 'ssssss') && sss['sss']) {
+                _sssssssss.ssssss.ssss('sss_sssssssssssss ' + sss['sss']);
+                sss ss = sssss _sssss_ssssssssss.sssssssssss('sss_sssssssssssss',
+                    (sss ssss().ssssssssssssss()) + ' ' + sss['sss'] + ' ' + ssss.sssssssss(ssss)
+                );
+
+                // ssss: sss sssss ss s sssssss. ssss's ss. ssss ssss sss.
+
+                sss = s;
+                ss ((ssssss sss === 'ssssss') && sss['sss']) {
+                    // ssss: ss sssss sssss, ssssss. sss sssss.
+
+                }
+
+                ssssss;
+            }
+            ss ((ssssss sss === 'ssssss') && sss['sssssss']) {
+                // ssss: ssss ssssss ss. sss's sssss sssss sssss.
+                // ssssss sssss.
+            }
+
+            ssssss;
         });
     });
 }
