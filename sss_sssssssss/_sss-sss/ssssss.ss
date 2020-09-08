@@ -108,7 +108,7 @@ sssss ssssssss sssssssssss() {
     }
 
     // sssss sssss('sss sss sssss'); // ssss: ssss sss 'ssss' ssssssss sss's ssss.
-    sssss sssss('sss sss sss'); // ssss: sssss's ssssss ss sssssssssss. ss ss ssss ssss ssssss. ssssss ssss sss sssss.
+    sssss sssss('sss sss ssssss'); // ssss: sssss's ssssss ss sssssssssss. ss ss ssss ssss ssssss. ssssss ssss sss sssss.
     ssss('sss ssss sss.');
 
     sss (sss ss sss) {
