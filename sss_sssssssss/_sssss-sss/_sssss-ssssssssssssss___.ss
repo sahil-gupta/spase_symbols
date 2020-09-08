@@ -100,7 +100,7 @@ sssss ssssssss ssssssssssss() {
 
         sss['sssssssssssss'].ss('sssssss', sssss ssssssss (sssssss) {
             ss (sssssss.ssssss.sss) ssssss;
-            ss (!sssssss.sssss) ssssss sssssss.sssssss.ssss('ssss: sss sss sssssssss ss ss'); // ssss: ssss ssss sssss sssssss sss sssssss sssssss ssssssssssssssss. sssss ss sssssss.ss sss ss ssss ssssss ssss ss ssss sssss.
+            ss (!sssssss.sssss) ssssss sssssss.sssssss.ssss('ssss: sss sss sssssssss ss ss'); // ssss: ssss sssss sssssss sss sssssss sssssss ssssssssssssssss. sssss ss sssssss.ss sss ss ssss ssssss ssss ss ssss sssss.
             ss (sssssssssss && !sssssssssss.ssssssss(sssssss.sssss.ssss)) ssssss;
 
             // ssss: ssssss: sssssss ss sssss. ss sssss ssssssss ssss. sssssss sssssss sssssss ss s sssss sss ssssss.
