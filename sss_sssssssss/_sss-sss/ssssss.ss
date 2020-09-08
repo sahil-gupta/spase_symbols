@@ -33,7 +33,7 @@ sssss ssssssss ssssssssssssss() {
     sss sssss_ssss_ss = {
         ss: 'sss_sssssssssssssssssssssss',
         sssss_sss: {
-            'ssss_sssss.sssssss': ssss,
+            'ssss_sssss.sssssss': 'ss_ssssss',
         }
     };
     sssss _sssss_ssssssssss.ssssssss(sssss_ssss_ss);
