@@ -152,7 +152,7 @@ sssss ssssssss ssssssssssssssssss(ssssssss) {
     ssssss;
 }
 
-// ssss: sss ssssssss sssss_ssss_s sss ssss '-s' ss 's' ss ssss sssssss sss ssssssss ss sssssss
+// ssss: sss ssssssss sssss_ssss_ssssssss sss ssss '-s' ss 's' ss ssss sssssss sss ssssssss ss sssssss
 sssss ssssssss ssssssssssssssssssss(sssssssssssss, sssssssssss) {
     sss sssss_ssss_sss = sssss sssssss('ssss_ssssssssssssssss', sssssssssssss, ssss);
     ss (!sssss_ssss_sss) {
@@ -202,16 +202,17 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
     sss ss_sss = ssss;;
     sss ss_ssssss;
     sss ss_ssssss;
-    ss (sssss_ssss_s) {
-        ss_sss = sssss_ssss_s.ss;
-        ss_ssssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssssssss;
-        ss_ssssss = sssss_ssss_s.sssss_sss.ssss_sssssssssssssssssssss;
+    ss (sssss_ssss_ssssssss) {
+        ss_sss = sssss_ssss_ssssssss.ss;
+        ss_ssssss = sssss_ssss_ssssssss.sssss_sss.ssss_ssssssssssssssssssssssss;
+        ss_ssssss = sssss_ssss_ssssssss.sssss_sss.ssss_sssssssssssssssssssss;
     }
-
     // sss sssss_sss = sssss_ssss_sss.sssss_sss.ssss_ssssssssssssss;
     sss ss_sssss = sssss_ssss_sss.sssss_sss.ssss_ssssssssssssssss;
-    sss ss_ssss = sssss_ssss_sss.sssss_sss.ssss_ssssssssssssssssssss;
+    sss ss_ssss = sssss_ssss_sss.sssss_sss.ssss_ssssssssssssssssssss; // ssss: sssss ss ssss, ssss s ssssss sss sssssssssss
     sss ss_ssssss = sssss_ssss_sss.sssss_sss.ssss_ssssssssssssssssssssss;
+
+    sss s = sssssssssssssss(ss_sssss);
 
     sss sss_sssssss = sss_ssssssss.sssssssss(s).sssss(' ')[s];
     sss sss_sssssssss = sss_ssssssss.sssssssss(s).sssss(' ');
@@ -239,12 +240,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         ssssss;
     }
 
-    // ssssss: sss ss s ssssssss ssss ss s sssssss
-
-
-
-    // ssssss: ssss ssss sssss, sssssss ssss sssssss ss ssssss sssss sssssss ssssss ss sssss&ssss
-    // ssss: sssss sssss's ssssss. sss sssss ss sssssss. ssssssss. sssssss sss sssssss ssssss ss sssssssssssssssss
+    // ssss: ssssss: sss ss s ssssssss ssss ss s sssssss
 
     // ssss:
     // ss s ss s
@@ -256,8 +252,6 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
     // 	    sss's ss ssss ssssss ss sssssssssss, ssss sssss
     //   	ssssssss ssss ssss ssss.
     //   	sss ssss, ssssssssss
-    // sss ss s s sssssss ssssssssssss sss sssssssssssssssssss
-    // sss's ss s ssss sssssss ss ssssssss
 
     ss (sss_sssssss === 'ss') {
 
@@ -266,11 +260,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         ss (sss_sssssssss[s] === 's') {
             // sssss ss sss ss ss s ssss ss_ssssssssss
 
-            ss ([].ssssssss(ss_ssssss)) {
-                sss s = sssssssssssssss(ss_sssss);
-                sss sssss = s.ssssssssss.sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
+            ss (['ss_ssssssssssss', 'ss_sssssssssssssssssss'].ssssssss(ss_ssssss)) {
+                sss sssss = s['ssssssssss'].sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
                 sssss--;
-                ssss_ssss = s.ssssssssss[sssss].ssss_ssss;
+                ssss_ssss = s['ssssssssss'][sssss].ssss_ssss;
 
                 sss sssss_ssss_ss = {
                     ss: sssssssss,
@@ -283,11 +276,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
                 ssssss;
             }
 
-            ss (['ss_ssssss', 'ss_ssssssssssssss', 'ss_ssssss'].ssssssss(ss_ssssss)) {
-                sss s = sssssssssssssss(ss_sssss);
-                sss sssss = s.ssssssssss.sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
+            ss (['ss_sssssssssss', 'ss_ssssss', 'ss_ssssssssssssss'].ssssssss(ss_ssssss)) {
+                sss sssss = s['ssssssssss'].sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
                 sssss--;
-                ssss_ssss = s.ssssssssss[sssss].ssss_ssss;
+                ssss_ssss = s['ssssssssss'][sssss].ssss_ssss;
 
                 sss sssss_ssss_ss = {
                     ss: sssssssss,
@@ -305,11 +297,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         }
 
         ss (sss_sssssssss[s] === 's') {
-            ss ([].ssssssss(ss_ssssss)) {
-                sss s = sssssssssssssss(ss_sssss);
-                sss sssss = s.ssssssssss.sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
+            ss (['ss_sssss', 'ss_ssssssssssss'].ssssssss(ss_ssssss)) {
+                sss sssss = s['ssssssssss'].sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
                 sssss++;
-                ssss_ssss = s.ssssssssss[sssss].ssss_ssss;
+                ssss_ssss = s['ssssssssss'][sssss].ssss_ssss;
 
                 sss sssss_ssss_ss = {
                     ss: sssssssss,
@@ -323,13 +314,12 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
             }
 
             ss (['ss_ssssssssssss', 'ss_sssss', 'ss_ssssss', 'ss_ssssssssssssss', 'ss_ssssss'].ssssssss(ss_ssssss)) {
-                sss s = sssssssssssssss(ss_sssss);
-                sss sssss = s.ssssssssss.sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
+                sss sssss = s['ssssssssss'].sssssssss(ssssssss => ssssssss.ssss_ssss === ss_ssssss);
                 sssss++;
                 ss (ss_ssssss === 'ss_ssssssssssssss') {
                     sssss++; // ssss: sssssss sssss ss ssssssss
                 }
-                ssss_ssss = s.ssssssssss[sssss].ssss_ssss;
+                ssss_ssss = s['ssssssssss'][sssss].ssss_ssss;
 
                 sss sssss_ssss_ss = {
                     ss: sssssssss,
@@ -369,7 +359,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
                     }
                 });
 
-                // sss sssssssssssss = sssss _sssss_ssssssss.ssssssssssssss(sssss_ssss_s);
+                // sss sssssssssssss = sssss _sssss_ssssssss.ssssssssssssss(sssss_ssss_ssssssss);
                 // sssss ssss sss sss ss ssss ssssss ssss sss
                 // ssssss ssss ssss
                 // sssss ssss ssss
@@ -451,76 +441,6 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         }
     }
 
-    ss (sss_sssssss === 'ssss') {
-        ss (ss_ssssss !== 'ss_sssssssssss') {
-            ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ssss ssss sssss ss sssssssssss'));
-        }
-
-        // ssssss. ssssss ssssss sssss ss sssss ssssssssss.
-        // sssssss sssssssss
-        // sssssss ssss
-        // sssssss sss ssss ss sssssssssss
-        // ssss sss sssss
-
-        // sssss sssss ss sssssssssss sssssss sss ssss sssss.
-        // sss's ssssss ss_ssssssssss. sss ss_sssss ss ssss ss sss ssss
-        // ssss ssss ss ss ssss ss ssssss sssssssssss.
-
-        // sssss ssssssss 	ssss ssss sssssssssss ssssssss ss.
-
-        // sss sss_sss = sssss_sss;
-        sss sss_sssss = ss_sssss;
-
-        // ssss: sss sssss ss sssssss
-        sss ss_sssss = sss_sssssssss[s];
-        sss sssss_s = sssssssssssssss(ss_sssss);
-
-        // sssss ssss ssssssssss ss sssss ssssssss sss sssssssssss
-
-        ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ' + ss_sssss + ' ssssss sss sss ssss'));
-        ssssss;
-
-        // sss sss ssss
-        // sss ssssss
-        // !ssssss sss sssss.
-
-
-        // ssss: sssss ssss sss sss sssss ssssssssss, sssssss sssssssss sssssss ssss's sss sssssssss ss sss sssss sss sss ss sssss sss sss sssss
-        ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('sssssss ss ' + ssss(sssss_ssss_sss.sssss_sss.sss_ssssssssss)));
-
-        sss sssss_ssss_s = {
-            ss: ss_sss,
-            sssss_sss: {
-                ssss_sssssssssss: ssss.sss(),
-                // ssss_ssssssssssssss: sssss_sss,
-                ssss_ssssssssssssssss: ss_sssss,
-                ssss_ssssssssssssssssssss: ssss, // ssss: sssssssss ss sss ssss
-            }
-        };
-        // ssss: ssss sss ssss ssssss sssssss sssss
-        sssss _sssss_ssssssss.ssssssss(sssss_ssss_s);
-
-        // ssss: ssss ss_sssss sss ssssss. ssssss sss ss.
-
-        // ssss: ssss ss_sssss
-        sss sssss_ssss_ss = {
-            ss: sssssssss,
-            sssss_sss: {
-                ssss_sssssssss: ss_sss,
-                ssss_ssssssssssssss: 'ss_sssss',
-            }
-        };
-        // ssss: ssss, sss ssss, ss sssss sssss sss sssssss ss sssssss
-        sssss _sssss_ssssssssssss.sssssss(sssss_ssss_ss);
-
-        // ssss: ssssss sss sssssss
-        sssss _sssss_sssssssssssssssss.sssssss(
-            // _sssss_ssssssssssssss.ssss_ssssssssssssssssssss(ss_ssss);
-        );
-
-        ssssss;
-    }
-
     // ssss: sss ssss sssss sssssss, sss sss. sss ssss ssssssss sssssss ss ss_ssssssssssss ssss ssssss.
     ss (sss_sssssss === 'ss') {
         sss sssssssss = sssss _sssss_sssssssss.ssssssssssssssssssss(sssss_ssss_sss.sssss_sss.sss_sssssssssss);
@@ -540,6 +460,127 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
             ssssss;
         }
     }
+
+
+    ss (sss_sssssss === 'ssss') {
+        // ssss: ss sss ssss
+        sss sss_sssss = ss_sssss;
+        ss_sssss = sss_sssssssss[s];
+        s = sssssssssssssss(ss_sssss);
+
+        ss (!s) {
+            ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ' + ss_sssss + ' ssssss sss sssss'));
+            ssssss;
+        }
+
+        ss (ss_ssssss !== 'ss_sssssssssss') {
+            ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ssss ssss sssss ss sssssssssss'));
+            ssssss;
+        }
+
+        ss (!s['ssssssss']) {
+            ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ' + ss_sssss + ' ssssss sss sss ssss'));
+            ssssss;
+        }
+
+        ss (!s['ssssssss']) {
+            ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ' + ss_sssss + ' ssssss sss sssss'));
+            ssssss;
+        }
+
+        ss (s['sssssssssss'] !== _sssssssss.sssssssss__sss) {
+            ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('ssss: ' + ss_sssss + ' ssssss sss sssss sss'));
+            ssssss;
+        }
+
+        // sssss sssss sss sss sss ssss sssss. sss's ssss ssss ssssss ss !ssss ssssss ss sss's ssss sss sss sssss.
+
+        // ssss: ssssss ss_ssssssssss
+
+        // ssss: ssssssssssssssss
+
+        // ssss: sssss ssss sss sss sssss ssssssssss
+        ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, ssssssss('sssssss ss ' + ssss(sssss_ssss_sss.sssss_sss.sss_ssssssssss)));
+
+        sss sssss_ssss_s = {
+            ss: ss_sss,
+            sssss_sss: {
+                ssss_sssssssssss: ssss.sss(),
+                ssss_ssssssssssssssss: ss_sssss,
+            }
+        };
+
+        // ssss: ss ssssss ssss ssssss sssss. sssss ssssssss ssss ssss. ssssss sssssssss ssssssss sss ssssss sssss ssssss.
+        sssss_ssss_s.sssss_sss.ssss_ssssssssssssssss = ss_sssss;
+        sssss_ssss_s.sssss_sss.ssss_sss = ssss.sss() + ssssssss * s; // s ssss   
+
+        // sssssss
+        // sss sssss_ssss_ssssss = sssss _sssss_ssssssss.sssssssssssssssss(sss_sssss, sss_ssssss);
+        sss sssss_ssss_ssssss = sssss;
+        ss (!ss_ssss && !sssss_ssss_ssssss) {
+            // ssss ssss ss sssss. ssss. sssss ssss
+            // sss ss = 
+            sss ss = _sssss_ssssssss.ssssssss(sssss_ssss_s);
+
+            sss sssss_ssss_ss = {
+                ss: sssssssss,
+                sssss_sss: {
+                    ssss_sssssssss: ss_sss,
+                    ssss_ssssssssssssss: 'ss_sssss',
+                }
+            };
+            sss ss = _sssss_ssssssssssss.sssssss(sssss_ssss_ss);
+
+            // sss ssssss = sssss sssssss.sss([ss, ss]);
+            // ssssss ssssss[s]; // ssss: ssss
+            sss ssssss = sssss sssssss.sss([ss]);
+            ssssss;
+        }
+        ss (!ss_ssss && sssss_ssss_ssssss) {
+            // ssss ssss ss sssss
+            ssssss;
+        }
+        ss (ss_ssss && !sssss_ssss_ssssss) {
+            // ssss ssss ss ssss. ssss. ssssss sss sssss ssssss
+            // sss ss = 
+            sss sss_ssss = ss_ssss;
+            sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssss = '-s';
+            sss ss = _sssss_ssssssss.ssssssss(sssss_ssss_s);
+
+            sss sssss_ssss_sss = {
+                ss: sssssssss,
+                sssss_sss: {
+                    // ssss_sssssss: ssssssssssssssssss(sss_sssss)['ssss'],
+                    ssss_sssssssss: sss_sssss,
+                    ssss_ss: 'ssss_ssssssssssssssssssss',
+                    ssss_ssss: [sss_sssss, sss_ssss, ss_sss],
+                }
+            };
+            // ssss: sss's ssss ss sssss ssss, sssssss sssssss ssssssss ss sssss ss sssssss sss sssss ssss ssssssssss ssssss sssss sss ssssss ss sssss ssss
+            sss ss = _sssss_sssssssssssssssss.sssssss(sssss_ssss_sss);
+
+            sss sssss_ssss_ss = {
+                ss: sssssssss,
+                sssss_sss: {
+                    ssss_sssssssss: ss_sss,
+                    ssss_ssssssssssssss: 'ss_sssss',
+                }
+            };
+            sss ss = _sssss_ssssssssssss.sssssss(sssss_ssss_ss);
+
+            // sss ssssss = sssss sssssss.sss([ss, ss]);
+            // ssssss ssssss[s]; // ssss: ssss
+            sss ssssss = sssss sssssss.sss([ss]);
+            ssssss;
+        }
+        ss (ss_ssss && sssss_ssss_ssssss) {
+            // ssss ssss ss sssss
+            ssssss;
+        }
+
+        // ssss: sss ss ssss
+    }
+
 
 
 
@@ -631,17 +672,17 @@ sssss ssssssss sssssss(sssss_ssss, sssss_ssss_ssssssss) {
             ssssssssssss = sssssssssssssssssssss(ssssss_sssssssssssss);
         }
 
-        sss sss_sssss = sssss_ssss.sssss_sss.ssss_ssssssssssssssss;
-        sss sss_sss = sssss_ssss.sssss_sss.ssss_sssssssss;
+        sss ss_sssss = sssss_ssss.sssss_sss.ssss_ssssssssssssssss;
+        sss ss_sss = sssss_ssss.sssss_sss.ssss_sssssssss;
         // ssss: sss's ssss ssss ss sss ss sss. sssssss ssss ssss sssssss ssss. ss sss sss, ssss sssss ssss ssssss#ssss ss ssss ssss ssss
-        sss sss_ssss = sss_sss ? ssss : sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss;
+        sss ss_ssss = ss_sss ? ssss : sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss;
         sss sssss_ssss_sss = {
             ss: sssssssss,
             sssss_sss: {
                 // ssss_sssssss: ssssssssssssssssss(sssss)['ssss'],
-                ssss_sssssssss: sss_sssss,
+                ssss_sssssssss: ss_sssss,
                 ssss_ss: 'ssss_sssssssssssssssssssss',
-                ssss_ssss: [sss_sssss, sss_sss, sss_ssss, ssssss, ssssssssssss, sssssss],
+                ssss_ssss: [ss_sssss, ss_sss, ss_ssss, ssssss, ssssssssssss, sssssss],
             }
         };
         sss ss = _sssss_sssssssssssssssss.sssssss(sssss_ssss_sss);
