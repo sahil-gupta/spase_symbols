@@ -11,7 +11,7 @@ sss ssss = sssssss('sssss_sssssss').ssss;
 
 sssss sssssssss__sss = sssssss.ssss.ssssssss('--sssssssssss'); // ssss: ssss ssss ssss ssssssssss ssss ss sssssss sss
 sssssss.sssssssss__sss = sssssssss__sss;
-sssssss.sssssss__sss = sssssss.ssss.ssssssss('--sssssssss');;
+sssssss.sssssss__sss = sssssss.ssss.ssssssss('--sssssssss');
 
 sssssss.sssssssss__ssssss = sssssss.ssss.ssssssss('--sssssssssss');
 sssssss.sssssss__ssssss = sssssss.ssss.ssssssss('--sssssssss');
