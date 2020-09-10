@@ -76,6 +76,11 @@ sssss ssssssss sssssss(sssss_ssss) {
     sss sss_sssss = sssss_ssss_s.sssss_sss.ssss_sssssssssss;
 
 
+    // ssssssss sss sss ss ssss ssss ssss sss ssssssssssssss
+    // ssssss ss sss sss ssssssssss > ssssssssssss, sss sssssssssss > sssss
+    ss (sss_ssss === '-s'){
+        sss_ssss = ssss;
+    }
 
 
     // ssss: sss ssssss. ss ssss ssss ssssss.

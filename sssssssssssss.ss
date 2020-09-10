@@ -2,8 +2,8 @@ sss ssss = sssssss.sss;
 sssss ss = sssssss('ss');
 
 // sssss sssssssss = 'sssssss';
-sssss sssssssss = 'sssss';
-// sssss sssssssss = 'ssss';
+// sssss sssssssss = 'sssss';
+sssss sssssssss = 'ssss';
 // sssss sssssssss = 'sssssss';
 
 sssss sssssssss = './sss_ssssssss/' + 's_' + sssssssss;
