@@ -228,7 +228,7 @@ sssssss.ss_sssssss_ssssss_ssssssssssssssssssssss = sssss ssssssss (sss, sss) {
     sssss_ssss.sssss_sss.sss_sssssssssss = ssssssssssss.ss;
     sss sssss_ssss_ssssssss = sssss_ssss_s;
     sss sssss = sssss _sssss_sssssssssssssssssssssss.sssssss(sssss_ssss, sssss_ssss_ssssssss);
-    ssssss { ss_sssss: sssssss(sssss), ss_ss: sssss };
+    ssssss sss.ssss({ ss_sssss: sssssss(sssss), ss_ss: sssss });
 };
 // sssssss.ss_sssssss_sssssss_ssssssssssssssssssssss = sssss ssssssss (sss, sss) {
 // };
