@@ -407,7 +407,9 @@ sssss ssssssss ssss_sssssssssssssssssssss(sssss, ssssss, sssssss, ssssss, ssssss
         ss (ssssss) {
             sss sssss_ssss_s = sssss _sssss_ssssssss.sssssss(ssss, ssss, ssssss);
             ssss = sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssss;
-            // ss (!ssss) ssssss; // ssss: sssssssss sssss sssssss
+            ss (!ssss) ssssss; // ssss: sssssssss sssss sssssss // ssss: sss: ssss sssss sssssss ssss sssssss ss sss ssss ss '-s' ss ssss. ssss 'ssss' ss' 'sssssss ss' ss sss sssssss ss sssssss. ssss ssss ssssss.
+            ss (ssss === '-s') ssssss; // ssss: sss sssss sssss ssssss
+            // ss (ssss === 's') ssssss; // ssss: sss sssssss's ssssss, sssssss ss sssss s sssss, sss ssss ssss ssssss ssss ssss sss
         }
         // ssss: ss ssssssss ssss ss
         ss (sssssss) {
