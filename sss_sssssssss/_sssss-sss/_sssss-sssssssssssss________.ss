@@ -224,7 +224,7 @@ sssss ssssssss ssss_ssss_sssssssssss() {
             sss sss = sssss _sssss_ssssssssssssss[sss_ss](...sss_ssss);
 
             // ssss: sssss ssssssss
-            ss ((ssssss sss === 'ssssss') && sss['sss']) {
+            ss (sss && (ssssss sss === 'ssssss') && sss['sss']) {
                 _sssssssss.ssssss.ssss('sss_sssssssssssss ' + ssss.sssssssss(sss['sss']));
                 _sssss_ssssssssss.sssssssssss('sss_sssssssssssss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(sss['sss']) + ' ' + sss_ss + ' ' + ssss.sssssssss(sss_ssss));
 
@@ -234,18 +234,18 @@ sssss ssssssss ssss_ssss_sssssssssss() {
                 sss = sssss _sssss_ssssssssssssss[sss_ss](...sss_ssss);
 
                 // ssss: ss sssss sssss, ssssss. sss sssss.
-                ss ((ssssss sss === 'ssssss') && sss['sss']) {
+                ss (sss && (ssssss sss === 'ssssss') && sss['sss']) {
                     _sssssssss.ssssss.ssss('sss_sssssssssssss ssssssssss ' + ssss.sssssssss(sss['sss']));
                     _sssss_ssssssssss.sssssssssss('sss_sssssssssssss ssssssssss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(sss['sss']) + ' ' + sss_ss + ' ' + ssss.sssssssss(sss_ssss));
 
-                } ssss ss ((ssssss sss === 'ssssss') && sss['sssssss']) {
+                } ssss ss (sss && (ssssss sss === 'ssssss') && sss['sssssss']) {
                     _sssssssss.ssssss.ssss('sss_sssssssssssss ssssssssss sssssss ' + ssss.sssssssss(sss['sssssss']));
                     _sssss_ssssssssss.sssssssssss('sss_sssssssssssss ssssssssss sssssss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(sss['sssssss']) + ' ' + sss_ss + ' ' + ssss.sssssssss(sss_ssss));
                 } ssss ss (sss === ssss) {
                     _sssssssss.ssssss.ssss('sss_sssssssssssss ssssss');
                     _sssss_ssssssssss.sssssssssss('sss_sssssssssssss ssssss', sss ssss().ssssssssssssss());
                 }
-            } ssss ss ((ssssss sss === 'ssssss') && sss['sssssss']) {
+            } ssss ss (sss && (ssssss sss === 'ssssss') && sss['sssssss']) {
                 _sssssssss.ssssss.ssss('sss_sssssssssssss sssssss ' + ssss.sssssssss(sss['sssssss']));
                 _sssss_ssssssssss.sssssssssss('sss_sssssssssssss sssssss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(sss['sssssss']) + ' ' + sss_ss + ' ' + ssss.sssssssss(sss_ssss));
             }
