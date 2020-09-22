@@ -287,7 +287,7 @@ sssss ssssssss ssss_ssssssssssssssssssssssssssss(sssss, ssssss, sss, sssssss) {
             sss sssss_ssss_sss = sssss_sssss_ssss[s];
 
             sss sssssssss = sssss_ssss_sss.sssss_sss.sss_ssssssssss.sssssssss(s, sssss_ssss_sss.sssss_sss.sss_ssssssssss.sssssss('#'));
-            sss ssssss = '@' + sssssssss + ': ' + sssss_ssss_sss.sssss_sss.ssss_ssss; // ssss: ssss sssss ss ssssssss ssss ssss ssssssssss. ss ssss ssss ssssssssssssssssssss
+            sss ssssss = '@' + sssssssss + ': ' + (sssss_ssss_sss.sssss_sss.ssss_ssss || ''); // ssss: ssss sssss ss ssssssss ssss ssss ssssssssss. ss ssss ssss ssssssssssssssssssss
 
             ss (sssss_ssss_sss.sssss_sss.ssss_ssssssssssssss) {
                 sss ssssss_sssssssssssss = sssss _sssssssss.ssss(sssss_ssss_sss.sssss_sss.ssss_ssssssssssssss);
@@ -427,7 +427,7 @@ sssss ssssssss ssss_sssssssssssssssssssss(sssss, ssssss, sssssss, ssssss, ssssss
         sss ssssssssss = ssssssssssssssssss(sssss)['sssssssssssss'];
 
         sss ss = sssss ssssssssss.ssssssss.sssss.sss(ssss);
-        // ss (!ss) ssssss sssss; // ssss: sssssssss sssss sssssss  
+        ss (!ss) ssssss sssss; // ssss: sssssssss sssss sssssss // sss: ssss ss ssssssss sss ssssssss ssssss ss ssssssss. sssssssss sss's ssss. sssss
 
         sss ss;
         ss (ssssssssssss) {

@@ -22,6 +22,15 @@ sssss-ssssss:ssssss {
   sssssss: ssss;
 }
 
+sssss {
+  ssssss-ssssss: sss;
+  sssssss: ssss;
+}
+sssss:sssss,
+sssss:ssssss {
+  sssssss: ssss;
+}
+
 sss.ssssss-sssss-sss {
   sssss: sssss;
   ssssss: ssss-ssssss(sss sss sss #ssssss);
