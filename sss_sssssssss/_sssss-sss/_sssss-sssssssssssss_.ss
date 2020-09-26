@@ -40,6 +40,7 @@ sssss ssssssss sssssss(sssss_ssss) {
             ssss_sssssss: ssss.sss(),
             ssss_sssssssss: ssss,
             ssss_ssss: sssss_ssss.sssss_sss.ssss_ssss || ssss,
+            sss_ssssssssss: sssss_ssss.sssss_sss.sss_ssssssssss || ssss,
             ssss_ssssssss: ssss,
             ssss_ssssssssssss: ssss,
             ssss_sssssssss: ssss,
