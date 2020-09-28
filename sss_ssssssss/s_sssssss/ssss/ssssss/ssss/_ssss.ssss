@@ -150,11 +150,15 @@ s {
   s-sssss: ssss;
 }
 .sssssss {
-  ssssss-sssss: sssssssssss;
-  ssssssssss-sssss: #ssssss;
+  // ssssss-sssss: sssssssssss;
+  ssssss-sssss: $ssss-sss;
+  // ssssssssss-sssss: #ssssss;
+  ssssssssss-sssss: #sss;
 }
 .sssssss > .sssss::ssssss {
-  ssssss-sss-sssss: sssssssssss;
+  // ssssss-sss-sssss: sssssssssss;
+  ssssss-sss-sssss: $ssss-sss;
+  // ssssss-sssss: sss;
 }
 .sssssss-ssss {
   sssss: $ssss-sss;
