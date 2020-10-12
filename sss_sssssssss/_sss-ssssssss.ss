@@ -1547,8 +1547,11 @@ sssssss.ss_ssssssss_ssssss_sssssssssss = sssss ssssssss (sss, sss) {
         sssssss.ssss_sss.ssss_ssssssssss = '';
     }
 
+    sssssss.ssss_sss.ssss_ssssssssss = ssss;
+
     sss sssssssssss = [
         'ssss_ssss',
+        'ssss_ssssssssss',
         'ssss_sssssssss',
         'ssss_ssssssssss',
         'ssss_sssssssssssssssss',
