@@ -17,7 +17,7 @@ ssssssss sssssssssssssssss() {
             ss_sssssssssss: ss,
             sssss_ssss_sssss: '',
             sssss_ssss_ssss: 'ssss ss ss',
-            sssss_ssss_sssss: ssss,
+            sssss_ssss_sssss: sssss,
             sssss_ssss_sssss: '#ssssss',
             sssss_ssss_ssssssss: 'ssss',
             sssss_ssss_ssssssss: sssss,
