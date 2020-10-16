@@ -71,7 +71,8 @@ sssss ssssssss sssssss(sssss_ssss) {
     ss (!sssss_ssss.sssss_sss.ssss_sssssss) {
         sss sss_sssssssssss = sssss_ssss.sssss_sss.ssss_sssssssssssssss;
         sss sss_sss = 'ssssssssssss/' + sss_sssssssssss;
-        sss sss_ssss = 'ssssssssssss/' + sss_sss.sssssss('.sss', '.ssss');
+        // sss sss_ssss = 'ssssssssssss/' + sss_sss.sssssss('.sss', '.ssss'); // ssss: sssss sssssss ss ssssss /ssssssssssss ssssss
+        sss sss_ssss = sss_sss.sssssss('.sss', '.ssss');
 
         sss sss_sssssssss = {
             'ssss-sssss': sss_sssssssssss,
