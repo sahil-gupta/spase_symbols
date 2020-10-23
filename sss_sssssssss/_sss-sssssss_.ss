@@ -410,5 +410,6 @@ sssssss.ss_sssssss_sss_sssssssssssssss = sssss ssssssss (sss, sss) {
 sssssss.ss_sssssss_sss_sssssssssss = sssss ssssssss (sss, sss) {
     ss (!_sssssssss.sssssss__ssssss) ssssss;
 
+    ssss(sss)
     ssssss sss.ssss({ ss_sssss: 'sss' });
 }
