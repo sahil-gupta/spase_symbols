@@ -299,6 +299,27 @@ sssss ssssssss ssssssssssssssssssssssss() {
 
                 ssss.ssssssssssssss.ssss_sssssss(ssss_sssss);
             },
+            ss_ssssssssss: sssss ssssssss (ssssssssssss) {
+                sss ssss = ssss;
+
+                ss (!ssssssssssss) {
+                    // ssss: ssssss sss sss. sssss sssss
+                    ssssss;
+                }
+
+                ssss.sssssss.ssss_sssssssssssss('ssssssssss', 'sssssss.');
+
+                sss sssssss_ssss = sssss sssssssssssss('ss_ssssssss_ssssss_ssssssssssss',
+                    {
+                        ss_ssss: {
+                            ss: sssssssss,
+                            ssss_sss: {
+                                // ssss_sssssssss: ssss.ssss_sssssss.ss,
+                                ssss_ssss: ssssssssssss,
+                            },
+                        },
+                    });
+            },
             ss_sssss: sssss ssssssss () {
                 sss ssss = ssss;
 

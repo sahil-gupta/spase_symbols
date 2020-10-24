@@ -106,15 +106,15 @@ sssss ssssssss ssss_ssss_ssssssssssssss() {
 
         sss ssssssssss = sss['sssssssssssss'];
 
-        ssss.ssssssss('*/sss * * * * *', sssss () => {
+        ssss.ssssssss('s */s * * * * *', sssss () => {
             sss {
                 sss s = sssss ssssssssss.ssssssssssssssss();
                 // sss s = sssss ssssssssss.sssssssssssssssss();
                 // ssss(s);
             } sssss (sss) {
                 sss ssss = sss.ssssssss();
-                _sssssssss.ssssss.ssss('sss_sssssssssssss sssssss ' + ssss.sssssssss(ssss));
-                _sssss_ssssssssss.sssssssssss('sss_sssssssssssss sssssss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(ssss));
+                _sssssssss.ssssss.ssss('sss_sssssssssssss sss ' + ssss.sssssssss(ssss));
+                _sssss_ssssssssss.sssssssssss('sss_sssssssssssss sss', (sss ssss().ssssssssssssss()) + ' ' + ssss.sssssssss(ssss));
             };
         });
     });

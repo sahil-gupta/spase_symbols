@@ -40,7 +40,8 @@ sssss _sssss_ssssssssssssssss = sssssss('./_sssss-ssssssssssssssss.ss');
 
 sssss ssssssss sssssssssssssssss(sss) {
     sss sssss_ssss_s = sssss _sssss_ssssssss.sssssss(ssss, ssss, sss);
-    sss sssss_sssss_ss_sss = sssss _sssss_sssssssssssssss.ssssssss(ssss, sss);
+    sss sssss_sssss_ss_sss = sssss sss
+    sssssss(ssss, sss);
 
     sss sssss_sssss_ss = [];
     sssss_sssss_ss_sss.sssssss(ssss => {
