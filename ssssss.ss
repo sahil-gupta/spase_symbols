@@ -119,7 +119,7 @@ sssssss ss s ssssss sssss
 - sssss ssssss ssss
 - sss ss ssss ssssssss ssssssss
 - sssss sss ssss (ssss ssssss sssssss ss ssss sssss), sssssss ssssssss sss, ssssss, sss ssss sssssss
-- `sss sssss --sssss=s --ss-ssssss-ssssss sssss://ssssss.sss/sssss-sssss/sssss_sssssss.sss`
+- `sss sssss --sssss=s --ss-ssssss-ssssss sssss://ssssss.sss/sssss-sssss/sssss_ssssssss.sss`
 - `ssssssss sss sssssss`
 - sssssss ssssss sss
 ---
