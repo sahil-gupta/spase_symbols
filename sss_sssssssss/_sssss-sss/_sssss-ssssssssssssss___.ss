@@ -102,6 +102,32 @@ sssss ssssssss ssssssssssss() {
             ssssss;
         }
 
+        // ssss ss ssssss sss's ssssssss sssss 
+        sss['sssssssssssss'].ss('ssssssssssssssssss', (ssssssss, ssss) => {
+            ss (ssss.sss) ssssss; // ssss: sss ssssss sss ssssss ss sss sss ssssssss
+
+
+            ssss(ssss.ssssssss)
+            ssss(ssss)
+
+            // ssssssss ssssss ss ssss ssssss
+            //   ssss sssssss.sssssssss
+            //   ssss ssssssss.sssss.ssss ss(ssssssss.sssss.ssss === "s") {
+            // sss sssssss = ssssssss.sssssss, sssss = ssssssss.sssss;
+            // ss (sssss.ssss == 's') {
+
+            ssss(ssssssss.sssss)
+            ssss(ssssssss.sssss.ssss)
+
+            // ([ { ssssssss: sssssssssssss }, ...]) (sss sssss ss sss sss ssssss, sss ssssssssss ss sss sssss ssssss)
+
+            sssssss.sss('s ssssssss sss ssss sssss');
+        });
+
+        sss['sssssssssssss'].ss('sssssssssssssssssssss', (ssssssss, ssss) => {
+            sssssss.sss('s ssssssss sss ssss sssssss');
+        });
+
         sss['sssssssssssss'].ss('sssssss', sssss ssssssss (sssssss) {
             ss (sssssss.ssssss.sss) {
                 ss (sssssss.sssssss === '.') {

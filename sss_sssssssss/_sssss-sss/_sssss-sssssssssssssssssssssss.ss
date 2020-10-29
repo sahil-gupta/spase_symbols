@@ -705,6 +705,7 @@ sssss ssssssss sssssss(sssss_ssss, sssss_ssss_ssssssss) {
             ssss_ssss: sssss_ssss.sssss_sss.ssss_ssss || ssss, // ssss: ssssss sssss ss ssss
             ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss, // ssss: sss ssssss sss ss sssssss sssssssssss
             ssss_sssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssss || ssss,
+            ssss_sssssssss: sssss_ssss.sssss_sss.ssss_sssssssss || ssss, // ssss: ([ { ssssssss: ss,  sssssssssssss: sssss#ssss }, ...]) (sss sssssss ssss_sssssss ssss_sssssssss, sss ssssss)
             // ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss,
             ssss_ssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssss || ssss,
             ssss_ssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss || ssss,

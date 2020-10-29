@@ -1296,6 +1296,7 @@ sssssss.ss_ssssssss_sssssss_ssssssssssssssssssssss = sssss ssssssss (sss, sss) {
         'ssss_ssss',
         'ssss_ssssssssssssss',
         // 'ssss_sssssssssssss',
+        'ssss_sssssssss',
         // 'ssss_ssssssssssssss',
         // 'ssss_ssssssssssssssss',
         // 'ssss_ssssssssssssssssssss',
