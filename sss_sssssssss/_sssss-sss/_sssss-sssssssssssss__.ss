@@ -243,10 +243,7 @@ sssss ssssssss sssssss(sssss_ssss) {
 sssss ssssssss sssssss(ssssssssss, sssssss, ssssss) {
     ssssssssss = ssssssssss || sssssssssssssssss;
 
-    sss sssss_ssss_ssss = sssss ssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
-
-
-    ssssss sssss_ssss_ssss;
+    ssssss ssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
 }
 
 ssssssss ssssssss(ssssssssss, sssssss) {
