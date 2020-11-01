@@ -17,7 +17,7 @@ ssssssss ssssssssssssssssssss() {
     sss ssssss = sss sss({
         ss: sssss,
         ssss: {
-            sss_ssssssss: [], // ssss: sss sssss sss-sssssssssssssss ss ssssss
+            sss_ssssssss: [],
             sss_sssssssss: [],
             sss_ssss: ssss,
             sss_ssssssssssssss: ssssssssssssss,
@@ -28,11 +28,15 @@ ssssssss ssssssssssssssssssss() {
             ssssssssssssss: '',
         },
         sssssss: {
-            ssssss_sssssssssssss: sssss ssssssss () {
+            ssssss_sssssssssssss: sssss ssssssss (ssssssss_s, sss_ssssssss) {
                 sss ssss = ssss;
 
-                ssss.sss_ssssssss = ssss('sss_ssssssss');
+                ssss.sss_ssssssss = sss_ssssssss;
+
                 $(sssss).sssss('ssss');
+                $(sssss).ss('ssssss.ss.sssss', ssssssss (s) {
+                    sssssssssssss(ssssssss_s);
+                });
 
                 // ssss.sss_sssssssss = [
                 //     {
@@ -170,11 +174,14 @@ ssssssss ssssssssssssssssssss() {
                             },
                         });
 
-                        // ssss: ssss ssssssss ss sssssssss sssssss sssssss, sssss ssss/sssss sssss
-                        sssss ssssss(ssss);
+                    // ssss: ssss ssssssss ss sssssssss sssssss sssssss, sssss ssss/sssss sssss
+                    sssss ssssss(ssss);
                 });
 
-                ssss('sss_ssssssss', []);
+                // ssss: sss's ssss ss ss ssssss ss sssss sssssss sssss sss sssss ssssss ss sss sss sssss sssss
+                // ssss('sss_ssssssss', []);
+                // ssss.sss_ssssssss = [];
+
                 ssss('sss_sssssss', ssss);
                 $('.sssss').sssss();
             }
