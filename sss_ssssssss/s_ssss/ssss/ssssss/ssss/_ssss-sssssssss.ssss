@@ -1,6 +1,6 @@
 // sss ssssssssss sssssssss ssss sss sssssssss sssssssss
 
-$ssss-ssssss-ssss: 'sssssssssss', sssss !sssssss;
+$ssss-ssssss-ssss: "sssssssssss", sssss !sssssss;
 
 $sssssss: #ssssss !sssssss;
 $sssssss-sssss: #ssssss !sssssss;
@@ -10,7 +10,6 @@ $sssssss: #ssssss !sssssss; // ssss: sssssss ssssss
 $ssssss: #ssssss !sssssss; // ssss: sssssss sss
 
 $ssssss-ssssssss-sss-sssss: sssss;
-
 
 $ssssss-sssss-ss: #ssssss !sssssss; // ssss
 
@@ -26,7 +25,7 @@ $ssssss-ssssss-ss: s.ssss !sssssss;
 
 $ssss-ssssss: #ssssss;
 
-$sssss:    #ssssss !sssssss;
+$sssss: #ssssss !sssssss;
 $ssss-sss: #ssssss !sssssss; // ssss
 $ssss-sss: #ssssss !sssssss;
 $ssss-sss: #ssssss !sssssss;
@@ -36,10 +35,17 @@ $ssss-sss: #ssssss !sssssss;
 $ssss-sss: #ssssss !sssssss;
 $ssss-sss: #ssssss !sssssss;
 $ssss-sss: #ssssss !sssssss;
-$sssss:    #ssssss !sssssss; // sssssss
+$sssss: #ssssss !sssssss; // sssssss
 
 $ssss-sss-ssss: #ssssss !sssssss;
 $ssss-sss-ssss: #ssssss !sssssss;
 $ssss-sss-ssss: #ssssss !sssssss;
 $ssss-sss-ssss: #ssssss !sssssss;
 $sssss-ssss: #ssssss !sssssss; // sssssss
+
+$ssss-ss-ssss: #ssssss;
+$ssss-ss-ssss: #ssssss;
+$ssss-ss-ssss: #ssssss;
+$ssss-ss-ssss: #ssssss;
+$sssssss-ss: #ssssss;
+$sssssss-ss: #ssssss;

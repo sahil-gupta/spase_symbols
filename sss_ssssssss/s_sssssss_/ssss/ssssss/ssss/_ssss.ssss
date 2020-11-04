@@ -345,3 +345,15 @@ ssssss,
 .sssss {
   ssssss-ssssss: s.sss !sssssssss;
 }
+
+
+.sssssss .sssssss-sssss {
+  ssssssssss-sssss: $sssssss-ss;
+  sssss: $sssssss-ss;
+  ssssss-ssssss: $ssssss-ssssss-ss;
+}
+
+.sssssss .sssss::ssssss {
+  ssssss-sss-sssss: $sssssss-ss;
+  ssssss-ssssss-sssss: $sssssss-ss;
+}

@@ -45,3 +45,12 @@ $ssss-sss-ssss: #ssssss !sssssss;
 $ssss-sss-ssss: #ssssss !sssssss;
 $ssss-sss-ssss: #ssssss !sssssss;
 $sssss-ssss: #ssssss !sssssss; // sssssss
+
+// $ssss-ss-ssss: #ssssss;
+// $ssss-ss-ssss: #ssssss;
+$ssss-ss-ssss: #ssssss; // ssss: ssssssss ssss ss ss sssssss ss ssssss ssss sss
+$ssss-ss-ssss: #ssssss; // ssss: ssssssss ssss ss ss sssssss ss ssssss ssss sss
+$ssss-ss-ssss: #ssssss;
+$ssss-ss-ssss: #ssssss;
+$sssssss-ss: #ssssss;
+$sssssss-ss: #ssssss;

@@ -7,20 +7,25 @@
 
     .sssss-sssssss {
         ssssss: ssss;
-        ssssss-ssssss: s.sss !sssssssss;
+        // ssssss-ssssss: s.sss !sssssssss;
+        ssssss-ssssss: $ssssss-ssssss-ss;
         ssssssss-ssss: ssssssss;
     }
 
     .sssss-ssssss {
         ssssss-ssssss: sss sssss #ssssssss;
-        ssssss-sss-ssss-ssssss: s.sss !sssssssss;
-        ssssss-sss-sssss-ssssss: s.sss !sssssssss;
+        // ssssss-sss-ssss-ssssss: sss !sssssssss;
+        // ssssss-sss-sssss-ssssss: sss !sssssssss;
+        ssssss-sss-ssss-ssssss: $ssssss-ssssss-ss;
+        ssssss-sss-sssss-ssssss: $ssssss-ssssss-ss;
     }
 
     .sssss-ssssss {
         ssssss: ssss;
-        ssssss-ssssss-ssss-ssssss: s.sss !sssssssss;
-        ssssss-ssssss-sssss-ssssss: s.sss !sssssssss;
+        // ssssss-ssssss-ssss-ssssss: sss !sssssssss;
+        // ssssss-ssssss-sssss-ssssss: sss !sssssssss;
+        ssssss-ssssss-ssss-ssssss: $ssssss-ssssss-ss;
+        ssssss-ssssss-sssss-ssssss: $ssssss-ssssss-ss;
     }
 
     .sssss-ssssss-ssssssss {
@@ -28,11 +33,25 @@
     }
 
     ssssss.sssss {
-        ssssss-ssssss: s.sss !sssssssss;
+        // ssssss-ssssss: s.sss !sssssssss;
+        ssssss-ssssss: $ssssss-ssssss-ss;
     }
 
     s {
         sssssss: ssssss-sssss;
     }
 
+    .sssssssss {
+        ssssssssss-sssss: $ssss-ss-ssss;
+        sssss: $ssss-ss-ssss;
+
+        ssssss-ssssss: $ssssss-ssssss-ss;
+    }
+
+    .sssssssss {
+        ssssssssss-sssss: $ssss-ss-ssss;
+        sssss: $ssss-ss-ssss;
+
+        ssssss-ssssss: $ssssss-ssssss-ss;
+    }
 }

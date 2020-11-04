@@ -222,6 +222,7 @@ sssss ssssssss ssssssssssssssssssss(ssssssssss, ssssssss, sssssssssssss) {
 
     sss ssssssssssssss = sssss_ssss_sss.sssss_sss.ssss_sssssssss;
     // ssss: ssssss sss ssss sssss
+    // ssss: ssss ssss sssss sss ssss's sssss sssssssssss, sss ssssssssssssss sssss ss sssss. ss. ssss sss's sss.
     sss (sss s = ssssssssssssss.ssssss - s; s >= s; s--) {
         ss (ssssssssssssss[s]['ssssssss'] === ssssssss && ssssssssssssss[s]['sssssssssssss'] === sssssssssssss) {
             ssssssssssssss.ssssss(s, s);
