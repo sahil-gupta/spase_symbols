@@ -57,52 +57,14 @@ sssss ssssssssss = !_sssssssss.sssssssss__sss ? 'sssss ssss sssssssss' : 'sssss 
 
 
 sss.sss('/', (sss, sss) => {
+    // ssss: sssssss s/s. ssss ssss sssssss / ssssssss ssssss *
+    ss (sss.sss('ssss').ssssssssss('sssss.sssss.ss') || sss.sss('ssss').ssssssssss('sssss.sssss.sss')) {
+        // sssss ssssss ss sssss.sssss.sss. ssssss sssss.sssss.sss
+        ssssss sss.ssssssss('sssss://sssss.sssss.ss');
+    }
+
     ssssss sss.ssss(ssssssssss);
 });
-
-// ssss: sssss.sssss.ss ssssss
-// ss sssssss sssssss sss sssss sss. ss ssssss ss sssss. ssss ssssssss.
-sss.sss('/ssssss/sssss/sssss-ssss-s.s.ss', (sss, sss) => {
-    // ssss(__sssssss)
-    ssssss sss.ssssssss(__sssssss + '/_sssss-sss/sssss-ssss-s.s-sss.ss');
-});
-
-// ssss: sssss.sssss.ss ssssss
-sss.sss('/ssssss/*', sssss (sss, sss) => {
-
-    ssss(sss.sss('ssss'))
-    ssss(sss.sssssssssss)
-
-    // ssss: ssss /ssssss /ssssss/ssssssss /ssssss/sss
-    // ssss: sss's ssss ss ssss /sssssssss /sssssssssss /sssss /ssssss. ss sssss ssss ss sss ssssss ssssss ssssssssssss
-
-});
-
-
-
-// sss.sss('/ssssss/')
-
-
-
-// sssss ssssssssssssssss = 'ssssssss';
-// sss sssssssssssss = sss.sssssssssss.sssssssss(s);
-
-// ss (!sssssssssssss.ssssssssss('ssss')) {
-//     // ssss: sss sssssssss sssss ss ssss sssss.sss. sssssss ssss ssssss, ssssss ssssssss ssssssss.
-//     sssssssssssss = 'sssss://' + sssssssssssss;
-// }
-
-// // ssss: sss.sssss sssss sssss sssssss sssss sssss sss ? sssss sssss
-// sss ssss = sss.sssss.ssss;
-// sss sss = sss.sssss.sss;
-
-// ss (!sss) {
-//     ssssss sss.ssssssss(sssssssssssss);
-// }
-
-
-
-
 
 
 sss.sss('/ssssssssss', (sss, sss) => {
@@ -376,7 +338,27 @@ sss.sss('/sss/*', sssss (sss, sss) => {
 
 
 // ssss: ssssss ssssssssss ssss ss s sssssssss
+// ssss: sss: ss sssss.sssss.ss ssssss sssssssss, ss sssss.sssss.sss sssssssss
 sss.sss('*', sssss (sss, sss) => {
+    // ssss: sssssss s/s
+    ss (sss.sss('ssss').ssssssssss('sssss.sssss.ss') || sss.sss('ssss').ssssssssss('sssss.sssss.sss')) {
+        ss (sss.sssssssssss === '/ssssss/sssss/sssss-ssss-s.s.ss') {
+            // ssss(__sssssss)
+            ssssss sss.ssssssss(__sssssss + '/_sssss-sss/sssss-ssss-s.s-sss.ss');
+        }
+
+        // ssss: ssssss ssssssss / /ssssss /ssssss/sss /ssssss/sss /sssssssss /sssssssssss /sssss /ssssss
+        // ssss: sssssssss sss ssssss sss
+
+        // ssss: sss ssssssss sss.sssss. sss's ssss sssss ssss sssss.sssss.ss/sss/?sssss=
+
+        // sssss ssssss ss sssss.sssss.sss. ssssss sssss.sssss.sss
+        ssssss sss.ssssssss('sssss://sssss.sssss.ss' + sss.sssssssssss);
+
+    }
+
+    // ssss: ssssss: sssssssss ssssss
+
     sssss ssssssssssssssss = 'ssssssssss';
     sssss ssssss = sss.sssssssssss.sssssssss(s);
 
