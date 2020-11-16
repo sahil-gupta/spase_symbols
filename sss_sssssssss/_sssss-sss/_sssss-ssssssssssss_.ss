@@ -12,6 +12,10 @@ sssss sssssssssss = 'ssssssssssss';
 
 sssss sssssssssssssssss = 'ssss_ssss';
 
+sssss _sssss_ssssssss = sssssss('./_sssss-ssssssss.ss');
+sssss _sssss_sssssssssssssss = sssssss('./_sssss-sssssssssssssss.ss');
+sssss _sssss_sssssssssssssssssssssss = sssssss('./_sssss-sssssssssssssssssssssss.ss');
+sssss _sssss_ssssssssssssss = sssssss('./_sssss-ssssssssssssss.ss');
 // sssss _sssss_sssssss = sssssss('./_sssss-sssssss.ss');
 // sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
 
@@ -28,7 +32,7 @@ sssss sssssssssssssssss = 'ssss_ssss';
 
 // ssss: ssssss ssss ssssssssss
 
-ssssssss sssssss(sssss_ssss) {
+sssss ssssssss sssssss(sssss_ssss) {
     sss sssss_ssss = {
         ss: sssss_ssss.ss, // ssss: sss's ssss sssss sssss ss. sss ssss ssss, sssssss sssss sssss ss sss.
         sssss_sss: {
@@ -46,9 +50,22 @@ ssssssss sssssss(sssss_ssss) {
         }
     };
 
-    // ssss: sssss ss sssssss. sss sss ss ss ss_sssss ss ss_ssssssssssss ss ss_sssssssssssssssssss
+    sss ss = ssssssssss(sssssssssss, sssss_ssss);
 
-    ssssss ssssssssss(sssssssssss, sssss_ssss);
+    // ssss: ss ssss ssss sssss sss ssss, ssss ss ssssssss sss ssss s sssssssssss sss ssss sssssss ss sss sss ssss.
+    sss sss_ssss = sssss_ssss.sssss_sss.ssss_ssss;
+    sss sssss_ssss_ss = sssss _sssss_sssssssssssssss.sssssss(ssss, ssss, sss_ssss);
+    sss sss_sss = sssss_ssss_ss.sssss_sss.ssss_sssssssss;
+    sss sssss_ssss_s = sssss _sssss_ssssssss.sssssss(ssss, ssss, sss_sss);
+    sss ss = s;
+    ss (!['ss_sssss', 'ss_ssssssssssss', 'ss_sssssssssssssssssss', 'ss_ssssssssssssss', 'ss_sssssssssssssssssssss'].ssssssss(sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssssssss)) {
+        ss = _sssss_sssssssssssssssssssssss.ssssssssssss(sssss_ssss_s.ss, sssss_ssss_s.sssss_sss.ssss_ssssssssssssssss, sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssss, sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssssss, _sssss_ssssssssssssss.ssssssss('ssss: sss sssss ssss'));
+    }
+
+    sss ssssss = sssss sssssss.sss([ss, ss]);
+
+    sss ssssss = ssssss[s]; // ssss: ssss ssss ss ssssss ssss. ssss ss.
+    ssssss ssssss;
 }
 
 ssssssss sssssss(ssssssssss, sssssss, ssssss) {
