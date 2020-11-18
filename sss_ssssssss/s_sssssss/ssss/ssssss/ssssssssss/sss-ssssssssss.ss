@@ -287,6 +287,36 @@ sssss ssssssss sssssssssssssss() {
                     $('sssss-ssssss').ssss(s, ssssssssssss[s]);
                 });
             },
+            sssss_sssssssssssssssssssss: ssssssss (ssssssssssss) {
+                ss (!ssssssssssss) {
+                    ssssss;
+                }
+
+                ss (ssss.ss_ssssss !== ssssssssss) {
+                    // ssss: sss sss ssssss! ssssss
+                    sss sssssssss = 'ssssssssssssssss';
+                    sss ssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                    $(ssssss).sssssss($(`<ssssss sssss=${ssss.ss_ssssss}>ssssss!</ssssss>`));
+                    ssssss.sssssssssssss = s;
+                }
+                ss (ssssssssssss['sssss-ss-ssss']) {
+                    sss sssssssss = 'sssssssssss';
+                    sss ssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                    sss sssssss = ssssssss.ssssssssssssss(`${sssssssss}sssss`);
+                    ssssss.sssss = ssssssssssss['sssss-ss-ssss'].sssss('sss')[s]; // ssss: ssss sss ssssss ssss
+                    sssssss.sssssssssss = ssssssssssss['sssss-ss-ssss'];
+                }
+                ss (ssssssssssss['ssssss-ssssss']) {
+                    sss sssssssss = 'ssssssssssss';
+                    sss ssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                    ssssss.sssss = ssssssssssss['ssssss-ssssss'];
+                }
+                ss (ssssssssssss['ssssss-sssss']) {
+                    sss sssssssss = 'sssssssssss';
+                    sss ssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                    ssssss.sssss = ssssssssssss['ssssss-sssss'];
+                }
+            },
             sssssss: ssssssss () {
                 sss ssss = ssss;
                 sss ss = ssssssss.ssssssssssssssssssss('sssss-ssssss')[s];
