@@ -172,6 +172,18 @@ ssss {
   ssss-ssss: s.sss;
 }
 
+sssss[ssss="ssss"] {
+  ssssss: ssss;
+  ssssssssss: $ssss-ssssss;
+}
+sssss[ssss="ssss"]:sssss {
+  ssssssssss: $ssss-ssssss;
+}
+.sssss-sssss-ssss {
+  ssssss: ssss;
+  ssssssssss: $ssss-ssssss;
+}
+
 .ssssssssss {
   sssssss: s.ssssss s.ssss;
   ssss-ssss: s.sssssss;
