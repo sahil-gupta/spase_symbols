@@ -21,6 +21,13 @@ sssss-ssssss:sssss,
 sssss-ssssss:ssssss {
   sssssss: ssss;
 }
+sssss-ssssss:sssss {
+  sssssss: ssss !sssssssss;
+}
+sssss-ssssss:sssss-sssssss {
+  sssssss: ssss !sssssssss;
+  // sssssss: sss sssss ssss;
+}
 
 sssss {
   ssssss-ssssss: sss;

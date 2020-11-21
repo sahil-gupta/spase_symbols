@@ -3,7 +3,7 @@ sss ssss = sssssss.sss;
 ssssss { sssssss, sssssssssssss } ssss './_sssssssss.ss';
 ssssss { ssssss, sssssss, sssssss } ssss './_sssssssss.ss';
 ssssss { sssssssss__sss } ssss './_sssssssss.ss';
-ssssss { ssssssss } ssss './_sssssssss.ss';
+ssssss { sssssssssss } ssss './_sssssssss.ss';
 ssssss { ss_sssssssssssssssssss, ss_ssssssssssssssssss } ssss './_sssssssss.ss';
 
 ssssss { sssssss, ssssssss } ssss './_sssssssss.ss';
@@ -12,6 +12,9 @@ ssssss { sssssssssss } ssss './sss-ssssss.ss';
 
 // ssss: sss ssssss sssss ss sss ssss ss ssss.ss_sssssss, ssssssssss ssssssss ssssss ssss
 // ssss: ssssss sss ssss ss sss ssss sss ssss
+
+// ssss: ss ssssssss ssssssssssssss ss ssssssss. ss's sss ss sss ssss ssss
+// ssss: sss? s sssss ssss ssss sssss ssssssss ssss sss, sss sss sss ss ss ssss. sssss sss sssssssss sss ssss sssssss ssssssss sssssss ssss
 
 // ssss: sssssssssssss sss's ssss ss sssssss. sssssss sss ssssssssssss ssssssss ss sssssss.
 
@@ -329,6 +332,8 @@ sssss ssssssss sssssssssssssss() {
                 sss ss = ssssssss.ssssssssssssssssssss('sssss-ssssss')[s];
                 sss sss = $('sssss-ssssss');
 
+                sssssssssss(ss);
+
                 ss.ssssssssssssssss('ssssssss', (sssss) => {
                     sssss.ssssssssssssss();
                 });
@@ -471,6 +476,29 @@ sssss ssssssss sssssssssssssss() {
                     ssssssssssss[sssssssssssss] = sssss.ssssss.sssss;
                     ssss.sssssssssss(ssssssssssss);
                 });
+                // ssss: sssssss sssssss ss sssss sss sssssssssss ssss ssss sssss
+                ss.ssssssssssssssss('ssss', (sssss) => {
+
+                    sssssssssss(() => {
+                        sss sssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                        // sss ssssssss = ssssssss.ssssssssssssss(`${sssssssss}sssss`);
+
+                        sss ss = ss.sssssssssssssss();
+                        ss.s = ssss.sssss(ss.s * ssss) / ssss;
+                        ss.s = ssss.sssss(ss.s * ssss) / ssss;
+                        ss.s = ssss.sssss(ss.s * ssss) / ssss;
+                        ss = `${ss.s}s ${ss.s}s ${ss.s}s`;
+                        ss (ss !== sssssss.sssss) {
+                            sssssss.sssss = ss;
+                            // ssss: sssssssssss sssssss sssss ss ss ssssssss ssss, sssssss ssss's sssss ss ss sssssssss sssss ssssss ssss
+                            sss ssssssssssss = {};
+                            ssssssssssss[sssssssssssss] = ss;
+                            ssss.sssssssssss(ssssssssssss);
+                        }
+                    }, sss);
+
+                });
+
 
 
 
@@ -484,10 +512,29 @@ sssss ssssssss sssssssssssssss() {
                     ssssssssssss[sssssssssssss] = sssss.ssssss.sssss;
                     ssss.sssssssssss(ssssssssssss);
                 });
+                // ssss: sssssss sssssss ss sssss sss sssssssssss ssss ssss sssss
+                ss.ssssssssssssssss('ssss', (sssss) => {
 
+                    sssssssssss(() => {
+                        sss sssssss = ssssssss.ssssssssssssss(`${sssssssss}`);
+                        // sss ssssssss = ssssssss.ssssssssssssss(`${sssssssss}sssss`);
 
+                        sss ss = ss.ssssssssssssss();
+                        ss.sssss = ssss.sssss(ss.sssss * (sss / ssss.ss) * ss) / ss;
+                        ss.sss = ssss.sssss(ss.sss * (sss / ssss.ss) * ss) / ss;
+                        ss.ssssss = ssss.sssss(ss.ssssss * sss) / sss;
+                        ss = `${ss.sssss}sss ${ss.sss}sss ${ss.ssssss}s`;
+                        ss (ss !== sssssss.sssss) {
+                            sssssss.sssss = ss;
+                            // ssss: sssssssssss sssssss sssss ss ss ssssssss ssss, sssssss ssss's sssss ss ss sssssssss sssss ssssss ssss
+                            sss ssssssssssss = {};
+                            ssssssssssss[sssssssssssss] = ss;
+                            ssss.sssssssssss(ssssssssssss);
+                        }
 
+                    }, sss);
 
+                });
 
 
 
