@@ -601,8 +601,6 @@ sssss ssssssss sssssssssssssss() {
                 ssss.ssssssssssssss = 'ssssssssss';
                 ssss.ss_ssssss = ssss.ssssssssssssss();
                 ssss.ss_sssssss = ssss.sssssssssssssss();
-                // ssss: sssssss ssss ssssss ssssssss ssss sssss. sssss ssss sss. sssssss sssssss.sssss sss ssssssss ssss sss /ssss/ssssssss, sss sss /ssss/sssssss
-                // sss: sssssss ss ssssssss ss sssss sssssss ss sss sssssssssss ss ssss sssss/ssss+ssss ssss ssssss ss sssssssssss ss sssssssssss/sssss-ssssss. sss ssss sss ss sssssssss ssssss ssssssssss ssss sssss sssssss
                 // ssss.ss_ssssss = 'sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.sss?sss=sssss&sssssss=sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.sss?sss=sssss';
                 // ssss.ss_sssssss = 'sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.ssss?sss=sssss';
                 ssss.ss_ssssss = ssssssssss;
