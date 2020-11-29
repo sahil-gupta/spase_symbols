@@ -1,17 +1,17 @@
-ssssssss ssssssss
+sssssss sss ssssssss
 
 ssssss ssss sss sssss ss s ssssssss sssssss
 sssssss ssss ssssss
+
+ssss sssssss sssssssss sssssss
+sssssss ssss sss sssssss ss sssssss sss
 
 sssssss ssss ssssssss
 sssss://ssssss.sss/ssssss/sssssssssssssssssss/ssss/sssssssssssssss#sssssss
 ssss ssssss
 ss sssss ssssss sss ssssss sss ssssssss
 ssssssssss
-  ss sssss ssssss, ssssss ssss ssss
-  
-ssss sssssss sssssssss sssssss
-sssssss ssss sss sssssss ss sssssss sss
+  ss sssss ssssss, ssssss ssss
 
 ssssssss sssss ss ssssssss
 ssssss ssss ss ss s ssssssss sss sssssss ssss sss sssssssss ssss
@@ -24,7 +24,7 @@ ssssss sssss, ssssssss
 ssssss ssss ss ssssss ss sss sss's sss sss
 sssssss
 
-ssss sss sssss sss sss ss sssss_ssssssss ssss
+ssss sss sssss sss sss ss ssss
   ssss sss ss ssssss
 
 ssssssss sss sss
@@ -34,13 +34,7 @@ ssssss sssssss ssssssss ssss sss ssssssssss
   sssssss ssss sssss
 ssss ssssss ssssssss ss ssss-ssssss sssss ss ssss?
 sssss://sssssss.sssssss.sss/ss/ss-ss/ssssssss/ssssssssssss
-ssss ssssssss ssssssss ssss sssssss sss ssssssssssss
-
-sssss sssss ssss ssssssss sssss ss sssssss sssss sss sssss sss ss
-  sss's ss ssssssssss
-
-sssssss sssss's ssssss sssssss.sss sssss
-sssssssss sss's ssssss ssss sss ssssss
+ssss ssssssss ssssssss sssssss sssssss sss ssssssssssss
 
 sssss sssssss
 ssss sss's ssss ss sssssss ss sssssss
@@ -50,7 +44,6 @@ ssssss ss sssssssss sss ss ssssssssss ssss sssssss
 
 ssssss sssssssss
 ssssssssss + sssssss + ssssss sssssssss
-ssssssssss ss ssssss
 
 sssss sssssssss
 ssssssssss
@@ -78,12 +71,6 @@ ss^s ssssssssssss / ssss sssssssss
 ss ss ssss
 ssss sssss ssss sssssssss sss sssss ssss ssssss s sss
 ss ss,sss sssssssss sss sssss ssssss s sss ss s sss
-
-ssssss sssssssss ssss sssss ssssss ssss
-ss ssss sss ssssssss
-ssss sssssss
-ssss ssssssss
-ssss ssssss ss
 
 ssssssssss
 sss's ssss sssss
@@ -137,9 +124,9 @@ ssssssssss
       ssssss sss ssss s s-ss-s ss ss sssssss sss sssssss ss ss ssss ssssssss
 
 sssssss
-ssss ssssssss
-ssssssssssssss sssssss
-ssssssss
+ssss sssss
+sssssssssss sssssss
+sssss
 
 ssss ss ssssss sssssss
 ssss
