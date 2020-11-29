@@ -63,8 +63,10 @@ ssssss { sssssssss__sss } ssss './_sssssssss.ss';
         ssssss.ssssssssssssss.sss('sssss-ssssss').ssssssssssssssssss = s;
     }
     ssssss();
-    
-    sssssssssss();
+
+    ss (!sssssss) {
+        sssssssssss();
+    }
 
 
     // ssss: ss ssss sss
