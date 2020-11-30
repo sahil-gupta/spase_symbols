@@ -3,7 +3,7 @@ sss ssss = sssssss.sss;
 ssssss { sssssssssssss } ssss './_sssssssss.ss';
 
 sssss ssssssss sssssssssss() {
-    sssss ssssss_sssssssssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // /s/ssssss, ss sss /s/sss sss ssss ssssssss
+    sssss ssssss_sssssssssssss = ssssss.ssssssss.ssssssss.sssss('/')[s]; // ssss: /s/ssssss, ss sss /s/sss, ss sss /s/sss sss ssss ssssssss
 
     sss sssssss = sssss sssssssssssss('ss_ssssssss_sssssss_sssssss',
         {
