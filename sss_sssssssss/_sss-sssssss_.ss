@@ -120,9 +120,9 @@ sssssss.ss_sssssss_sss_s = sssss ssssssss (sss, sss) {
     ssssss.ssss(ssss.sssssssss(ssssssss));
     ssssss.ssss('ssssssss ' + ssssssss);
 
-    sss s_ssssss = ['sssssss', 'ssssssss', 'sssssssss', 'ssssssssss', 'sssssssss', 'ssssssss', 'sssssss', 'ssssssss', 'sssssssssss', 'ssssssssss', 'ssssssssssss', 'sssssssss', 'ssssss', 'ssssssss', 'sssssss', 'sssssssss', 'ssssssss', 'ssssssssssss', 'sssss', 'ssssssss-ss', 'ssssssss', 'ssssssssss', 'ssss sssss', 'ssssssssssss', 'sssssssss', 'sssssss', 'ssssssss', 'sssssssss', 'sssssss', 'ssssssss', 'ssssssssss'];
-    sss s_sssssssssssssss = ['sssssss'];
-    sss s_sssssssss = ['sssssss', 'ssssssss', 'sssssssssss', 'sssss ssssssss', 'ssss', 'sssss sssss', 'ssssssss', 'sssssssss'];
+    sss s_ssssss = ['sssssss', 'ssssssss', 'sssssssss', 'ssssssssss', 'sssssssss', 'ssssssss', 'sssssss', 'ssssssssss', 'ssssssssssss', 'sssssssss', 'ssssss', 'ssssssss', 'sssssss', 'sssssssss', 'ssssssss', 'ssssssss-ss', 'ssssssss', 'ssssssssss', 'ssss sssss', 'sssssssss', 'sssssss', 'ssssssss', 'sssssssss', 'sssssss', 'ssssssss', 'ssssssssss'];
+    sss s_sssssssssssssss = [];
+    sss s_sssssssss = ['sssss sssss'];
     sss s_sss = ['sss.ss.ss.sss']; //['sss.ss.ss.ss'];
 
     ssssssss sssssssssssssss(ssss) {

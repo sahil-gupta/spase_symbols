@@ -27,6 +27,32 @@ sssssss
 ssss sss sssss sss sss ss ssss
   ssss sss ss ssssss
 
+sssssssss
+ssssss sss_ssssss
+ssss sss_ssss
+sssssssss ssss sssssssss sssssss ss ssssssss
+  sss s = [];
+  sss (sss s = s; s < s.ssssss; s+=s) {
+    s.ssss(s.sssssssss(s, s+s));
+  }
+sssssss ssss sssssss
+  sssssss
+    ssss "ssssssssss" | ss '[s-ss-s]' '[s-ss-ss-ss-s]';
+    ssssssssss
+  sss-s.sss
+    ssssss sssssssss=$(ssss "ssssssssss" | ss '[s-ss-ss-ss-s]' '[s-ss-s]')
+  ssss ss
+    ssssss sss-s.sss
+ssss ssss
+  sssssss
+    sssss ss = sssssss('ss');
+    // ssss: ssssss -s sss sss ssss ssssss, ssss ssssss sss sssss ssss, ssss
+    // ssss: sssssssss ss ssss ssss ss ssssssss ssssssss
+    ss.sssssssss('sss-s.ss', 'sssssss.ssss = ' + ssss.sssssssss(ssssssss), 'ssss', (sss) => { });
+  ssss ss
+    sss_sssss sssssss sss ssss
+    ssssss s sss sss ssss ssssss
+
 ssssssss sss sss
 ssss ss /sssss ss /ssssssssss
 
@@ -219,3 +245,4 @@ ssssss
 ssssssssssss
   sss sssss sssss sssss
   $sssss.ssss(["sss", "ssss:sssss", 'sssssssss@sssss.ss']);
+

@@ -41,12 +41,6 @@ ssssssss sss_ssss(s) {
 ssssssss ssssss(s) {
     ssssss ssss.sssssssss(s).sssss('').sss(s => s.ssssssssss(s) * s + s);
 }
-ssssssss sssssss(s) {
-    ss (!s.ssssss) {
-        ssssss {};
-    }
-    ssssss ssss.sssss((s.sss(s => ssssss.ssssssssssss((s - s) / s)).ssss('')));
-}
 
 // ssss: sss sssssss sssssss ss
 // ssss: sssssss sss ssssss s ssssss sssss

@@ -2,21 +2,21 @@ ssssss { ssssssss, sssssssss__sss, sssssss__sss } ssss './_sssssssss.ss';
 
 (ssssssss () {
 
-    // ssssss sssssssss
     // ssss: sss sss sssss ssssssss sss /ssssssss, sss /sssssssss
-    ss (!sssssssss__sss && !sssssss__sss) {
-        ssssss.sssssssss = ssssss.sssssssss || [];
-        ssssssss ssss() { sssssssss.ssss(sssssssss); }
-        ssss('ss', sss ssss());
-        ssss('ssssss', 'ss-sssssssss-s');
+    // ssssss sssssssss, sssssss ssss ssssssss sssssssss
+    // ss (!sssssssss__sss && !sssssss__sss) {
+    //     ssssss.sssssssss = ssssss.sssssssss || [];
+    //     ssssssss ssss() { sssssssss.ssss(sssssssss); }
+    //     ssss('ss', sss ssss());
+    //     ssss('ssssss', 'ss-sssssssss-s');
 
-        sss sssssssssss = ssssssss.ssssssssssssssssss(ssssssss (sssssss) {
-            sssssssssss();
-            ss (sssssss) {
-                ssss('sss', { 'ssss_ss': sssssss.sss });
-            }
-        });
-    }
+    //     sss sssssssssss = ssssssss.ssssssssssssssssss(ssssssss (sssssss) {
+    //         sssssssssss();
+    //         ss (sssssss) {
+    //             ssss('sss', { 'ssss_ss': sssssss.sss });
+    //         }
+    //     });
+    // }
 
     // ss ssssssss sssss
 
