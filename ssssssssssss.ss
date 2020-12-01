@@ -14,7 +14,7 @@ sss ssssssssss = [
     '/.sss/', // ssss: ssss sss .sssssssss ssss ssssssssss. ssss ssssss sss sssssssssss sss.
     '/.ssss-sssss',
     '/sssss',
-    '/ssssss/ss',
+    '/ssssss/ss/', // ssss: ssss sssss ss sss, sssssssss sssss ss /sssss
     '/ssssssssss',
     '/ssss',
     '/ssss/sssssssss',
