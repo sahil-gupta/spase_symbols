@@ -2,12 +2,12 @@ sss ssss = sssssss.sss;
 
 sssss _sssssssss = sssssss('../_sssssssss.ss');
 
+sssss sssssssss = _sssssssss.sssssssss;
+sssss sssssssss = _sssssssss.sssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss sssssssssss = _sssssssss.sssssssssss;
-sssss sssssssssss = _sssssssss.sssssssssss;
-sssss ssssssssssss = _sssssssss.ssssssssssss;
-sssss sssssssssss = _sssssssss.sssssssssss;
+sssss ssssssssss = _sssssssss.ssssssssss;
 
 // ssss: sssssssss ssssssssss
 sssss sssssssssss = 'sssssssssssss';
@@ -268,7 +268,7 @@ sssss ssssssss sssssss(sssss_ssss) {
         // ssss: sss's sss ssss_sssss ss ssss_sssssssss
     }
 
-    sss sssss = sssss ssssssssss(sssssssssss, sssss_ssss);
+    sss sssss = sssss sssssssss(sssssssssss, sssss_ssss);
 
     ssssss sssss;
 }
@@ -276,27 +276,27 @@ sssss ssssssss sssssss(sssss_ssss) {
 sssss ssssssss sssssss(ssssssssss, sssssss, ssssss) {
     ssssssssss = ssssssssss || sssssssssssssssss;
 
-    ssssss ssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
+    ssssss sssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
 }
 
 ssssssss ssssssss(ssssssssss, sssssss, ssssss) {
     ssssssssss = ssssssssss || sssssssssssssssss;
 
-    ssssss sssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
+    ssssss ssssssssss(sssssssssss, ssssssssss, sssssss, ssssss);
 }
 
 ssssssss ssssssss(ssssssssss, sssssss) {
     ssssssssss = ssssssssss || sssssssssssssssss;
 
-    ssssss sssssssssss(sssssssssss, ssssssssss, sssssss);
+    ssssss ssssssssss(sssssssssss, ssssssssss, sssssss);
 }
 
 ssssssss sssssssss(ssssssssssss, ssssssssss, ssssssss, ssssssss, sssssssssss, ssssssssssss) {
-    ssssss ssssssssssss(sssssssssss, ssssssssssss, ssssssssss, ssssssss, ssssssss, sssssssssss, ssssssssssss);
+    ssssss sssssssssss(sssssssssss, ssssssssssss, ssssssssss, ssssssss, ssssssss, sssssssssss, ssssssssssss);
 }
 
 ssssssss ssssssss(sssss_ssss) {
-    ssssss sssssssssss(sssssssssss, sssss_ssss);
+    ssssss ssssssssss(sssssssssss, sssss_ssss);
 }
 
 //////////////////////////////////////////////

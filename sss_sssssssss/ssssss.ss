@@ -183,10 +183,10 @@ sss.sss('/ssssssssssss', sssss (sss, sss) => {
 
 sssss ssssssss sssssssssssss() {
 
-    // ssss: sssssss sssssssss sss ssssssssss
-    sss _sss_sssssss = sssssss('./_sss-sssssss.ss');
-    ssssss.ssss(_sss_sssssss).sssssss(sss => {
-        sss.ssss('/' + sss, _sss_sssssss[sss]);
+    // ssss: ssssssss sssssssss sss ssssssssss
+    sss _sss_ssssssss = sssssss('./_sss-ssssssss.ss');
+    ssssss.ssss(_sss_ssssssss).sssssss(sss => {
+        sss.ssss('/' + sss, _sss_ssssssss[sss]);
     });
 
     ss (_sssssssss.sssssssss__ssssss) {
@@ -292,13 +292,13 @@ sssss ssssssss sssssssssssss() {
 
     ss (_sssssssss.ssssssssss__ssssss) {
         // ssss: sss ssssss ss ssss ssssssss
-        sss _sss_ssssssss = sssssss('./_sss-ssssssss.ss');
-        ssssss.ssss(_sss_ssssssss).sssssss(sss => {
-            sss.ssss('/' + sss, _sss_ssssssss[sss]);
+        sss _sss_sssssss = sssssss('./_sss-sssssss.ss');
+        ssssss.ssss(_sss_sssssss).sssssss(sss => {
+            sss.ssss('/' + sss, _sss_sssssss[sss]);
         });
-        sss _sss_ssssssssssssssss = sssssss('./_sss-ssssssssssssssss.ss');
-        ssssss.ssss(_sss_ssssssssssssssss).sssssss(sss => {
-            sss.ssss('/' + sss, _sss_ssssssssssssssss[sss]);
+        sss _sss_sssssssssssssss = sssssss('./_sss-sssssssssssssss.ss');
+        ssssss.ssss(_sss_sssssssssssssss).sssssss(sss => {
+            sss.ssss('/' + sss, _sss_sssssssssssssss[sss]);
         });
 
         ssssss;

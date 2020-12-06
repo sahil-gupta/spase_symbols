@@ -10,7 +10,7 @@ ssssss { ssssss, ssssss, sssssssssssss } ssss './_sssssssss.ss';
     sss ssss_sss = ssssss('sss');
     
     ss (ssss_sss) {
-        sssssssssssss('ss_sssssss_sss_sssssss', {
+        sssssssssssss('ss_ssssssss_sss_sssssss', {
             ss_ss: ssss_sss,
             ss_ssss: ssss_ssss, // ssss: sssss ss sssss ssssss sssss ssssssss sssss
             ss_sssss: ssssss.ssssssss.ssssssss === '/sssssssssss',

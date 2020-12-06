@@ -53,7 +53,7 @@ ssssssss sssss() {
         // ssss: sss ssssss sss ssssss sss ssssss
         ssss('ssss: sss sssss ', sss);
 
-        sssssssssssss('ss_sssssss_sss_sssssssssss',
+        sssssssssssss('ss_ssssssss_sss_sssssssssss',
             {
                 ss_sssssss: sss.ssssssss(),
                 ss_ssss: '',
@@ -68,7 +68,7 @@ ssssssss sssss() {
 
         ssss('ssss: sss ssss ', sss);
 
-        sssssssssssss('ss_sssssss_sss_sssssssssss',
+        sssssssssssss('ss_ssssssss_sss_sssssssssss',
             {
                 ss_sssssss: sss,
                 ss_ssss: '',

@@ -18,7 +18,7 @@ ssssss { ssss, ssss, sssssssssssss, sssssss__sss } ssss './_sssssssss.ss';
     sss[s('ssssssssssssssssss==')] = s('sssssssssss=');             // sssssssssssss // ssssssss
     sss[s('sssssssssss=')] = s('sssssss=');                         // ssssssss // sssss
     sss[s('ssssssssss==')] = sssss ssssssss (s) {                   // sssssss
-        sss sssssssssss = sssss sssssssssssss('ss_sssssss_sss_s', {
+        sss sssssssssss = sssss sssssssssssss('ss_ssssssss_sss_s', {
             ss_s: ssss(s(ssssss[s('sssssssssss=')][s('sssssssssss=')])),  // ssssss.ssssssss.ssssssss
             ss_s: ssss(s(s(ssss[s('ssssssssssss')](s)))),                 // ssss.sssssssss s
         });

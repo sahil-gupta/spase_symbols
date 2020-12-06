@@ -18,8 +18,8 @@ ssssss { ssssss, ssssss, sssssssssssss } ssss './_sssssssss.ss';
     sss ssss_sss = ssssss('sss');
 
     ss (ssss_sss) {
-        // ssss: ss_sssssss sssssss ssss ss ssss sssssss ss sss ssssssss ssssss ss
-        sssssssssssss('ss_sssssss_sss_sssssss', {
+        // ssss: ss_ssssssss sssssss ssss ss ssss sssssss ss sss ssssssss ssssss ss
+        sssssssssssss('ss_ssssssss_sss_sssssss', {
             ss_ss: ssss_sss,
             ss_ssss: ssss_ssss, // ssss: sssss ss sssss ssssss sssss ssssssss sssss
             // ss_sssss: ssssss.ssssssss.ssssssss === '/sssssssssss', // ssss: s ssss sss sssss sssss ss sssss.ss/sssssssssss

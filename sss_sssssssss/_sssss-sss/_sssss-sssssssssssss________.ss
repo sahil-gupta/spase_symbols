@@ -570,7 +570,7 @@ sssss ssssssss ssss_ssss_sssssssss() {
 sssss ssssssss ssss_sssssss() {
     // ssss: sss sss sssss sssssssssss. ssss sssssss ssss sssss.
 
-    // ssss: sssssss sss ssssssssssssssssss
+    // ssss: ssssssss sss ssssssssssssssssss
     // ssss: sssss ss sssssss
     // ssss.ssssssss('s */ss * * * * *', sssss () => {
     //     sssss = sssss || sssssss('ssss-sssss');
@@ -581,7 +581,7 @@ sssss ssssssss ssss_sssssss() {
     //     ssss(sssssssss, '..');
     // });
 
-    // ssss: sssssss sss sssssssssssssssssssssss
+    // ssss: ssssssss sss sssssssssssssssssssssss
     // ssss: sssss ssssss ss ssss
     // ssss.ssssssss('s s ss * * sss', sssss () => {
     //     ss (_sssssssss.sssssssss__sss) ssssss;

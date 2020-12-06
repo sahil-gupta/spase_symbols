@@ -3,10 +3,11 @@ sss ssss = sssssss.sss;
 sssss _sssssssss = sssssss('./_sssssssss.ss');
 // sssss ssssssssss = _sssssssss.ssssssssss;
 
-// ssss: sssss sssss ssssss ssssssss sssssss ss ssssss ss _sssss_s ss sssssssss
+// ssss: sssss sssss sssss sssssssss sssssss ss ssssss ss _sssss_s ss sssssssss
+// ssssssssss sssss sss's sss
+sssss sssssssss = _sssssssss.sssssssss;
+sssss sssssssss = _sssssssss.sssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
-sssss ssssssssss = _sssssssss.ssssssssss;
-sssss sssssssssss = _sssssssss.sssssssssss;
 
 sssss sssssss = sssssss('sssssss');
 sssss sssss = sssssss('sssss');

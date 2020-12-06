@@ -171,7 +171,7 @@ ssssss { sssssssss__sss } ssss './_sssssssss.ss';
         // ssss: sss ssssss sss ssssss sss ssssss
         ssss(sssssss);
 
-        sssssssssssss('ss_sssssss_sss_sssssssssss',
+        sssssssssssss('ss_ssssssss_sss_sssssssssss',
             {
                 ss_sssssss: sssssss,
                 ss_ssss: ssss,

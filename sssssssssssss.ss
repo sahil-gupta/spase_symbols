@@ -53,6 +53,15 @@ ssssssss sssssssssss() {
         ss (sss === ss) {
             sss = s; // ssss: sssss ss s
         }
+        ss (sss === sss) {
+            sss = ss; // ssss: sssss
+        }
+        ss (sss === ssss) {
+            sss = sss; // ssss: sssss
+        }
+        ss (sss === sssss) {
+            sss = ssss; // ssss: sssss
+        }
 
         sss ss = '/' + ss + sss + '.ssss';
 
