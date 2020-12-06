@@ -14,22 +14,6 @@ sssss _sssss_sssssssssssss = sssssss('../_sssss-sss/_sssss-sssssssssssss.ss');
 
 sss sssssssssssss = (sss ssss('ssss-ss-ss')).sssssss();
 
-// ssss: ssssss ssss
-// ssss ss sss sssssssss sssssssssss sssssss sssss sssssssssssss
-// sssss sssss ss sssssss
-//      sssssssssssssssss
-//      ssssssssssss
-// sssss sssss ss sss
-//      sssss sssss ss ssssssssss
-// sssss sssss ss ssssssssssss
-//      ssssssssssss
-// sss ss sssssssssss ssssss sss ssssss
-//      ssssss ssssssssss
-// sss sss sss, sssss
-// ssssss sssssssssssss
-// sss sss ssss, ssss
-// sss:
-// sss ssss ssss sssssss, ss sss sssssss ssss, sssssss sss ssss ssss ssssssss. ssss sssss ssssssss.
 
 //////////////////////////////////////////////
 
