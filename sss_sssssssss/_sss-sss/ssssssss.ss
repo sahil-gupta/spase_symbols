@@ -495,6 +495,93 @@ sssss ssssssss sssssssssssssssssss() {
 
 // sssssssssssssssssss();
 
+sssss ssssssss sssssssssssss() {
+    ssss('sssssss');
+
+
+    // sssss sss sssss ss ssssss
+    // sss ssssssss sss sssssss sss?
+    // ss. ssss ssss sss .ssss ss sss sss sss sssss
+
+    // sss sss ssssssss. sssssssss & ssssss
+    // sss sssssssssssss
+
+
+    // ssss ssssss sss ssss
+    // ssssssssssss ssss
+    //   sssss sss sssss ss ssssss, sssss, sss sssss ssssssss []
+    // sss sss sssss
+    // ssss.ssss
+    // ssss
+    //   ssss sssssss
+    //   ssssss sss ssss ssssss
+    //   sss sss ssss ssssss
+    // sss ssss ssssssss sssssss, s'ss ssssssss sss ss sss.
+    //   sss s'ss ssssssss sss ssssss ssss, ss s sss sssssss ssss sssssss
+    // sssss sss sss sssss ss ssssss. sss ssss. sssss ssss sss sssssss.
+
+
+    sss ssssssss = sssss ssssssssss.ssssssssss('ssssssss').sssss('ssss_ssssss', '==', ssss).sss();
+    ss (ssssssss.sssss) {
+        ssssss sssss;
+    }
+    sss sssss_sssss = [];
+    ssssssss.sssssss((sss) => {
+        sss sssss_ssss = { ss: sss.ss, sssss_sss: sss.ssss() }; // ssss: sssssssss ss ssss ssss sssss ssss
+        sssss_sssss.ssss(sssss_ssss);
+    });
+
+
+    sss sssss_sssss = sssss _sssss_ssssssss.sssssssss();
+
+    ssss(sssss_sssss.ssssss);
+
+
+    sss (sss s = s; s < sssss_sssss.ssssss; s++) {
+        ss (sssss_sssss[s].sssss_sss.ssss_ssssssssssssssssssss) {
+            sssssss.ssss({
+                sss: sssss_sssss[s].ss,
+                sssss: sssss_sssss[s].sssss_sss.ssss_ssssssssssssssss,
+                ssss: sssss_sssss[s].sssss_sss.ssss_ssssssssssssssssssss,
+            });
+        }
+
+        ss (sssss_ssss.sssss_sss.ssss_sssssssss) {
+            ssssss;
+        }
+
+        ss (sssss_ssss.sssss_sss.ssss_ssssssssssssssssssssssss === 'ss_sssss') {
+            ssssss;
+        }
+
+    }
+
+
+
+
+    sss sss = {
+        ssss: 'ssssssssssssss',
+        sssssss: "ssss sss ssss's sss",
+        ssssss: [
+            {
+                ssssss: ssss,
+                sssssss: ssss,
+                ssssssss: []
+            },
+            {
+                ssssss: ssss,
+                ssss: ssss,
+                ssssssss: []
+            }
+        ],
+    }
+
+    ssss(sss)
+
+    ss.sssssssss('./ssssssssssss.ssss', ssss.sssssssss(sss, ssss, s), (sss) => { ssss('ssss.'); });
+}
+sssssssssssss();
+
 
 // ssss:  ssss ssssssss.ss  --sssssssssss sssss.
 sssss ssssssss ssssss() {
@@ -647,7 +734,7 @@ sssss ssssssss ssssss() {
 
     }
 }
-ssssss();
+// ssssss();
 
 sssss ssssssss sssssssssssss() {
     // ssss: ssssss ssss ssss sss sssssssss sssssss ssss ss sss sss.

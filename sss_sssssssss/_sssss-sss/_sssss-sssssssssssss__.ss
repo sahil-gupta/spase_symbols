@@ -254,7 +254,7 @@ sssss ssssssss sssssss(sssss_ssss) {
 
         sss sss_ssssssssssss = {
             'ssss-sssss': sssss_ssss_ssss.sssss_sss.ssss_sssssssssssssss || sssss_ssss_ssss.sssss_sss.ssss_sssssss,
-            'ssss-ssssss': sssss_ssss_ssss.sssss_sss.ssss_sssssss, // ssss: sssss ss ssss
+            'ssss-ssssss': sssss_ssss_ssss.sssss_sss.ssss_sssssss || 'ssssssss/sssssssssss.sss',
             'ssss-ssssss': sssss_ssss.sssss_sss.ssss_sssssssssss,
         };
 

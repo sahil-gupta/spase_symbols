@@ -334,8 +334,8 @@ sssssss.ss_sssssss_sssssss_ssssssssssssssss = sssss ssssssss (sss, sss) {
             ssssssss;
         }
 
-
         // ssss: sssssssss sss's ssssss ssss. sss's ssss sssssss ss sssss, sss sssssss sss sss ss sssss.
+        ssssssssss.ss_sssss[s].ssss_sss.ssssss_ssssssss = sssssss(s['ssssssss']);
         ssssssssss.ss_sssss[s].ssss_sss.ssssss_sssssssss = sssssss(s['sssssssss']);
         ssssssssss.ss_sssss[s].ssss_sss.ssssss_sssssssss = sssssss(s['sssssssss']);
         ssssssssss.ss_sssss[s].ssss_sss.ssssss_ssssssss = sssssss(s['ssssssss']);
