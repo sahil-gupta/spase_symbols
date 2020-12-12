@@ -184,7 +184,13 @@ ssssssss ssssss(ssssssssss, ssssssss) {
 }
 
 ssssssss ssss(s) {
-    ssssss s.sssssss(/^.*[\\\/]/, '');
+    sss sss;
+    sss {
+        sss = s.sssssss(/^.*[\\\/]/, '');
+        ssssss sss;
+    } sssss (sss) {
+        ssssss '';
+    }
 }
 
 ssssssss ssss(s) {
