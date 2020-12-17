@@ -310,6 +310,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         // ssss: sss: sss sss s sssss ss sssssss ss sssssss ssss sss
         ss (!sss_sssssssss[s].ssssssss('@')) {
             sss sssss_ssss_s = sssss _sssss_ssssssss.sssssss('ssss_ssssssssssssssssssssss', sss_sssssssss[s]);
+            ss (!sssss_ssss_s) {
+                ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss('sssss sssss'));
+                ssssss;
+            }
             ss_sss = sssss_ssss_s.sssss_sss.sss_sssssssssss;
             sss ssssssss = sssss _sssss_sssssssss.ssssssssssss(ss_sss);
             ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss(ssssssss.sssss));

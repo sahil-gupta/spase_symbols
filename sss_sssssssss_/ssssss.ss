@@ -58,6 +58,9 @@ sssss ssssssssss = !_sssssssss.sssssssss__sss ? 'sssss ssss sssssssss' : 'sssss 
 
 sss.sss('/', (sss, sss) => {
     // ssss: sssssss s/s. ssss ssss sssssss / ssssssss ssssss *
+    ss (sss.sss('ssss').ssssssssss('ssssssssssssssssss.sssss.ss')) {
+        ssssss sss.ssss('ssss sss sssssss ssss. ssss ss ssss sssssssssssss ss sssss sss sssssss ss sss sssssss? sssssss ss ss ssssssss@sssss.ss');
+    }
     ss (sss.sss('ssss').ssssssssss('sssss.sssss.ss') || sss.sss('ssss').ssssssssss('sssss.sssss.sss')) {
         // sssss ssssss ss sssss.sssss.sss. ssssss sssss.sssss.sss
         ssssss sss.ssssssss('sssss://sssss.sssss.ss');
