@@ -732,7 +732,8 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 } ssss ss (ssss_ss === 'ss_ssssssss') {
 
                 }
-                ss (ssss.ssss_sssssss.ssss_sss.ssss_sssssssssss && ssss.ssss_sssssss.ssss_sss.ssss_sssssssssss.ssssssss('/ ssssss')) {
+                // ss (ssss.ssss_sssssss.ssss_sss.ssss_sssssssssss && ssss.ssss_sssssss.ssss_sss.ssss_sssssssssss.ssssssss('/ ssssss')) {
+                ss (!ssss.ssss_sssssss.ssss_sss.ssss_ssssss) {
                     sssssssssssssssssssss = sssss;
                 }
                 ssss.sssssssssssssssss = ssssssssssssssssssss;

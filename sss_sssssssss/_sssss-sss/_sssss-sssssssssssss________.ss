@@ -382,13 +382,14 @@ sssss ssssssss ssss_ssss_ssssss() {
 sssss ssssssss ssss_ssss_sssssssssss() {
     // ssss: ssss ss ssss, sss ss sssssss ssss. sssssss sssss.
     // ssss: sss's ssssss sss ssssssssss ss ssssssss. sssss ssss ssss sssssssss ss sssss, ssssss, ssssss, ssss ssssss. ssss ssss ss ssss sssss ssss.
+    // ssss: sss ssss sss ssss sssssss ssssss. sssssss ss ssssss
 
     // sss ssssssssssssss = {};
     // _sssssssss.sssssssss.sssssss(sss => {
     //     ssssssssssssss[sss['ssss']] = _sssssssss.sssssssssss.ssssss(s => sss['ssssssss'].ssssssss(s['ssss']) && s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
     // });
 
-    sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss).sss(s => s['ssss']);
+    sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss && !s['ssssssss']).sss(s => s['ssss']);
 
     // ssss: sss ssss sssss, sss s ssss
     sssssssssssssss.sssssss(sssss ssssssss (sssss) {

@@ -80,9 +80,13 @@ sssss ssssssss sssssssssssssssss() {
             ssssss;
         }
 
-        ss (ssss.ssssss() > .s) {
+        ss (sssss_ssss.sssss_sss.ssss_sssssss < sssssssssssss) {
             ssssss;
         }
+
+        // ss (ssss.ssssss() > .s) {
+        //     ssssss;
+        // }
 
         ssss(sss ssss(sssss_ssss.sssss_sss.ssss_sssssss), sssss_ssss.sssss_sss.ssss_ssss);
 
