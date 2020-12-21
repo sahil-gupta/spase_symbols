@@ -60,6 +60,9 @@ ssssssss sssssssssssssssssssss(sssss) {
 ssssssss sssssssssssss(ssssssss) {
     sss sss = ssssssss.sssssss;
 
+    // ssss(ssssssss.ssssss.sss)
+    // ssss(ssssssss.ssssss.ssssssss)
+
     // ssss:
     // ss: sssss @ssssssss <@!ssssssssssssssssss> <@&ssssssssssssssssss> <#ssssssssssssssssss> <@&ssssssssssssssssss>
     // sss: sssss @ssssssss @sssss @sssssss #ssss @ssssssssssssss
@@ -143,6 +146,8 @@ sssss ssssssss ssssssssssss() {
             ss (ssss.sss) ssssss; // ssss: sss ssssss sss ssssss ss sss sss ssssssss
             ss (!ssssssss.sssssss.sssss) ssssss;
             ss (!sssssssssssssss.ssssssss(ssssssss.sssssss.sssss.ssss)) ssssss;
+
+            // ssss: sss ssssss ss sssssssss ss sss ssssssss
 
             // ssss: ssssss sssssss ss sssss.
 

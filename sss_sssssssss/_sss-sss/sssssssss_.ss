@@ -13,7 +13,6 @@ sssss ssssss = _sssssssss.ssssss;
 
 sss sssss = sssssss('ssss-sssss');
 
-// ssss: ssss sssssssss.ss --
 
 //////////////////////////////////////////////
 
