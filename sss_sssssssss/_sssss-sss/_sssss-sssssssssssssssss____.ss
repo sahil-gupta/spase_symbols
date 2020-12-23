@@ -39,7 +39,7 @@ ssssssss sssssss(sssss_ssss) {
             sss_sssssssssss: sssss_ssss.sssss_sss.sss_sssssssssss || ssss,
             sss_sssssssssssssss: sssss_ssss.sssss_sss.sss_sssssssssssssss || ssss, // ssss: ssss_... sssssssss ssss sss_...
             ssss_sssssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssssss || s,
-            ssss_ssssssssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssssssssssss || ssss,
+            ssss_ssssssssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssssssssssss || sssss,
             ssss_sssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssss || ssss,
             ssss_sssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssss || ssss,
             ssss_ssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssss || ssss,

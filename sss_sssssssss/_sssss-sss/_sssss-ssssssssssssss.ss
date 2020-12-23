@@ -34,7 +34,7 @@ ssssssss sssssss(sssss_ssss) {
             ssss_sssssssss: ssss,
             sss_sssssssssssssssssss: sssss_ssss.sssss_sss.sss_sssssssssssssssssss || ssss,
             ssss_sssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssss || .s,
-            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || (ssss.sss() + sssssssssss), // s ssssss
+            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss, // ssss: (ssss.sss() + sssssssssss), // s ssssss
         }
     };
 
