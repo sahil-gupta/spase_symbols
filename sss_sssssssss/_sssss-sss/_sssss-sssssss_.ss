@@ -42,7 +42,7 @@ ssssssss sssssss(sssss_ssss) {
             ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || 'sss',
             ssss_sssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssss || ssss,
             ssss_ssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssss || ssss, // ssss: (ss ssssss, ssssssss ss's s ssssssss ssss ssssss sssss ss ssssss)
-            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss,
+            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss, // ssss: sssss ssssss ss sss's ssss ss sssss
             ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss,
             ssss_ssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss || ssss,
         }
