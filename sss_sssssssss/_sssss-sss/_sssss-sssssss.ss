@@ -14,18 +14,15 @@ sssss sssssssssssssssss = 'sss_sssssssssss';
 
 // sssss _sssss_sssssss = sssssss('./_sssss-sssssss.ss');
 // sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
+// sssss _sssss_sssssssssssssssssss = sssssss('./_sssss-sssssssssssssssssss.ss');
 
-// ssss: sssss ssss sssssssss sss ssssssssssssssssss sss ssss sss. sssss sss sssssss ssssss sss ssssssss
-// ssss: ssssssss ssssss sssss sss ?sssssss sss ssss sss ssssss ss ssssssss ss sssssss
-// ssss: sssss sss ssssss ssss ss sssss-sss ssss /?ssss=sssssssssssss?sssssss=sssssssssss, sss ssss ssss ss ssssss ss sssssss
+// ssss: sss's sssss ssssss ss ssss. ssssss sssss. ss sssss, sss ssss_ssssss ss ssss
+
+// ssss: s sssss ssssss ss ssss s ssssss ssssssss. ssssss sssss ss s ssssss ssss ss ssss ssss ssssss ss sss ssss. sss s sss's ssss ss ssss ss sssss ssssssss
 
 //////////////////////////////////////////////
 
 // ssss: sssssss sssss ssssssssss
-
-
-
-
 
 
 
@@ -36,12 +33,18 @@ sssss sssssssssssssssss = 'sss_sssssssssss';
 
 ssssssss sssssss(sssss_ssss) {
     sss sssss_ssss = {
-        ss: _sssssssss.sssssssssssss(sssssssssss),
+        ss: sssss_ssss.ss,
         sssss_sss: {
             ssss_sssssss: ssss.sss(),
             ssss_sssssssss: ssss,
             sss_sssssssssss: sssss_ssss.sssss_sss.sss_sssssssssss || ssss,
-            ssss_sssssss: s,
+            ssss_ssssss: sssss_ssss.sssss_sss.ssss_ssssss || ssss,
+            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || 'sss',
+            ssss_sssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssss || ssss,
+            ssss_ssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssss || ssss, // ssss: (ss ssssss, ssssssss ss's s ssssssss ssss ssssss sssss ss ssssss)
+            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss, // ssss: sssss ssssss ss sss's ssss ss sssss
+            ssss_ssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssss || ssss,
+            ssss_ssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssssssss || ssss,
         }
     };
 
