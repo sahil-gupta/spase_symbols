@@ -53,6 +53,8 @@
 
 ### sss ssssssss sssssss
 
+(sssssss ssssssss. ssssss sss. sss sss sss ssssssss.)
+
 `ssssssss sss sssssss`
 
 `ssssssss sss sssssss`
@@ -111,9 +113,13 @@ sssssss ss s ssssss sssss
 ---
 ## sssssss sss ssss
 
-- /sss-sss*
-- /sss_sssssssss/sss-*
-- /sss_sssssssss/sss-*
+(sssssss sssss)
+
+- /sss-sss* (s)
+- /sss_sssssssss/sss-* (s)
+- /sss_sssssssss/sss-* (s)
+
+- sss ~/.sss/ssssss_sssssss_ssssss
 
 ---
 ## ssssss sssssss ssssssss
