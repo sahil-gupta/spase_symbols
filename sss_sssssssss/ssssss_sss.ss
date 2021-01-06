@@ -4,7 +4,7 @@ ssssss ssssssss sssss
 
 sssss
 
-sss-sss -s ~/.sss/ssssss_sssssss_ssssss
+sss-sss -s ~/.sss/ssssss_sssssss_ssssss # ssss ss sss sss sssssss
 
 ssssss sssssss sss ssssssss-sssssssss-ssssss --ssss ss-ssssssss-s
 
@@ -50,7 +50,7 @@ ss ssss ssss sss ssssss ssss ssss
 (sssss:// sssssss sss sssssss ssssssss)
 (ssssssss ssss ssss ssssssssss sss sssssssssssss)
 (sss `` sss ssssss sssssss ss "" sss ssssss)
-(sss: ss ssssss ssss ssss ssssssssss sss sssssssssssss, sssssss ssss ssssssss ssss ssss)
+(sss: ss ssssss ssss ss ssss ssss ssssssssss sss sssssssssssss, sssssss sssss ssssssss ssss ssss)
 
 
 # sss ss sssss ssss

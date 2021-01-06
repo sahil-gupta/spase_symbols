@@ -53,15 +53,11 @@
 
 ### sss ssssssss sssssss
 
-(sssssss ssssssss. ssssss sss. sss sss sss ssssssss.)
-
 `ssssssss sss sssssss`
 
 `ssssssss sss sssssss`
 
 ### sss sssssss ss ssss sssssss
-
-`sss ss; sss s -s ssss-sss;`
 
 `sss sss sssss;`
 
@@ -113,13 +109,9 @@ sssssss ss s ssssss sssss
 ---
 ## sssssss sss ssss
 
-(sssssss sssss)
-
 - /sss-sss* (s)
 - /sss_sssssssss/sss-* (s)
 - /sss_sssssssss/sss-* (s)
-
-- sss ~/.sss/ssssss_sssssss_ssssss
 
 ---
 ## ssssss sssssss ssssssss
@@ -128,8 +120,14 @@ sssssss ss s ssssss sssss
 - sss ss ssss ssssssss ssssssss
 - sssss sss ssss (ssss ssssss sssssss ss ssss sssss), sssssss ssssssss sss, ssssss, sss ssss sssssss
 - `sss sssss --sssss=s --ss-ssssss-ssssss sssss://ssssss.sss/......../..........sss`
-- `ssssssss sss sssssss`
-- sssssss ssssss sss
+- sssssss ssssssss. ssssss sss. sss sss sss ssssssss.
+- sssssss ssss-sss `sss s -s ssss-sss`
+- ss ssss sss_ ssssss sss'ss sssssss ss, `sss ss`
+- `ssssssss sss sssssss`. sssss ssssssss sssssssss, sss sssssss sss sss sss sssssss sssssss sssssss
+- sssssss ssssss sss. ssss ssss ss sssss sssss sss ssss ss, ssss ~. 
+- ssssss ~/.ssssss ss ~/.sssss ssss sss ssssss ssss. ssssss_ss.ss
+- sss ss sssssss (sssssss sssss), sss `sss sss sssssss` sss ssssss sssss ss sssss ~/.sss/ssssss_sssssss_ssssss, ssssss ssss sss ssssssss
+
 ---
 ## sss sssssss
 

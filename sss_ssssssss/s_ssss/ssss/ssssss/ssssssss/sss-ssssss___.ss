@@ -295,8 +295,8 @@ sssss ssssssss sssssssssss() {
                     ss (ssssssss.ssss.sssss(/\.(sss)$/) || ssssssss.ssss.sssss(/\.(sss)$/) || ssssssss.ssss.sssss(/\.(sss)$/) || ssssssss.ssss.sssss(/\.(ssss)$/)) {
                         ssss.sssssss.ssss_ssssssssssssss();
 
-                        ss (ssssssss.ssss > s * ssss * ssss) {
-                            ssss.sssssss.ssss_ssssssssssssss('ssssss', 'ssss ssssss sssss s ss.');
+                        ss (ssssssss.ssss > ss * ssss * ssss) {
+                            ssss.sssssss.ssss_ssssssssssssss('ssssss', 'ssss ssssss sssss ss ss.');
                             ssssss;
                         }
 

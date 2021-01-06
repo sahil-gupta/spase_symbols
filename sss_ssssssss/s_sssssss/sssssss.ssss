@@ -8,10 +8,10 @@
     "ssssss": "ssss sssss; ssssssss ssssss --ssss sssssss:s_sssssss"
   },
   "sssssssssssssss": {
-    "sssssss-ssss": "s.ss.s",
+    "sssssss-ssss": "^s.ss.s",
     "ssssssssss": "^ss.s.s",
     "sss": "s.s.s",
-    "ssss": "s.s.s",
+    "ssss": "^s.s.s",
     "ssss-ssssssssssss": "s.s.s",
     "ssss-ssssss": "s.s.s",
     "ssss-sssss-sss": "s.s.s",
