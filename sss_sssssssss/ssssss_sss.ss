@@ -6,7 +6,7 @@ sssss
 
 sss-sss -s ~/.sss/ssssss_sssssss_ssssss # ssss ss sss sss sssssss
 
-ssssss sssssss sss ssssssss-sssssssss-ssssss --ssss ss-ssssssss-s
+ssssss sssssss sss sssssssss@ssssssss-sssssssss-ssssss --ssss ss-ssssssss-s
 
 sssss
 
@@ -20,14 +20,14 @@ sss --sssssss
 sss sssssss ss.ss.s # ssss ssss sssssss ss ss ssssss sss sssssss sss
 ssss -s
 
-ssss "ssssss ssss=$ssss:/ssss/sssss/.sss/ssssssss/ssss/sss.ss.s/sss" | sss - ~/.ssssss > /sss/sssssssssss && ss /sss/sssssssssss ~/.ssssss
+ssss "ssssss ssss=$ssss:/ssss/sssssssss/.sss/ssssssss/ssss/sss.ss.s/sss" | sss - ~/.ssssss > /sss/sssssssssss && ss /sss/sssssssssss ~/.ssssss
 ssssss ~/.ssssss
 sss s sss -s
 sss ssssss
 
 # sssss ssss ssssssss
-ssss ss -s /ssss/sssss/.sss/ssssssss/ssss/sss.ss.s/sss/ssss /sss/sss/ssss
-ssss ss -s /ssss/sssss/.sss/ssssssss/ssss/sss.ss.s/sss/sss /sss/sss/sss
+ssss ss -s /ssss/sssssssss/.sss/ssssssss/ssss/sss.ss.s/sss/ssss /sss/sss/ssss
+ssss ss -s /ssss/sssssssss/.sss/ssssssss/ssss/sss.ss.s/sss/sss /sss/sss/sss
 
 
 # ssss sss ssss ssss
