@@ -313,7 +313,7 @@ ss (sssss_ssss_sssss) {
                     s-ssss:sssssssssss-sssss="sssssss || 'sssss://s.sssss.ss/sssssssssss.sss'"
                     sssss-ssss-ssssssss="ssssss ssssss"
                      
-                    sss-sssss-ss-ssss="ssss" sss-sssss-ss-ssss="ssssss" sss-ssssss-sssss="ssss ssss ssss" sss-ssssss-sssss="ssss ssssss ssss">
+                    sss-sssss-ss-ssss="sssss" sss-sssss-ss-ssss="sssss" sss-ssssss-sssss="ssss ssss s%" sss-ssssss-sssss="ssss ssssss sss%">
                 </sssss-ssssss>
         
                 
@@ -352,7 +352,7 @@ ss (sssss_ssss_sssss) {
                         s-ssss:sssssssssss-sssss="sssssss || 'sssss://s.sssss.ss/sssssssssss.sss'"
                         sssss-ssss-ssssssss="ssssss ssssss"
                          
-                        sss-sssss-ss-ssss="ssss" sss-sssss-ss-ssss="ssssss" sss-ssssss-sssss="ssss ssss ssss" sss-ssssss-sssss="ssss ssssss ssss">
+                        sss-sssss-ss-ssss="sssss" sss-sssss-ss-ssss="sssss" sss-ssssss-sssss="ssss ssss s%" sss-ssssss-sssss="ssss ssssss sss%">
                     </sssss-ssssss>
                 </sss>
 
