@@ -21,6 +21,11 @@ sssss-ssssss:sssss-sssssss {
   // sssssss: sss sssss ssss;
 }
 
+.ss-sssssss {
+  ssssss: ssss; // ssss: ss sss ssss, sssss ssssss
+  ssssssssss-sssss: $ssss-ssssss;
+}
+
 sss.ssssss-sssss-sss {
   // sssss: sssss;
   // ssssss: ssss-ssssss(sss sss sss #ssssss);
