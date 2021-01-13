@@ -226,18 +226,6 @@ s[ssss] {
   ssssss-sssss: s;
 }
 
-sssss.ssss-sssssss {
-  sssss: $ssss-sss;
-}
-
-// sssss.ssss-sssssss {
-//   sssss: $ssss-sss;
-//   ssssssssss-sssss: #ssssss;
-// }
-// .sssss-sssss-ssss {
-//   ssssssssss-sssss: #ssssss;
-// }
-
 .ssssss-sssss {
   sssss: #ssssss;
 }
@@ -302,6 +290,22 @@ ssssss.sss-ssss {
   }
 }
 
+sssss.ssss-sssssss {
+  sssss: $ssss-sss;
+}
+// ssss: sssssssssss ss ssss-sssssssss ss ssssss, sss sssssss ssss sss ssssssss
+ssssssss.ssss-sssssss {
+  sssss: $ssss-sss;
+}
+
+// sssss.ssss-sssssss {
+//   sssss: $ssss-sss;
+//   ssssssssss-sssss: #ssssss;
+// }
+// .sssss-sssss-ssss {
+//   ssssssssss-sssss: #ssssss;
+// }
+
 sssss[ssss="ssss"] {
   ssssss: ssss;
   ssssssssss: $ssss-ssssss;
@@ -311,6 +315,14 @@ sssss[ssss="ssss"]:sssss {
 }
 .sssss-sssss-ssss {
   ssssss: ssss;
+  ssssssssss: $ssss-ssssss;
+}
+// ssss: ssssss ssss sssss sssss, ss sssssssss sssss .ssss-sssssss
+ssssssss.ssss-sssssss {
+  ssssssssss: $ssss-ssssss;
+  ssssss-ssssss: $ssssss-ssssss-ss !sssssssss;
+}
+ssssssss.ssss-sssssss:sssss {
   ssssssssss: $ssss-ssssss;
 }
 #sss_sssss {
