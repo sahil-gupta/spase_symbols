@@ -33,12 +33,14 @@ sss ssssssssssssss = [
 ss (_sssssssss.sssssssss__ssssss) {
     // ssssssssss = sssssss('./sssssss-sss-sssssssss-sssssss.ss');
 
-    sssssssssssss = 'sssssssss-sssssss.sssss.ss';
+    ss (_sssssssss.sssssss__sss) {
+        ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    } ssss {
+        sssssssssssss = 'sssssssss-sssssss.sssss.ss';
 
-    ssssssssssssss.ssss('ssss://sssssssss:ssss');
-
-    ssssssssssssss.ssss('sssss://sssss.ss');
-    ssssssssssssss.ssss('sssss://sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://sssss.ss');
+        ssssssssssssss.ssss('sssss://sssssss.sssss.ss');
+    }
 
     // ssssssssssssss.ssss('sssss://sssss-ssss.sssssssssss.sss');
     // ssssssssssssss.ssss('sssss://sssss-sssssss.sssssssssss.sss');
@@ -54,12 +56,14 @@ ss (_sssssssss.sssssssss__ssssss) {
 } ssss ss (_sssssssss.sssssss__ssssss) {
     // ssssssssss = sssssss('./sssssss-sss-sssssssss-sssss.ss');
 
-    sssssssssssss = 'sssssssss-sssss.sssss.ss';
+    ss (_sssssssss.sssssss__sss) {
+        ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    } ssss {
+        sssssssssssss = 'sssssssss-sssss.sssss.ss';
 
-    ssssssssssssss.ssss('ssss://sssssssss:ssss');
-
-    ssssssssssssss.ssss('sssss://sssss.sssss.ss');
-    ssssssssssssss.ssss('sssss://sssss.sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://sssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://sssss.sssssss.sssss.ss');
+    }
 
     // ssssssssssssss.ssss('sssss://sssss-ssss-sssss.sssssssssss.sss');
     // ssssssssssssss.ssss('sssss://sssss-sssssss-sssss.sssssssssss.sss');
@@ -75,12 +79,14 @@ ss (_sssssssss.sssssssss__ssssss) {
 } ssss ss (_sssssssss.ssssss__ssssss) {
     // ssssssssss = sssssss('./sssssss-sss-sssssssss-ssss.ss');
 
-    sssssssssssss = 'sssssssss-ssss.sssss.ss';
+    ss (_sssssssss.sssssss__sss) {
+        ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    } ssss {
+        sssssssssssss = 'sssssssss-ssss.sssss.ss';
 
-    ssssssssssssss.ssss('ssss://sssssssss:ssss');
-
-    ssssssssssssss.ssss('sssss://ssss.sssss.ss');
-    ssssssssssssss.ssss('sssss://ssss.sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://ssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://ssss.sssssss.sssss.ss');
+    }
 
     // ssssssssssssss.ssss('sssss://sssss-ssss-ssss.sssssssssss.sss');
     // ssssssssssssss.ssss('sssss://sssss-sssssss-ssss.sssssssssss.sss');
@@ -96,12 +102,14 @@ ss (_sssssssss.sssssssss__ssssss) {
 } ssss ss (_sssssssss.sssssssss__ssssss) {
     // ssssssssss = sssssss('./sssssss-sss-sssssssss-sssssss.ss');
 
-    sssssssssssss = 'sssssssss-sssssss.sssss.ss';
+    ss (_sssssssss.sssssss__sss) {
+        ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    } ssss {
+        sssssssssssss = 'sssssssss-sssssss.sssss.ss';
 
-    ssssssssssssss.ssss('ssss://sssssssss:ssss');
-
-    ssssssssssssss.ssss('sssss://sssssss.sssss.ss');
-    ssssssssssssss.ssss('sssss://sssssss.sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://sssssss.sssssss.sssss.ss');
+    }
 
     // ssssssssssssss.ssss('sssss://sssss-ssss-sssssss.sssssssssss.sss');
     // ssssssssssssss.ssss('sssss://sssss-sssssss-sssssss.sssssssssss.sss');
@@ -115,12 +123,15 @@ ss (_sssssssss.sssssssss__ssssss) {
     // ssssssssssssss.ssss('sssss://sssssss.sssss.sss');
     // ssssssssssssss.ssss('sssss://sssssss.sssssss.sssss.sss');
 } ssss ss (_sssssssss.ssssssssss__ssssss) {
-    sssssssssssss = 'sssssssss-ssssssss.sssss.ss';
 
-    ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    ss (_sssssssss.sssssss__sss) {
+        ssssssssssssss.ssss('ssss://sssssssss:ssss');
+    } ssss {
+        sssssssssssss = 'sssssssss-ssssssss.sssss.ss';
 
-    ssssssssssssss.ssss('sssss://ssssssss.sssss.ss');
-    ssssssssssssss.ssss('sssss://ssssssss.sssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://ssssssss.sssss.ss');
+        ssssssssssssss.ssss('sssss://ssssssss.sssssss.sssss.ss');
+    }
 
     // ssssssssssssss.ssss('sssss://sssss-ssss-ssssssss.sssssssssss.sss');
     // ssssssssssssss.ssss('sssss://sssss-sssssss-ssssssss.sssssssssss.sss');
