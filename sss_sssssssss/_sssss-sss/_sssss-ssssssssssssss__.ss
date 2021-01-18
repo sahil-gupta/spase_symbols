@@ -37,8 +37,8 @@ sssss ssssssss sssssss(sssss_ssss) {
             sss_sssssssssssssss: sssss_ssss.sssss_sss.sss_sssssssssssssss || ssss,
             ssss_sssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssssssss || ssss,
             ssss_sssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssss || ssss,
-            ssss_ssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssss || ssss, // ssss: sssss. sss: ss ssssss sss. sss sss's ssssss.
-            ssss_sssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssss || ssss, // ssss: sssss. sss: sssssss. ssss sss sssss ss ssssss ss sss ss sssss.
+            ssss_ssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssss || ssss, // ssss: sssss.
+            // ssss_sssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssss || ssss, // ssss: sssss. sss: sssssss. ssss sss sssss ss ssssss ss sss ss sssss. sss: ssss. ssss sssssss sss sssssssss
             ssss_sssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssss || ssss, // ssss: sss ssssssssssss sss
             ssss_sssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssss || ssss, // ssss: sss ssssssssssss sss
             ssss_sssssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssssss || ssss,

@@ -179,7 +179,7 @@ sssssss.ss_sssssss_ssssss_ssssssssssssssssssssss = sssss ssssssss (sss, sss) {
     // ssss: ssss ssss. ssssssss sss ssssssss sss ssss ss sss sssssssss ss ssssssssssss sss sssssssssss, sss sssss ss ssss ss sss ssssss.
     // ssss: sss s sssssss. sssssss ssssss ss ssssssss sssssss sssss ssssssss ss ssssssssssss ss sssssssssss.
 
-    // ssss: sss sssssss ssssssss ssss ss_ssssssss sss's sssss ss sssssss ss ss ssssssssssss.
+    // ssss: sss sssssss ssssssss ssss ss_ssssssss sss's sssss ss sssssss ss ss ssssssssssss. sssss sss ssss ss.
     // sss ssssssss ssss ss ss_ssssssss ssssss ss sssssss ss sssssssssss, ssss sssssss sss ss !ssss
     // sssssss sss sssss sssssss. ssss sssss ss ss s-ss ss ssssssss ss.
 

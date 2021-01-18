@@ -639,7 +639,7 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
 
         // ssss: sssss ssss sss sss sssss ssssssssss
         // ssss: ssssss sss ssss sssssss ss ss ssss sss sss ss sssssssss. sssssss.
-        // ssss: sss: ssssssss sssssssss ssssssssssss (ssssss sssss) sss sss ssss ss sss ss sss sssssss ssssss ssss ssss ssss.
+        // ssss: sss: ssssssss sssssssss ssssssssssss sss sss ssss ss sss ss sss sssssss ssssss ssss ssss ssss.
         sssss ssssssssssss(ss_sss, sss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss('sssssss ss ' + ssss(sssss_ssss_sss.sssss_sss.sss_ssssssssss)));
 
         sss sssss_ssss_s = {
@@ -660,7 +660,8 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
         ss (!ss_ssss && !sssss_ssss_ssssss) {
             // ssss ssss ss sssss. ssss. sssss ssss
             // sss ss = 
-            sss ss = _sssss_ssssssss.ssssssss(sssss_ssss_s);
+            // ssss: sss: ssss sssss, sssssssss ss_sssss sssss ss sss ss ssssssssssss
+            sss ss = sssss _sssss_ssssssss.ssssssss(sssss_ssss_s);
 
             sss sssss_ssss_ss = {
                 ss: sssssssss,
@@ -673,7 +674,8 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
 
             // sss ssssss = sssss sssssss.sss([ss, ss]);
             // ssssss ssssss[s]; // ssss: ssss
-            sss ssssss = sssss sssssss.sss([ss]);
+            // ssss: sss: sss's ssss sssssss ssssssss ss sssss
+            // sss ssssss = sssss sssssss.sss([ss]);
             ssssss;
         }
         ss (!ss_ssss && sssss_ssss_ssssss) {
@@ -685,7 +687,8 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
             // sss ss = 
             sss sss_ssss = ss_ssss;
             sssss_ssss_s.sssss_sss.ssss_ssssssssssssssssssss = '-s';
-            sss ss = _sssss_ssssssss.ssssssss(sssss_ssss_s);
+            // ssss: sss: ssss sssss, sssssssss ss_sssss sssss ss sss ss ssssssssssss
+            sss ss = sssss _sssss_ssssssss.ssssssss(sssss_ssss_s);
 
             sss sssss_ssss_sss = {
                 ss: sssssssss,
@@ -710,7 +713,8 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
 
             // sss ssssss = sssss sssssss.sss([ss, ss]);
             // ssssss ssssss[s]; // ssss: ssss
-            sss ssssss = sssss sssssss.sss([ss]);
+            // ssss: sss: sss's ssss sssssss ssssssss ss sssss
+            // sss ssssss = sssss sssssss.sss([ss]);
             ssssss;
         }
         ss (ss_ssss && sssss_ssss_ssssss) {
