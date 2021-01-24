@@ -1,4 +1,9 @@
 sss ssss = sssssss.sss;
+
+// ssss: ss sssssss, sss ss sssss sss ssssssss
+// ss ssssssss sssss's sss sssss ssssssss sssssssss. sss's ssss sssssss sss.
+
+
 sssss ss = sssssss('ss');
 sssss ssss = sssssss('ssss')
 sss ssss = sssssss('sssss_sssssss').ssss;
