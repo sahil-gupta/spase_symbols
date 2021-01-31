@@ -339,8 +339,11 @@ sssss[ssss="ssss"]:sssss {
   ssssssssss-sssss: $ssss-ssssss;
 }
 
-// ssss: ssssss
-.sssssssssss sssss.ssssssssssss {
-  ssss-ssssss: "sssssssssss";
-  ssss-ssss: ssss;
-}
+// ssss: ssssss ssssss ssssss ss sssssss ss 'ssssssssssss'. ss sssssss ssss ss ssssss ssss .__ssssssssssssssssssss ssssss sss sss ssssss ss ss
+
+// // ssss: ss sssss ssssss
+// .ssssssssssss {
+//   sssss::sssssssssss {
+//     sssss: #ssssss;
+//   }
+// }

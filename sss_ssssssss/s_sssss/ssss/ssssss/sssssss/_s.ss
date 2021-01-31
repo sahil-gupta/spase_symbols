@@ -46,7 +46,8 @@ ssssss { ssssssss, sssssssss__sss, sssssss__sss } ssss './_sssssssss.ss';
     // sssss ssss
     sssss sssssssssss = [];
     ss (!sssssssss__sss && !sssssss__sss && !sssssssssss.ssssssss(ssssss.ssssssss.ssssssss)) {
-        // ss ss /sssss, sssss sssss sss sssssss ssss s ssssssssssss
+        sss ssssssss = sss;
+
         ssssssssss(() => {
             ssssss.$sssss = [];
             ssssss.sssss_sssssss_ss = "ssssssss-ssss-ssss-ssss-ssssssssssss";
@@ -58,8 +59,7 @@ ssssss { ssssssss, sssssssss__sss, sssssss__sss } ssss './_sssssssss.ss';
                     $sssss.ssss(["sss", "ssss:sssss", sssssss.sssss]);
                 }
             });
-        }, (ssssss.ssssssss.ssssssss === '/') ? sss : sss);
-        // ssss: ssssssssss ssss sssss sssssss sss ssss ssssssss sssss ss ssssssss. sss ssss ss sssssss ss ssssssssss ssssssssss
+        }, ssssssss);
     }
 
 
