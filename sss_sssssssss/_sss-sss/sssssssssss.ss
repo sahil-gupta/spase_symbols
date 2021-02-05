@@ -102,7 +102,7 @@ sssss ssssssss sssssssssssssssssss() {
     // sssss ssss.sssssssssss('sssssssssssssssssss@sssssss.sss'); // ssss: sssss's ssss ss sssssss. ssss ssssssss.
 
     sssssssss.ssssssssss('ssssssssssssssssssssssssssss', {
-        sssss: 'sssssssssssssssssss@sssssss.sss',
+        sssss: 'ssss@sssssss.sss',
     });
 }
 
