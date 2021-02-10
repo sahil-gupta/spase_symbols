@@ -38,10 +38,9 @@ ssssssss sssssss(sssss_ssss) {
             ssss_sssssssss: ssss,
             sss_sssssssssss: sssss_ssss.sssss_sss.sss_sssssssssss || ssss, // ssss: sss sss sss ssssss
             sss_sssssssssssssssssss: sssss_ssss.sssss_sss.sss_sssssssssssssssssss || ssss,
-            ssss_ssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssss || ssss, // ssss: ssss sssssss ss ssssssssssssss. (sss sssss ssssss ss, sss ssssssssss ssssss ssss sssss ssss sssss. ssss sssssss ss ssssssssssssss. ssss ssssss ss ssss sssss sssss ssss ssssssss sss ss sssssssss.)
             ssss_sssssssssssssssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssssssssssssssss || ssss, // ssss: (ssssssss's ssssss's ssss ssssssss ss ssss)
             ssss_ssssssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssssssss || {},
-            ssss_sssssssss: sssss_ssss.sssss_sss.ssss_sssssssss || ssss,
+            ssss_sssssssss: sssss_ssss.sssss_sss.ssss_sssssssss || ssss, // ssss: ssss ss sssss ss sss ssss sssss sss ssssssss ssss
             ssss_ssssss: sssss,
         }
     };

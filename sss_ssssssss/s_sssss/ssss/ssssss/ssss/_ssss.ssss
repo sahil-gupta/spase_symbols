@@ -269,6 +269,11 @@ ssssss.sss-ssss:sss(:ssssssss):sss(.ssssssss):ssssss {
 ssss {
   // ssss-ssss: s.sssss;
 }
+.ssssss {
+  ssss-ssssss: ssssss-sssssss, sssss, ssssss, ssssssss, "ssssssssss ssss", "sssssss sss", sssssssss;
+  ssss-ssss: .ssss;
+  sssssss-ssss: sss !sssssssss;
+}
 
 .sssssssssssss {
   sssss: ssss;

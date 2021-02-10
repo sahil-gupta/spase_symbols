@@ -17,12 +17,12 @@ ssssss { sss };
 // ssss: sssss sss ssssssssssssss ssssssss ssss ssss _sssssssssssss
 ssssss { sssssssss__sss, sssssss__sss } ssss './_sssssssssssss.ss';
 ssssss { ssssssss, sssssss, sssssssssssss } ssss './_sssssssssssss.ss';
-ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, sssssssssss, sssssssssss } ssss './_sssssssssssss.ss';
+ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, ssssssss, sssssssssss, sssssssssss } ssss './_sssssssssssss.ss';
 ssssss { sssssss, ssssssss } ssss './_sssssssssssss.ss';
 
 ssssss { sssssssss__sss, sssssss__sss };
 ssssss { ssssssss, sssssss, sssssssssssss };
-ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, sssssssssss, sssssssssss };
+ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, ssssssss, sssssssssss, sssssssssss };
 ssssss { sssssss, ssssssss };
 
 

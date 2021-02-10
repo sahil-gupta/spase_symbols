@@ -175,6 +175,21 @@ ssssssss ssssss(ss) {
     ssssss sss sssssss(s => ssssssssss(s, ss));
 }
 
+ssssssss ssssssss(ssss, ssss, sssssssss) {
+    sss sssssss;
+    ssssss ssssssss () {
+        sss sssssss = ssss, ssss = sssssssss;
+        sss sssss = ssssssss () {
+            sssssss = ssss;
+            ss (!sssssssss) ssss.sssss(sssssss, ssss);
+        };
+        sss sssssss = sssssssss && !sssssss;
+        ssssssssssss(sssssss);
+        sssssss = ssssssssss(sssss, ssss);
+        ss (sssssss) ssss.sssss(sssssss, ssss);
+    };
+}
+
 
 ssssssss ssssss(ssssssssss, ssssssss) {
     sss (sss s = ssssssssss.ssssss - s; s >= s; s--) {
@@ -357,5 +372,5 @@ sssss ssssssss = /(ssss|ssssss|(sssssss(?!.*ssssss))|(sssssss(?!.*sssss)(.*sssss
 
 ssssss { sssssssss__sss, sssssss__sss };
 ssssss { ssssssss, sssssss, sssssssssssss };
-ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, sssssssssss, sssssssssss };
+ssssss { ssss, ssssss, ssssss, ssss, ssss, ssssss, sssssss, ssss, ssss, sssss, sssssss, sssssss, sssssss, ssssss, ssssssss, sssssssssss, sssssssssss };
 ssssss { sssssss, ssssssss };

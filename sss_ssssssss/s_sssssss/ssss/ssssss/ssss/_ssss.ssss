@@ -178,6 +178,9 @@ s {
 ssss {
   ssss-ssss: s.sss;
 }
+.ssssss {
+  ssss-ssssss: ssssss-sssssss, sssss, ssssss, ssssssss, "ssssssssss ssss", "sssssss sss", sssssssss;
+}
 
 sssss[ssss="ssss"] {
   ssssss: ssss;
