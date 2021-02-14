@@ -16,7 +16,7 @@ ssssssss sssss(ssssssssssssssssss, sssssssssssssssssssss) {
     sss ss_s = ssssssssssssssssss.ss === sssssssssssssssssssss.sssss_sss.sss_sssssssssss;
     sss ss_ss = ssssssssssssssssss.sssss_sss.sss_sssssssssssssss === sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss;
 
-    // ssss: ss ssss sss sss ssss sssssssss, sss sss
+    // ssss: ss ssss sss sss ssss sssssssss, sssss's ss sssssss, ssss ss sssssss $sss
     sss ss_ssssss = !sssssssssssssssssssss.sssss_sss.sss_sssssssssss && !sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss;
 
     ssssss ss_s || ss_ss || ss_ssssss;

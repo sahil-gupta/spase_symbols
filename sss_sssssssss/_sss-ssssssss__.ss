@@ -122,7 +122,7 @@ sssssss.ss_ssssssss_sss_s = sssss ssssssss (sss, sss) {
     sss s_ssssss = ['sssssss', 'ssssssss', 'sssssssss', 'ssssssssss', 'sssssssss', 'ssssssss', 'sssssss', 'ssssssssss', 'ssssssssssss', 'sssssssss', 'ssssss', 'ssssssss', 'sssssss', 'sssssssss', 'ssssssss', 'ssssssss-ss', 'ssssssss', 'ssssssssss', 'ssss ssssssss', 'sssssssss', 'sssssss', 'ssssssss', 'sssssssss', 'sssssss', 'ssssssss', 'ssssssssss'];
     sss s_sssssssssssssss = [];
     sss s_sssssssss = ['sssss sssss'];
-    sss s_sss = ['sss.ss.ss.sss']; //['sss.ss.ss.ss'];
+    sss s_sss = ['sss.ss.ss.sss']; // 'sss.ss.ss.ss'; // ssss: ssssss 'ss.sss.sss.sss'
 
     ssssssss sssssssssssssss(ssss) {
         sss (sss s = s; s < s_sssssssssssssss.ssssss; s++) {

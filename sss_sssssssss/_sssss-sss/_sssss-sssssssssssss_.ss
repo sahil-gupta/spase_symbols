@@ -24,6 +24,36 @@ sssss _sssss_ssssssssssssssss = sssssss('./_sssss-ssssssssssssssss.ss');
 // ssss: sss's ssss ss sssssss sss sssssss ss ssss sssssss sss sss sssss ss sssssssss ss ssssssssss.sss
 // ssss: ssssss ssssssss sss ssssss
 
+// ssss:
+// sssss sssss ssss
+// ssss sssssss sssssss ssss
+//     sss sss sss ssss ss ss
+//     sss ssssss sssssssssssss sssss ss ss
+//     sssss sss
+//         ssssss sssssss
+//         sss's ss ssss sssssssss sss sssssss ss ssss ss ssss'ss sss sss sssss
+//         sssss ssssss
+//             sssssss sssssss sss ssss ss ssss ssss
+//             ss ss's ssss
+//     sssssssss
+//         ssss ssss ss sss sss sss ssss ss ssss
+//         sss sssss ss ss
+// sssss, sss ssss sssssss ssss sssss ssss ssssss ssssss ss ssss, ss sss's ssss ssss ssss ss sssss.
+//          ssss sssss sssssss ssss sss ssss? ssss ssss's sss ssssssss. ssss ss ssss ss ss ss.
+
+// ssss:
+// ssss ssssss sss sss sssssss sssssssssss sss ssss ss ssss
+// 	sssssss ssss ssssssss ssss sssss, ss ssss sssss ss sss ssss
+// 	ss
+// 	sss sss ssssssss ssss ss ss sss ss ssssss
+// 	sss's ssss ssssssss ss sss sssss
+// 	sssssssss sss's sss sss sss ssss ss ssss
+//  sssss ssss sss ssssssss ss sss ss, ss ss.
+// 	    ssssss ss sssssss sss sssss ss ss
+// 	    ssss sss ssssss ssssss sss ssss
+// 		    ssss's ssss ss ss. ssss ssssss ssss ss sss ssssss sss ssss's ssssss sss sssssss sssss. sss ssssssss sss ssss sss ssss ss ssss.
+
+
 //////////////////////////////////////////////
 
 // ssss: sssssss sssss ssssssssss

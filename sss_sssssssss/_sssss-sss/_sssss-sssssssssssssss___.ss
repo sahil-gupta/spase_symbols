@@ -17,6 +17,25 @@ sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
 
 // ssss: ssssssss ssss ssssssssss ssssss ss sss. sss sssssssss ssss ssss sss sss sss s.
 
+// ssss:
+// ssss ssssss sss sss sssssss sssssssssss sss ssss ss ssss
+// sssss sss sssss sssssssssssss sssss ss ss
+// 	ss ss sssssss ss ssssssss?
+// 	sssssss
+// 		sssss ss sssssss ss sssss ss sssssssssss
+// 		ssss sss ss ssssss ss ss s ss sssss
+// 		ss s ss ssssssssss
+// 			sss's ssss sss sss
+// 	sss sss sssss ss sssss
+// 		ssss ssssssss ss ssssssss sssssssssss s s
+// 			ss ssss sss sssss sss ssssssssss sss sss
+// 			ss ssss sssss ssss ss ss ssssssss
+// 			sssssss ssss ss ssssss ss sssssssssss
+//         ssss ssssss ssssssss
+
+
+
+
 //////////////////////////////////////////////
 
 // ssss: sssssss sssss ssssssssss
