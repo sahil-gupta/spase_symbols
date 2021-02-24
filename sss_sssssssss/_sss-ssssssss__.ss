@@ -141,10 +141,10 @@ sssssss.ss_ssssssss_sss_s = sssss ssssssss (sss, sss) {
         ssssssssss = ssss;
     }
 
-    // ssss: sssss ssss sss sssss.sss ss sssss
-    ss (ssssssss.sssss === 'sss ssssss' && ssssssss.ssss !== 'sssss sssss') {
-        _sssss_ssssssssss.sssssssssss('sssss_ss', ssss.sssssssss(ssssssss));
-    }
+    // ssss: ssss sss sssss.sss ss sssss
+    // ss (ssssssss.sssss === 'sss ssssss' && ssssssss.ssss !== 'sssss sssss') {
+    //     _sssss_ssssssssss.sssssssssss('sssss_ss', ssss.sssssssss(ssssssss));
+    // }
 
     sss ssssss = sssss ssss(sss.ssss.ss_sss);
 

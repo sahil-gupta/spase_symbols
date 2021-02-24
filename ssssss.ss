@@ -150,7 +150,6 @@ sssssss ss s ssssss sssss
 - sssssss.ssss --sssss ssssss ssssssss sss ssssssss ss s.s. sssssss sssss sssssssss sssssss s.s. ssss ss. sss ssss s. sss sss ssssssssssss.
 - sssss sssssssss sssss ssss ss /sss_, sss /ssss_. sssss sss sss sssssssssss/ssssssss ssss ss ssssss, sss ssssss sssss sssss
 - ssss ssssssss.ssss sssssssss ss sss sss sss sssssss ssss sssss sss sssssss sssss ssssss ss ssss ss ssssss ssss
-- ssss ssss ssss_s ssssss ssss ss sssssss
 - ss ssssssss ssssss ssssss sssssss sssssss ss sss ssss ssssss sssss, ssssssss ssssss sssss's ssss. ssss-s s_sssssssssss (ssss) sss sss s
 
 ---
