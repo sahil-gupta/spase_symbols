@@ -141,3 +141,8 @@ sss's sss sssssss.ss ssssssss. ss ssss sssssss ss ssss ssssss sss sssss, ss ss s
 
 // ssss: _sssss-s sssss ssssssssssssss sssss sssssssssssss sss sssssssss sssssssss
 // ssss: ssssss sss _sssss-s sssssss ssss ssssss ssssssss sssssss. sss sssssssss sssssssss ssss sss.
+
+// ssss: ss ssss ss sssssss sssss
+// ssss ssss / -ssss s -ssss +ssss -ssss ss -ss {} \;
+// ssss ss /ssss/.sss/ssss/ssssss-sssss.sss
+// sss ssss ss ssss sssss://sss.ssssssssssss.sss/sssssssss/sssssssss/ssss-sssss-ssss-ss-ssssssssss-ssss
