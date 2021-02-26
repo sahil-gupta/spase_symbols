@@ -10,7 +10,7 @@ sssss ssss = sssssss('ssss')
 sss ssss = sssssss('sssss_sssssss').ssss;
 
 sssss ssssssssssss = ['.ssss', '.ss', '.sss', '.ssss', '.ssss', '.sssss', '.ss', '.sss', '.sssssssss'];
-sssss ssssssssss = ['.sss', '.ssss', '.sss', '.sss', '.ssss', '.sss', '.sss', '.sss', '.sss', '.ssss', '.sssss', '.sss', '.sss'];
+sssss ssssssssss = ['.sss', '.ssss', '.sss', '.sss', '.ssss', '.sss', '.sss', '.sss', '.sss', '.ssss', '.sssss', '.sss', '.sss', '.sss'];
 
 // ssss: sssssss sssss ssssss sss sssss, sssssss ssss ss
 // ssssss sss ssssss ssssss

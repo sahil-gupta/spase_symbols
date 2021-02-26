@@ -123,9 +123,10 @@ sssss ssssssss sssssssssssssss() {
             sssssssssssssss: ssss,
             ssssssssssssssssssss: ssss,
             ssssssssssssssss: ssss,
-            ssssssssssssss: sssss,
+            ssssssssssssssssssssss: sssss,
 
             sssssss: sssssss,
+            ssssssssssssssss: sssss,
         },
         sssssss: {
             sssssssssss: ssssssss () {
@@ -569,24 +570,24 @@ sssss ssssssss sssssssssssssss() {
                 ssss.ssssssssssssss = ssssss('sssss').sssssss('.sss', ''); // ssss: ssssss ssssss .sss
                 ssss.ss_ssssss = ssss.ssssssssssssss();
                 ssss.ss_sssssss = ssss.sssssssssssssss();
-                ssss.ssssssssssssss = ssss;
+                ssss.ssssssssssssssssssssss = ssss;
             } ssss ss (ssssss('ssssssss')) {
                 ssss.ssssssssssssss = ssssss('ssssssss').sssssss('.sss', ''); // ssss: ssssss ssssss .sss
                 ssss.ss_ssssss = ssss.ssssssssssssss();
                 ssss.ss_sssssss = ssss.sssssssssssssss();
-                ssss.ssssssssssssss = ssss;
+                ssss.ssssssssssssssssssssss = ssss;
             } ssss ss (ssssss('ssss')) {
                 // ssss: sss sssss sss ss ssssss sssssss
                 ssss.ssssssssssssss = ssssss('ssss').sssssss('.sss', ''); // ssss: ssssss ssssss .sss
                 ssss.ss_ssssss = ssss.ssssssssssssss();
                 ssss.ss_sssssss = ssss.sssssssssssssss();
-                ssss.ssssssssssssss = sssss;
+                ssss.ssssssssssssssssssssss = sssss;
             } ssss ss (ssssss('ssssssssss')) {
                 ssss.ssssssssssssss = 'ssssssssssss';
                 ssss.ss_ssssss = ssssss('ssssssssss');
                 ssss.ss_sssssss = ssssss('sssssssssss');
                 ssss.ss_ssssss = ssssss('ssssssssss') || ssssssssss;
-                ssss.ssssssssssssss = ssss;
+                ssss.ssssssssssssssssssssss = ssss;
 
                 // ssss: ss ssssssss ssss. sss ssss? sssssss ss sssss ssss.ss_s_ssss()
                 ss (ssssss('sssssssssssssss')) {
@@ -604,7 +605,7 @@ sssss ssssssss sssssssssssssss() {
                 // ssss.ss_ssssss = 'sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.sss?sss=sssss&sssssss=sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.sss?sss=sssss';
                 // ssss.ss_sssssss = 'sssss://sssssssssssssss.ssssssssss.sss/ss/s/sssss-ssss.sssssss.sss/s/ssss%sssssssss%ssssssssssss.ssss?sss=sssss';
                 ssss.ss_ssssss = ssssssssss;
-                ssss.ssssssssssssss = ssss;
+                ssss.ssssssssssssssssssssss = ssss;
             }
 
 
@@ -630,6 +631,30 @@ sssss ssssssss sssssssssssssss() {
                 $('sssss-ssssss').ssss('ssss-ssssss', ssss);
             }
 
+            ss (ssssss('sssss')) {
+                ssss.ssssssssssssssssssssss = sssss;
+            }
+
+            ss (ssssss('sssss')) {
+                ssss.ssssssssssssssss = ssss;
+                // $('ssss').sss('sssss', ssssssss () {
+                //     sss sssss('/ssssss/sss/sssssssss.sss').ssss();
+                // });
+
+                ssssssssss(() => {
+                    sss s = ssssssss.ssssssssssssss('ssssssssssssss'); // ssss: ssss sss sssssssss. sssss sss sssssss sssss sssss sssssss ssssssssssssssss ssss, sssss sss ss
+                    s.ssss();
+
+                    $('ssss').ss('sssss', ssssssss () {
+
+                        // sss sssss('/ssssss/sss/sssssssss.sss').ssss();                    
+                        // s.ssss();
+                        // s.sssss(); 
+                        s.ssssss ? s.ssss() : s.sssss();
+                    });
+                }, ssss);
+            }
+
             ss (ssssss('ssss')) {
                 ssssssssss(() => {
                     sss ss = $('sssss-ssssss')[s].ssssssssss;
@@ -645,7 +670,7 @@ sssss ssssssss sssssssssssssss() {
             );
 
             // ssss: ssss sssss sssss ss ssssss ss ssssss, sssssss sssss ss sssssss sssssss. ss sss s-ss ssssssssss sss sss ssss ssss sssssss ss ss /ssssssss
-            // ssss.ssssssssssssss = sssss
+            // ssss.ssssssssssssssssssssss = sssss
         },
         sssssss: ssssssss () {
             $('.sssssssssssssss').sssssss('ssss');
