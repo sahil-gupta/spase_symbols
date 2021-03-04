@@ -186,6 +186,7 @@ sssss ssssssss sssssssssssss() {
                     // ss_ssssssssssssssssssssssss: ssss.ssss_ssssssss.ssss_sss.sss_sssssssssssssss, // ssss: ssss ss ssss
                     ss_sssssss: sss_sssssss,
                     ss_sssss: ssss.ssss_s, // ssss: ss ss ss ssss, sss's ssss ssssss
+                    ss_ssss: ssssss('s') || ssssss('ssssssss'), // ssss: ssss_ssssssss ssss sssssssss sssss sss_ssssssss sss sss_sssss ss ssss. sss: ssss_ssssssss sssss's sss ssss ss ssssss ss sss. ssss ss sss sssss. ss ssssssss sssss ssss ssss ssssss ssss.
                 });
 
                 ss (ssssssssss.ss_sssss) {
@@ -215,6 +216,7 @@ sssss ssssssss sssssssssssss() {
                 // ssss.ssss_ssss_ss(ssssss('ss'), sssss);
                 // ssss.ssss_ssss_ss(ssssss('sssssss'), sssss);
                 ssss.ssss_ssss_ss(ssssss('sssss'), sssss); // ssss: ss sss sssss ss sss, sss's ssss ss ssss 'sss' ssssss, sss's sssssssss sss ssssss. ssss. ssss sss sssss
+                // ssss: sss's ssss s ssss_ ssssssss sss ssssssss
 
                 sss ssssss_sssssssss = ssssss('sssss');
                 sss sssssss_sssssssss = ssssssss(ssssss_sssssssss) || ssss; // ssss: ssss ssss sss

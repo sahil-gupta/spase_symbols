@@ -151,9 +151,11 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 }
 
                 ss (ssss.ssss_sss.ssssss === s) {
-                    ss (!ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['sssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssssss']) {
-                        ssssss sssss;
-                    }
+                    // ssss: sss's ssss ssss. ssssssssss ss ssss sssssss sssss. ssssss sssss sssssss (sssssss sssss sss sss ssss || sssssss sssss sss sss ssssssss sssss.)
+
+                    // ss (!ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['sssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssssss'] && !ssss.ssss_sss[s].ssss_sss.ssss_ssssssssssssssssss['ssssss']) {
+                    //     ssssss sssss;
+                    // }
                 } ssss {
                     // ssss: ss ssss sss sss sssssss ssss
                     ss (ssss.ssss_sss.ssss(ssss_ss => !ssss_ss.ssss_sss.ssss_ssssss)) {
