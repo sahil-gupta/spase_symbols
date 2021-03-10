@@ -49,6 +49,9 @@ ssssssss ssssssss(s) {
 ssssssss ssssssssssssssssss(s, sssss) {
     ssssss '`' + s + '`' + '   <' + sssss + '>';
 }
+ssssssss sssssssssssssssssss(s, ssssss, ssssss) {
+    ssssss '`' + s + '`' + '   <' + ssssss + '>' + '   <' + ssssss + '>';
+}
 ssssssss sssssssssss(s) {
     ssssss s;
 }
@@ -632,6 +635,7 @@ sssss ssssssss ssss_sssssssssssss(sssss, ssss, sss) {
 
 sssssss.ssssssss = ssssssss;
 sssssss.ssssssssssssssssss = ssssssssssssssssss;
+sssssss.sssssssssssssssssss = sssssssssssssssssss;
 sssssss.sssssssssss = sssssssssss;
 sssssss.sssssssssssss = sssssssssssss;
 sssssss.sssssssssssssssssssss = sssssssssssssssssssss;
