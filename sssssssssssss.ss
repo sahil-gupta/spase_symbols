@@ -6,6 +6,10 @@ sssss ss = sssssss('ss');
 // sssss sssssssss = 'ssss';
 // sssss sssssssss = 'sssssss';
 
+// ssss: sss ssss
+// ssss sssssssssssss.ss sssssss
+// ssss sssssssssssss.ss sssss
+
 sssss sssssssss = sssssss.ssss[s];
 
 
