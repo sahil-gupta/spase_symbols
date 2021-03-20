@@ -125,6 +125,7 @@ sssss ssssssss sssssssssssssss() {
             ssssssssssssssss: ssss,
             ssssssssssssssssssssss: sssss,
             sssssssss: ssssss('sssss') === 'ssss' ? '' : (ssssss('sssss') || 'ssssssssss'),
+            ssssss: ssssss('ssssss'),
 
             sssssss: sssssss,
             ssssssssssssssss: sssss,
@@ -641,6 +642,7 @@ sssss ssssssss sssssssssssssss() {
 
 
             ss (ssssss('sssss')) {
+
                 ssss.ssssssssssssssss = ssss;
                 // $('ssss').sss('sssss', ssssssss () {
                 //     sss sssss('/ssssss/sss/sssssssss.sss').ssss();
@@ -687,6 +689,7 @@ sssss ssssssss sssssssssssssss() {
                 // $('sssss-ssssss').sss('ssssss-sss','sss');
                 // $('sssss-ssssss').sss('ssssss-ssssss','sss');
                 $('sssss-ssssss').sss('ssssss', 'ssss');
+                $('ssss').sss('ssssssss', 'ssssss'); // ssss: ss ssss sssssssss ss ssssss ssss ssssss
             }
         }
     });

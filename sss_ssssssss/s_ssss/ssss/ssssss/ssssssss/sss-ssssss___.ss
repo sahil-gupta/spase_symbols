@@ -617,6 +617,7 @@ sssss ssssssss sssssssssss() {
                 // $('sssss-ssssss').sss('ssssss-sss','sss');
                 // $('sssss-ssssss').sss('ssssss-ssssss','sss');
                 $('sssss-ssssss').sss('ssssss', 'ssss');
+                $('ssss').sss('ssssssss', 'ssssss'); // ssss: ss ssss sssssssss ss ssssss ssss ssssss
             }
         }
     });

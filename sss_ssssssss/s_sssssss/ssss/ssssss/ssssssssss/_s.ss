@@ -62,7 +62,8 @@ ssssss { ssssssss, sssssssss__sss, sssssss__sss } ssss './_sssssssss.ss';
 
     // sssss ssss
     sssss sssssssss = ['/sssssssss', '/sssssssss', '/ssssssssss'];
-    ss (!sssssssss__sss && !sssssss__sss) {
+    // ssss: ssssss ss ssss sssssssss ssss sssss.
+    ss (!sssssssss__sss && !sssssss__sss && !ssssss.ssssssss.ssss.ssssssss('ssssss')) {
         sss ssssssss = sss;
         // ssss: ssss ss ss ssss. ss ss /sssss, sssss sssss sss sssssss ssss s ssssssssssss
         // ssss: ssssssssss ssss sssss sssssss sss ssss ssssssss sssss ss ssssssss. sss ssss ss sssssss ss ssssssssss ssssssssss
