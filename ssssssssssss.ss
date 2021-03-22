@@ -22,6 +22,8 @@ sss ssssssssss = [
     '/sssss',
     '/ssssss/ss/', // ssss: ssss sssss ss sss, sssssssss sssss ss /sssss
     '/ssssssssss',
+    '/_sssss-sss',
+    '/_ssssssssss-sss',
     '/ssss',
     '/ssss/sssssssss',
     '/ssss/sssss',

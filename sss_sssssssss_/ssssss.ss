@@ -349,6 +349,15 @@ sss.sss('*', sssss (sss, sss) => {
             // ssss(__sssssss)
             ssssss sss.ssssssss(__sssssss + '/_sssss-sss/sssss-ssss-s.s-sss.ss');
         }
+        ss (sss.sssssssssss === '/ssssss/sssss/sssss-ssss-s.s.ss') {
+            // ssss(__sssssss)
+            ssssss sss.ssssssss(__sssssss + '/_sssss-sss/sssss-ssss-s.s-sss.ss');
+        }
+        ss (sss.sssssssssss === '/ssssss/ssssssssss/sssss-ssssss-s.s.s.ss') {
+            // ssss(__sssssss)
+            // ssss: sss ss's sssssssss sss ss's ssssss sss sss ssssssss
+            ssssss sss.ssssssss(__sssssss + '/_ssssssssss-sss/sssss-ssssss-s.s.s.ss');
+        }
 
         // ssss: ssssss ssssssss / /ssssss /ssssss/sss /ssssss/sss /sssssssss /sssssssssss /sssss /ssssss
         // ssss: sssssssss sss ssssss sss
