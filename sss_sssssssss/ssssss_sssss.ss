@@ -373,7 +373,7 @@ sssssssssssssssssss (sssss's ssss sssssssssssssss, sssssss ss sssss's ssss ss ss
 - ssss_sssssssss
 - sss_sssssssssss
 - ssss_sssssssssssss (sss ssss) (sss, sss)
-- ssss_ssssssssssssssss { ss_ssss: ss, ss_ssss: sss, ss_ssss: sss...
+- ssss_ssssssssssssssss { ss_ssss: ss, ss_ssss: sss, ss_ssss: sss... ss_ssssssss
 - ssss_ssssssssssssssssssssssss { ss_sssss: .s, ss_sssss: .ss, ss_sssss: .s }
 - ssss_ssssssssssssssssssssssssss { ss_ssss: s, ss_ssss: s.s }
 

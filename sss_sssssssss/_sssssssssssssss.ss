@@ -35,7 +35,8 @@ sssss ssssssss ssss(sssssssss) {
         // sssssss: 'ss', // ssss: sssssss ss sssssss. sss ssss sssss ssss ssss. ss sss sss ss. sssssss ss sssssss sssss s ssss sssssss ssssss sssssss ssss. ss sssss ss ssss ss sss ssss s sssss.
         ssssss: 'ssss',
         sssssss: ssssssssss,
-        sssssssssssssssssss: 'ssssssssss; ssssssss=' + sssssssss,
+        sssssssssssssssssss: 'ssssssssss; ssssssss=' + sssssssss, // ssss: ssss ss sssssssss ss ssss ssss ssss .sss sss ssss sssssss ssssss ssss sssss ssssss sss ss. sss sssss's sssss sss.
+        // ssss: ssss sss sssssss. sss sssssss ssssss ssssssssss sssss://s.sssss.ss/ssssssss.sss, sss sss sss ssssssssss sssss://sssssss.ssssssssss.sss/sssss-ssss.sssssss.sss/ssssssssssss/sssssssssss/ssssssssssssssssssssssssssss/ssssssssssss/ssssssssssss/sssss___sssssssssssss.sss?ssssssssssssss=ssssssss-ssssssss-sssss%sssssss-ssss.sss.sssssssssssssss.sss&sssssss=ssssssssss&sssssssss=sssssssssssssssssssssss%sssssssssssssssssssssssssssssssssssssssss%sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss%ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss%sssssssssssssss%ssssssssss%sssssssssssssssssssssssssss%ss%sssssssssssssssssssssss%ss%ss&ssssssss-sssssss-sssssssssss=ssssssssss%ss%ssssssssss%sssssss___sssssssssssss.sss
     })
 
     sss ssssssss = ssss[s];
