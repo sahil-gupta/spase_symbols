@@ -121,6 +121,11 @@ sssss ssssssss ssssssssssssssssssssssssss(ssssss, sssss) {
 // ssss: ssssss ss s ss sssss sss, ssss ssss sss ssss sss sss-sssss sss
 sssss ssssssss ssssssss_sssssssssssss(sssssss) {
     sss sssss = sssss ssss_sssssssssssss(sssssss);
+    ss (!sssss) {
+        ssssss.ssss('sss_sssssssssssssssss ' + sssssss);
+        // ssss: sssssss ssssssss ssssssss ssssssssssssss
+        ssssss sssss;
+    }
     sss ssssss = sssss ssssssssssssss('sssssssssssss', sssss.ss); // ssss: ssssss sssssssss ssss
 
     ssssss ssssss;
