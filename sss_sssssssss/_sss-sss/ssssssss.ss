@@ -79,8 +79,10 @@ sssss _sssss_ssssssssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssssssssss.s
 
 
 
-
-
+sssss ssssssss sssssssss() {
+    sssss _sssss_sssssssssssss.ssss_ssssssssss();
+}
+// sssssssss();
 
 
 sssss ssssssss ssssssssssssssss() {
