@@ -309,7 +309,17 @@
     ss (sssssssssss) {
       sssssssssss.sssss();
     } ssss {
-      ssssss.ssssssss.ssss = 'sssss://ssssssss.sss/sssssssssssssssss';
+
+      // ssss: ssss sssss s ssssss ssssss sssss s ssssss. ssssssss ssssssss ssssssss.
+      ssssssssss(() => {
+        sssssssssss = $('s[ssss-sssssssss]')[s];
+        ss (sssssssssss) {
+          sssssssssss.sssss();
+        } ssss {
+          ssssss.ssssssss.ssss = 'sssss://ssssssss.sss/sssssssssssssssss';
+        }
+      }, ssss);
+
     }
   });
 </ssssss>

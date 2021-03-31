@@ -102,7 +102,7 @@ sssss
 sss ssssss/sss
   ss ssssss
     sss sssssss * ss ssssss/sss/ssssss = ss,sss ssssss/sss
-    ssss ssssss ss s ss s ssss
+    ssss sssssss ss s ss s ssss
     sssss, ssssssss ss sss
 ss sssssss ssssssssssss sss, ssss sssss
 s sss sss ss ss ssssssss ssssss

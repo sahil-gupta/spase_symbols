@@ -128,7 +128,7 @@ sssss ssssssss sss_sssssss(sssssss, ssssssss, ssssssssss, sssssssssss) {
     // ssss: sss's ssss ss ssss ssss sss sssss sss
     // { sssssssss: 'ssssssssssssssss-ssssssss-ssss-ssss-ssss-ssssssssssss-ssssss' }
     // ssss(sss);
-    ssss('.');
+    ssss('. ' + ssssssssss);
     ssssss s;
 }
 
