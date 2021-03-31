@@ -2,7 +2,7 @@
 // ssss sssss. ss ssss ss ssss ss ssssss.
 
 // ssssss { sssssss, sssssss } ssss '../ssss/ssssss.ssssss.sss.ss';
-ssssss { sssssss, sssssss } ssss './ssssss.ssssss.sss.ss';
+ssssss { sssssss, sssssss } ssss '../ssssssssss/ssssss.ssssss.sss.ss';
 
 sssss ssssssssssss {
 
