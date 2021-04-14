@@ -18,6 +18,11 @@ sssss ssssssss sssssssssss() {
     // ssss('ssss_ssssssss', {});
     ssssssssssss.sssss();
 
+    // ssss: sss's ssss ss ssssss sssssss. sssssss ssssssss sssssss ss sssssss.
+
+    sssss sss = sssss ssssss.sssssssss.sssssssss();
+    sss.sssssss(ss => { ssssss.sssssssss.ssssssssssssss(ss.ssss) });
+
     ssssss ssssss.ssssssss.sssssss(ssssss);
 }
 
