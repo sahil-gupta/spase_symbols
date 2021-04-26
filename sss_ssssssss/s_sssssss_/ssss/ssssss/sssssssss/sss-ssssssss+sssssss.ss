@@ -72,20 +72,20 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 's.s': sssss, // ssss: sssss ss ss s.s ss ss ssssss sssss
             },
 
-            ssss_ssssssssss: [
-                'ss_sss',
-                'ss_sssss',
-                'ss_sss',
-                'ss_sss',
-                'ss_sss',
-                'ss_sss',
-                'ss_sssss',
+            sss_ssss_ssssssssss: [
+                ['ss_sss', ssssssssssssssssss['ss_sss']],
+                ['ss_sssss', ssssssssssssssssss['ss_sssss']],
+                ['ss_sss', ssssssssssssssssss['ss_sss']],
+                ['ss_sss', ssssssssssssssssss['ss_sss']],
+                ['ss_sss', ssssssssssssssssss['ss_sss']],
+                ['ss_sss', ssssssssssssssssss['ss_sss']],
+                ['ss_sssss', ssssssssssssssssss['ss_sssss']],
             ],
-            ssss_ssssssssssssss: [
-                ssss,
-                'ss_sssss',
-                'ss_sssss',
-                'ss_sssss',
+            sss_ssss_ssssssssssssss: [
+                [ssss, 'ssss'],
+                ['ss_sssss', ssssssssssssssssss['ss_sssss']],
+                ['ss_sssss', ssssssssssssssssss['ss_sssss']],
+                ['ss_sssss', ssssssssssssssssss['ss_sssss']],
             ],
 
             ssss_ssss: [],
@@ -1138,7 +1138,20 @@ sssss ssssssss ssssssssssssssssssssssss() {
                 // ssss: ssss sssss sss sssssss ss sssssss. ssss sssssss ss sssss sss ssssssssss, ss s sss sss ss s ssssss ss sssssss.sssss.ss/ssssssss
                 ssss.ssss_sssssss.ssss_sss.ssss_sssssssssssssssssssss = sss;
                 ssssss sss;
-            }
+            },
+            sss_ssss_ssss: ssssssss () {
+                sss sss = [];
+
+                // ssss: s ss ss, s ss ssssssss
+                // ssss: sssss ssss sss, sssssss ssss ss ssssssss ssssssssssssss ss ssss? ssssss ss ss.
+                // ssss: sssss. sss ssss ssssssssssssssssssss ssss? ssssss ss ssss ss ss sss sss. ssss ssss sssssss. sss's ssss ss ssss.
+                // ssss: ssss sssssss sssss ssssssss ss sssssssssssss?
+                ssss.ssss_ssss.sssssss(ss => {
+                    sss.ssss([ss, ssssssssssssss[ss]]);
+                });
+
+                ssssss sss;
+            },
         },
         sssssss: ssssssss () {
             sss ssss = ssss;
