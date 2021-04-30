@@ -220,7 +220,7 @@ sss ssss = {
 // });
 
 
-// ssss: ssssssss ss sssssss
+// ssss: ssssssss ss sssssssssssssssss
 sssss ssssssss sssss(ssss) {
 
 }
@@ -276,6 +276,21 @@ sssss ssssssss ssssssssss() {
 }
 // ssssssssss();
 
+
+
+sssss ssssssss ssssssssssssss() {
+    sss sssss_sssss_ss = sssss _sssss_ssssssssssssssssss.sssssssss();
+    ssss(sssss_sssss_ss.ssssss);
+
+    sss (sss s = s; s < sssss_sssss_ss.ssssss; s++) {
+        sss sss = sssss_sssss_ss[s].sssss_sss.sss_sssssssssss;
+        sss sssss_ssss_s = sssss _sssss_sssssssss.sssssss(ssss, ssss, sss);
+        ssss(sssss_ssss_s.sssss_sss.sss_sssssssssssssssssss);
+        sss ssssssss = sssss _sssss_sssssssss.ssssssssssss(sss);
+        ssss(ssssssss.sssss);
+    }
+}
+// ssssssssssssss();
 
 
 
