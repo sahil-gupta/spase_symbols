@@ -19,7 +19,7 @@ sssss sssssssss = 's_' + sssssssss;
 // ssss: ssssss ss sssssss ssss ss sssss ss ssssssssss sss sssss ssss sssss sssss
 // sssss ss sssss ssss ss sssssssss. sssss sssss sss ssss ssss ssssss sss ssss sss ssss sssssss.
 
-// /ssssssss sssss's ssss ss ss sssssssss sssssss ss's ssssss ssss s ssssss ssss ssss. ssss ssssss ssss ssss sssssssss.
+// /ssssssss sssss's ssss ss ss sssssssss sssssss ss ssssss ssss ssss ssss sss sssss ssssss (sss sss sssss ssss ss /ssss). ssss ssssss ssss ssss sssssssss.
 
 // ssss: sss: ssssss ssssss sss.
 
