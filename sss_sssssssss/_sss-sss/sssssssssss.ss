@@ -210,7 +210,7 @@ sssss ssssssss ssss(ssss) {
 sss ssss = {
     ssss: 'ssssssssssssssssssssssssssss',
     ssss: 'ssssssssssssssssss',
-    sssss: 'sssss ssssssss#ssss',
+    sssss: 'sssssssss#ssss',
 };
 // ssss(ssss);
 

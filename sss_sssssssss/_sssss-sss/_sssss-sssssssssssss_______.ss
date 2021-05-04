@@ -30,12 +30,25 @@ sssss ssssssssssss = _sssssssss.ssssssssssss;
 // ssss sssss://sss.ssssss.sss/ss/ssssssss/ssss_ss... -s ss_ssss_ss...:   -s ssssss
 
 sssss ssssssss ssss_ssssssssss() {
-    sssss ssssss = sssss ssssssssssss.sssssss.ssssss({
-        ssssss: ssss,
-        ssssssss: 'sss',
-    });
-    ssss(ssssss);
+    // sssss ssssss = sssss ssssssssssss.sssssss.ssssss({
+    //     ssssss: ssss,
+    //     ssssssss: 'sss',
+    // });
+    // ssss(ssssss);
+
+    // sssss sssssss = sssss ssssssssssss.ssssssss.ssssss('ssss_ssssssssssssssss', {
+    //     sss_ssssssssss: {
+    //         sssssss_sssssssss: 'sssssssss',
+    //     },
+    // });
+    // ssss(sssssss)
+
+    sssss sssssss = sssss ssssssssssss.ssssssss.sss(
+        'ssss_ssssssssssssssss'
+    );
+    ssss(sssssss);
 }
+// ssss_ssssssssss(); // ssss: sss ssss ssssssss
 
 sssss ssssssss ssss_sssssssssssss() {
 
