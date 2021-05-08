@@ -25,6 +25,26 @@ sss sssssssss;
 
 
 // ssss: ssss sss sssssssssss ss sssss sssss. ss === sssss. sss's ssss ss sss sssssssss sssssssss ssssssssss sssssssss ss ssss
+// ssss: ssss ssssss ss sssssssss ssss !ssssssss
+// ssss:
+// ssssssss   ssssssss   ssssssss
+//   sss ssssssss ss ss ssssssss sss ssssssss.
+// ssssssss   ssssssss   !ssssssss
+//   ssss, sssss
+// ssssssss   !ssssssss   ssssssss
+//   sss s ssss ssssss. sss ssss.
+// ssssssss   !ssssssss   !ssssssss
+//   sssss ssssss ss sssssss, sss sssssss sss ss sssssssss.
+// !ssssssss   ssssssss   ssssssss
+//   sss ssssssss. ssssssss ssss ss ss ssssssss sssssss. ssss sss's ss ssssssss sss ssssssss.
+// !ssssssss   ssssssss   !ssssssss
+//   sss ssssssss. ssssssss ssss ss ss ssssssss sssssss.
+// !ssssssss   !ssssssss   ssssssss
+//   ss. s sssssss ss sssssss ssssss, ssss
+// !ssssssss   !ssssssss   !ssssssss
+//   ss. s sssssss ss sssssss ssssss, sssss
+
+
 sssss sssssssssss = [
 
 
@@ -146,7 +166,7 @@ sssss sssssssssss = [
     {
         'ss': 'ssssssssssssssssss',
         'ssss': 'ssssss',
-        'ssssssss': ssss, // ssss: ssss ssss sss's ssssss ss ssssssss ss
+        'ssssssss': ssss, // ssss: ssss ssss sss's ssssss ss ssss.sssss.ss/sssssssss
         'sssssssssss': sssss,
         'ssssssss': ssss,
         'ssssssss': sssss,
