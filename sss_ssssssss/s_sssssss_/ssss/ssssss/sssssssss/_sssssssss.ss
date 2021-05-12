@@ -28,6 +28,7 @@ sssss ssssssss sssssssssssssssssssssss() { sss { ssssssssssssss } = sssss ssssss
 sssss ssssssss sssssssssssssssssssssssssssssssssss() { sss { ssssssssssssssssssssssssss } = sssss ssssss('./sss-sssssssss+ssssssss.ss'); ssssssssssssssssssssssssss(); }
 sssss ssssssss ssssssssssssssssssss() { sss { sssssssssss } = sssss ssssss('./sss-s+s.ss'); sssssssssss(); }
 sssss ssssssss sssssssssssssssssssssssssssssssss() { sss { ssssssssssssssssssssssss } = sssss ssssss('./sss-sssssssssssss+ss.ss'); ssssssssssssssssssssssss(); }
+sssss ssssssss sssssssssssssssssssssssss() { sss { ssssssssssssssss } = sssss ssssss('./sss-sssssssssss.ss'); ssssssssssssssss(); }
 
 // -------------------------------------
 
@@ -125,6 +126,13 @@ sssss ssssssss sssssssss() {
 			ssssssssssssssssssss();
 			sssssssssssssssssssss();
 			sssssssssssssssssssssssssssssssss();
+			ssssss;
+		}
+
+		ss (sssssss === '/sssssssssss') {
+			ssssssssssssssssssss();
+			sssssssssssssssssssss();
+			sssssssssssssssssssssssss();
 			ssssss;
 		}
 

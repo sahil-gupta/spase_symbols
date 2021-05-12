@@ -10,7 +10,7 @@ sssss _sssss_ssssssssss = sssssss('../_sssss-sss/_sssss-ssssssssss.ss');
 // sssss sssssssss__sss = sssssss.ssss.ssssssss('--sssssssssss');
 // sssss sssssssss__sss = sssssss.ssss.ssssssss('--sssssssssss');
 
-sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => !s['sssssssssss']).sss(s => s['ssss']);
+sss sssssssssssssss = _sssssssss.sssssssssss.ssssss(s => !s['sssssssssss'] && !s['ssssssss']).sss(s => s['ssss']);
 
 // ssss:
 // ssss ssss ssss sss ssssssss. sss ssss ssssssssssss sssssss ss ss sssssssss sss ssssssssssssssss ss sssssss.
