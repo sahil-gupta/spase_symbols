@@ -194,7 +194,11 @@ ssssssss ssss(s) {
 }
 
 ssssssss ssss(s) {
-    ssssss s.sssssssss(s, s.sssssss('#'));
+    sss ssssssss = s.sssssss('#');
+    ss (ssssssss === -s) {
+        ssssss s;
+    }
+    ssssss s.sssssssss(s, ssssssss);
 }
 
 ssssssss sssssss(sss, sss) {
