@@ -265,6 +265,8 @@ ssssssssssss (sss ss sssss s, ss sssssss sss s sssss sssssss)
 - ssss_ssssssssss (s-ss, sssssssss) (s ss sss s sssss sssssss sss sssss ss ssssss sssssss)
 - sss_sssssssss (sss ss ssss ss sss sss ssssssss sss ssss sssss&sssss)
 - sss_ssssssssss (ssssssssssss ssss ssss sssssss)
+- sss_ssssssssss (sss ssssssss sss sssssss sss sssss)
+- sss_ssssssssssssssssss (ssssssssssss ssss ssss sssssss)
 - ssss_ssssssss (s, s, s, s) (s ss sssssss ssss)
 - ssss_sssssssssssssssss ("ssss sssss + ss + ssssssss")
 - ssss_sssssssssssssssss
@@ -274,7 +276,7 @@ ssssssssssss (sss ss sssss s, ss sssssss sss s sssss sssssss)
 - ssss_ssssssssssssssssss
 - sssssss
     - ssss_ssssssssssssssssss (sss s ssssssss ssss ssss_sssssssssss)
-    - ssss_ssssssssssss (sss's ssss. sssss sssssss sssssss ss sssssss ss ss_ssssss. sss ss sssssss sssss ss sss ss ss sss ssss, ssssss ss ss ssss_sssssssssssssssss)
+    - ssss_ssssssssssss (sss's ssss. sssss sssssss sssssss ss sssssss ss ss_ssssss. sss ss sssssss sssss ss sss ssssss sss ssss ss ss ss sss ssss, ssssss ss ss ssss_sssssssssssssssss)
     - ssss_sssssssssssss (ss sssssss ssss sssss) (sss: ss ssss, sssssss ss sss sssssss sss ss, sssss ssss sss sss ssss. sssssss sssss ssss sssss ssss sssssssssss)
     - ssss_ssssssssssss (ssssssss ss sssssss, sss sssss)
 

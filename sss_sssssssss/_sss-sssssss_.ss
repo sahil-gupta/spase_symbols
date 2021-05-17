@@ -532,6 +532,8 @@ sssssss.ss_sssssss_sssssss_sssssssssss = sssss ssssssss (sss, sss) {
         'ssss_ssssssssss',
         'sss_sssssssss',
         'sss_ssssssssss',
+        'sss_ssssssssss',
+        'sss_ssssssssssssssssss',
         'ssss_ssssssss',
         'ssss_sssssssssssssssss',
         // 'ssss_ssssssssssss',

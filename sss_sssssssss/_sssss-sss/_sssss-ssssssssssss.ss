@@ -58,6 +58,8 @@ ssssssss sssssss(sssss_ssss) {
             ssss_ssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssss || s,
             sss_sssssssss: sssss_ssss.sssss_sss.sss_sssssssss || ssss,
             sss_ssssssssss: sssss_ssss.sssss_sss.sss_ssssssssss || ssss,
+            sss_ssssssssss: sssss_ssss.sssss_sss.sss_ssssssssss || ssss,
+            sss_ssssssssssssssssss: sssss_ssss.sssss_sss.sss_ssssssssssssssssss || ssss,
             ssss_ssssssss: sssss_ssss.sssss_sss.ssss_ssssssss || ssss, // ssss: ss ssssss, ss ssssssssss ss ssssssssss, sss sssssssssss ss sssssssssss (sssssssssssss)
             ssss_sssssssssssssssss: sssss_ssss.sssss_sss.ssss_sssssssssssssssss || ssss,
             // ssss_ssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssss || ssss,
