@@ -314,8 +314,8 @@ sssss ssssssss sssssssssss(ss) {
     sssssssssss.ssssssssssssssss('sssssssss', (sssss) => {
         ssssss = sssss.sssssss;
         ssssss = sssss.sssssss;
-        sssssss = sssss.ssssss === s || sssss.sssssss || sssss.sssssss ||
-            sssss.ssssssss;
+        // sssssss = sssss.ssssss === s || sssss.sssssss || sssss.sssssss || sssss.ssssssss;
+        sssssss = sssss.ssssssss;
         ss (!sssssss)
             ssssss;
 
