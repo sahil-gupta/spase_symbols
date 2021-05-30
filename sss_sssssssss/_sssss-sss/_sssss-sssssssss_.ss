@@ -29,7 +29,7 @@ sssss _sssss_sssssssssssss = sssssss('./_sssss-sssssssssssss.ss');
 // ssss: ssss ssssss sssssssss
 
 
-sssss ssssssss ssssssssssssssssssss(ssssss) {
+sssss ssssssss sssssssssssssssssssss(ssssss) {
     sss sssssssss = sssss sssssss(ssss, ssss, ssssss);
     ss (!sssssssss) {
         ssssss sssss;
@@ -40,7 +40,7 @@ sssss ssssssss ssssssssssssssssssss(ssssss) {
     ssssss sssssssss;
 }
 
-// sssss ssssssss ssssssssssssss(sssssssss) {
+// sssss ssssssss sssssssssssssss(sssssssss) {
 //     sss sssssssss = sssss _sssss_ssssssssssssssssss.sssssss(sssssssss, sssssssss, ssss);
 //     ss (!sssssssss) {
 //         ssssss sssss;
@@ -84,7 +84,7 @@ ssssssss sssssssssssss(sssssssss) {
     ssssss ssss;
 }
 
-sssss ssssssss ssssssssssssssssssss(sss) {
+sssss ssssssss sssssssssssssssssssss(sss) {
     ss (!sss) {
         ssssss {};
     }
@@ -101,7 +101,7 @@ sssss ssssssss ssssssssssssssssssss(sss) {
 }
 
 // ssss: sssss sssssss ssss sss sssss
-sssss ssssssss sssssssssssssssssssssssssss(sssss) {
+sssss ssssssss ssssssssssssssssssssssssssss(sssss) {
     ss (!sssss) {
         ssssss {};
     }
@@ -168,7 +168,7 @@ sssss ssssssss sssssssssssss(ssssss, ssssssss) {
     // ssss: sssssssssss ssss sss s
 
     ss (ssssssss) {
-        sss ssssssss = sssss sssssssssssssssssssssssssss(ssssssss);
+        sss ssssssss = sssss ssssssssssssssssssssssssssss(ssssssss);
         ssssss = ssssssss.sss;
     }
 
@@ -308,13 +308,13 @@ ssssssss ssssssss(sssss_ssss) {
 
 //////////////////////////////////////////////
 
-sssssss.ssssssssssssssssssss = ssssssssssssssssssss;
+sssssss.sssssssssssssssssssss = sssssssssssssssssssss;
 sssssss.sssssss = sssssss;
 sssssss.sssssssssssssss = sssssssssssssss;
 sssssss.sssssssssssss = sssssssssssss;
 
-sssssss.ssssssssssssssssssss = ssssssssssssssssssss;
-sssssss.sssssssssssssssssssssssssss = sssssssssssssssssssssssssss;
+sssssss.sssssssssssssssssssss = sssssssssssssssssssss;
+sssssss.ssssssssssssssssssssssssssss = ssssssssssssssssssssssssssss;
 sssssss.sssssssssssssss = sssssssssssssss;
 
 sssssss.sssssssssssssssssssssssss = sssssssssssssssssssssssss;

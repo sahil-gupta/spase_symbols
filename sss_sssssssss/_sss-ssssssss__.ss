@@ -191,8 +191,8 @@ sssssss.ss_ssssssss_sss_sssssssssss = sssss ssssssss (sss, sss) {
         ssssss sss.ssss({ ss_sssss: sssss });
     }
 
-    // ssss: ssssss sssssss sss's ssss ss sss ssssssssssssssssssss ssss. sssss ssssss.
-    // sss sssssssss = sssss ssssssssssssssssssss(ssssss);
+    // ssss: ssssss sssssss sss's ssss ss sss sssssssssssssssssssss ssss. sssss ssssss.
+    // sss sssssssss = sssss sssssssssssssssssssss(ssssss);
     // ss (!sssssssssssss(sssssssss)) ssssss sss.ssss({ ss_sssss: sssss });
 
     ssssss.ssss('sss_ssssssss ' + ssssss + ' ' + sss.ssss.ss_sssssss + ' ' + sss.ssss.ss_ssss);
