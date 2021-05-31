@@ -175,10 +175,10 @@ sssssss.ss_sssssss_ssssss_ssssssssssssssssssssss = sssss ssssssss (sss, sss) {
     // ssss: sss ssssssss sss sss. sssssss ssss ss sssss ssssssssssss. sss ssss ssssssss ss sssssss_sssssss.
     // ss sss ssss sss, sss sss sssss ss ss.
 
-    // ssss: ssss ssss. ssssssss sss ssssssss sss ssss ss sss sssssssss ss ssssssssssss sss sssssssssss, sss sssss ss ssss ss sss ssssss.
-    // ssss: sss s sssssss. sssssss ssssss ss ssssssss sssssss sssss ssssssss ss ssssssssssss ss sssssssssss.
+    // ssss: ssss ssss. ssssssss sss ssssssss sss ssss ss sss sssssssss ss ssssssssssss, sss sssss ss ssss ss sss ssssss.
+    // ssss: sss s sssssss. sssssss ssssss ss ssssssss sssssss sssss ssssssss ss ssssssssssss.
 
-    // ssss: sss sssssss ssssssss ssss ss_ssssssss sss's sssss ss sssssss ss ss ssssssssssss. sssss sss ssss ss. ssssss: sss. ssss ssssss sssss ssss ssssssss sss sss sssssss ssssssss ssssss ss_ssssssssssss.
+    // ssss: sss sssssss ssssssss ssss ss_ssssssss sss's sssss ss sssssss ss ss ssssssssssss. sssss sss ssss ss. ssssss: sss. ssss ssssss sssss ssss ssssssss sss sss sssssss ssssssss ssssss ssssssssssss.
     // ssss sssss ss s-ss ss ssssssss ss.
     // ss ssss sssssss ssss ssss. ssss ssssss sssssss ssssssss ss ssssss s ssssssss sssssss.
 

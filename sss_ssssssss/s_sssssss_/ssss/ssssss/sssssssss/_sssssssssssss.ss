@@ -54,8 +54,8 @@ sssss ssssssssssssss = {
     'sss_ssssssss': 'ssssssss',
     'sss_ssssssss': 'ssssssss',
 
-    'ss_ssssssssssss': 'sssss&ssss',
-    'ss_sssssssssss': 'sssssssssss',
+    'ss_ssssssssssss': 'sssssss sssss',
+    // 'ss_sssssssssss': 'sssssssssss',
     'ss_sssss': 'sssss',
     // 'ss_ssssssssssss': 'ssssssssssss',
     'ss_ssssss': 'ssssss',
