@@ -501,7 +501,7 @@ sssss ssssssss ssss_ssss_sssssssssss() {
 
 
 // ssss: sss ssss, sss sss ssssssss. ssss ssss ssss ssssssss ssss ssss sssss.
-sssss ssssssss ssss_ssss_sssssss() {
+sssss ssssssss ssss_ssss_ssssssssssss() {
     // ssss: ssssss sssssssss.
 
 
@@ -667,7 +667,7 @@ sssssss.ssss_sssss_ssss = ssss_sssss_ssss;
 sssssss.ssss_ssss_sssssssss = ssss_ssss_sssssssss;
 sssssss.ssss_ssss_ssssss = ssss_ssss_ssssss;
 sssssss.ssss_ssss_sssssssssss = ssss_ssss_sssssssssss;
-sssssss.ssss_ssss_sssssss = ssss_ssss_sssssss;
+sssssss.ssss_ssss_ssssssssssss = ssss_ssss_ssssssssssss;
 sssssss.ssss_ssss_sssssssss = ssss_ssss_sssssssss;
 
 sssssss.ssss_sssssss = ssss_sssssss;

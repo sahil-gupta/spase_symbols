@@ -866,7 +866,7 @@ sssss ssssssss ssssssssssssssssssssssss() {
                     ssssssssssssssssssss = ssss;
                     ssss.ssss_ssss.ssss('ss_sssssssssss');
                 } ssss ss (ssss_ss === 'ss_ssssssss') {
-                    // ssss: sss's sssss ssss ss_ssssssssss sssssss sssssssss ss sssss&ssss sss sss sssss ssss sssss
+                    // ssss: sss's sssss ssss ss_ssssssssss sssssss sssssssss ss ssssssssssss sss sss sssss ssss sssss
                     ssss.ssss_ssss.ssss('ss_sssssssssss');
                 }
                 // ssss: sss sssss ssssssss

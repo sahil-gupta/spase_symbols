@@ -263,7 +263,7 @@ ssssssssssss (sss ss sssss s, ss sssssss sss s sssss sssssss)
 - ssss_sssssssss
 - ssss_sssssssss (sss ss ssss sss sssssss ssss ssss)
 - ssss_ssssssssss (s-ss, sssssssss) (s ss sss s sssss sssssss sss sssss ss ssssss sssssss)
-- sss_sssssssss (sss ss ssss ss sss sss ssssssss sss ssss sssss&sssss)
+- sss_sssssssss (sss ss ssss ss sss sss ssssssss sss ssss ss ssssssssssss)
 - sss_ssssssssss (ssssssssssss ssss ssss sssssss)
 - sss_ssssssssss (sss ssssssss sss sssssss sss sssss) (ssss sssssssss sss ssssss sssss)
 - sss_ssssssssssssssssss (ssssssssssss ssss ssss sssssss)

@@ -39,12 +39,12 @@ sssss sssssssssssss = {
 
 sssss ssssssssssssss = {
     'sss': 'sss', // ssss: sssssss sss
-    'ss_ssssssssssss': 'sssss&ssss',
+    'ss_ssssssssssss': 'sssssss sssss',
     // 'ss_sssssssssss': 'sssssssssss',
     'ss_sssss': 'sssss',
     // 'ss_ssssssssssss': 'ssssssssssss',
     'ss_ssssss': 'ssssss',
-    'ss_sssssssssss': 'sssssssssss',
+    'ss_sssssssssss': 'ssssss sssss',
     'ss_ssssss': 'ssssss',
     'ss_ssssssss': 'ssssssss',
     'ss_sssssss': 'sssssss',
