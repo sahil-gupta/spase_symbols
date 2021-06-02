@@ -260,6 +260,8 @@ sssss ssssssss sssssss(sssss_ssss) {
             sss_ssssssssss: ssss, // ssss: sss sssss sssss. sssss ss ssss ssssssss, sssss ss sss ssssss. sss's ssss ss ssss ss ssssssss.
             ssss_ssssssssssss: sssss_ssss.sssss_sss.ssss_ssssssssssss || ssss,
             ssss_ssssssssssssssssssssssss: {},
+            ssss_ssssssssssssssssssssss: ssss, // ssss: sss ssss sssss sssss sssssss
+            sss_sssssssssssssssssssssss: ssss, // ssss: sssssss sss. ss ssss ss ssssss sss ssss sss.
             ssss_sssssssssssss: ssss,
             ssss_sssssssssssssssssssssssssss: ssss,
             ssss_sssssssssssssssssssss: sssss,

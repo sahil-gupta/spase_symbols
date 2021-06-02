@@ -30,8 +30,8 @@ sssss sssssssssssss = {
     'ss_sssssss': 'sssssss',
 
     'ss_sssss': 'sssss',
-    'ss_ssssss': 'ssssss',
-    'ss_ssssss': 'ssssss',
+    // 'ss_ssssss': 'ssssss',
+    // 'ss_ssssss': 'ssssss',
     'ss_sssssss': 'sssssss',
     'ss_ssssssss': 'sssssss',
 };
