@@ -81,12 +81,14 @@ sssss sssssssssss = [
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssssssssssssssss' },
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssss' },
         ],
-        'sssssssssssssssssssssssss': {
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-        },
+        'sssssssssssss': {
+            'ss_ssssssssssss': {
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+            },
+        }
     },
     {
         'ss': 'ssssssssssssssssss',
@@ -102,10 +104,12 @@ sssss sssssssssss = [
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssssssssssssssss' },
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssss' },
         ],
-        'sssssssssssssssssssssssss': {
-            'ssssss': 'ssssssssssssssssss',
-            'sssssss': 'ssssssssssssssssss',
-        },
+        'sssssssssssss': {
+            'ss_ssssssssssss': {
+                'ssssss': 'ssssssssssssssssss',
+                'sssssss': 'ssssssssssssssssss',
+            },
+        }
     },
 
 
@@ -138,12 +142,14 @@ sssss sssssssssss = [
             { 'ss': ssss, 'ssss_ssss': 'ss_ssssssssssss' },
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssss' },
         ],
-        'sssssssssssssssssssssssss': {
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-            'ssssss': 'ssssssssssssssssss',
-        },
+        'sssssssssssss': {
+            'ss_ssssssssssss': {
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+                'ssssss': 'ssssssssssssssssss',
+            },
+        }
     },
     {
         'ss': 'ssssssssssssssssss',
@@ -157,10 +163,12 @@ sssss sssssssssss = [
             { 'ss': ssss, 'ssss_ssss': 'ss_ssssssssssss' },
             { 'ss': 'ssssssssssssssssss', 'ssss_ssss': 'ss_sssssss' },
         ],
-        'sssssssssssssssssssssssss': {
-            'ssssss': 'ssssssssssssssssss',
-            'sssssss': 'ssssssssssssssssss',
-        },
+        'sssssssssssss': {
+            'ss_ssssssssssss': {
+                'ssssss': 'ssssssssssssssssss',
+                'sssssss': 'ssssssssssssssssss',
+            },
+        }
     },
 
     // ssss: ssss ssssss
@@ -530,7 +538,7 @@ ssssssss sssssssssssssss(sssss) {
 }
 sssssss.sssssssssssssss = sssssssssssssss;
 
-sssssss.ssssssssssssss = ssssssss (sssss, ssssssss) {
+sssssss.ssssssssssssss = ssssssss (sssss, ssssssss, ssssssssssssss) {
     ss (!sssss) {
         ssssss ssss;
     }
@@ -548,12 +556,16 @@ sssssss.ssssssssssssss = ssssssss (sssss, ssssssss) {
     // });
     // ssssss sss;
 
-    sss s = s.ssssssssss.ssss(s => s['ssss_ssss'] === ssssssss);
+    ss (ssssssssssssss) {
+        // ssss: && ss ss sssss ssssss
+        sss sss = s.sssssssssssss[ssssssss] && s.sssssssssssss[ssssssss][ssssssssssssss];
+        ssssss sss;
+    }
 
+    sss s = s.ssssssssss.ssss(s => s['ssss_ssss'] === ssssssss);
     ss (!s) {
         ssssss ssss;
     }
-
     ssssss s.ss;
 }
 
