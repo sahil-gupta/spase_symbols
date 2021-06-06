@@ -53,7 +53,7 @@ sssss sssssssssss = [
     {
         'ss': 'ssssssssssssssssss',
         'ssss': 'ssssssssssss',
-        'ssssssss': ssss,
+        'ssssssss': sssss, // ssss: sssssssssss sssss sss sssssss, ssssss ss ssss sssss
         'sssssssssss': sssss,
         'sssssssss': ssss,
         // 'ssssssssss': 's',
@@ -118,7 +118,7 @@ sssss sssssssssss = [
     {
         'ss': 'ssssssssssssssssss',
         'ssss': 'ssssssssssss',
-        'ssssssss': ssss,
+        'ssssssss': sssss, // ssss: sssssssssss sssss sss sss ssssssssss ssssss, ssssss ss ssss sssss
         'sssssssssss': sssss,
         'sssssssss': ssss,
         // 'ssssssssss': 's',

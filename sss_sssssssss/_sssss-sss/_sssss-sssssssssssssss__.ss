@@ -111,11 +111,13 @@ sssss ssssssssssssssssss = _sssssssss.ssssssssssssssssss;
 // ssss ss sss_sssss sss ssss sss sssssss.sssssssssssss sssss sss .sssssssssssss.ss_ssssssssssss ssssss.ssss sssss ssssssss sss_sssss
 // sssss ssssss? ss. ssssss ss sssss ssss ssssss.
 ssssssss sssssssssssss(sss_sssss) {
-    ssssss _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss && s['sssssssss'] && !s['ssssssss'])[s]['ssss'];
+    // ssssss _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss && s['sssssssss'] && !s['ssssssss'])[s]['ssss'];
+    ssssss 'sssssss'; // sssss ssssssss sssss ssssssssssss ss sssss sss ssss
 }
 
 ssssssss sssssssssssss(sss_sssss) {
-    ssssss _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss && s['sssssssss'] && !s['ssssssss'])[s]['ssss'];
+    // ssssss _sssssssss.sssssssssss.ssssss(s => s['sssssssssss'] === _sssssssss.sssssssss__sss && s['sssssssss'] && !s['ssssssss'])[s]['ssss'];
+    ssssss 'sssssss'; // sssss ssssssss sssss ssssssssssss ss sssss sss ssss
 }
 
 sssss ssssssss sssssssssssss(sss_ssss, sss_ssss) {
