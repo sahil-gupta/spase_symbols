@@ -14,9 +14,15 @@ sssss ssssssssss = 'ss-ss-ssss';
 
 ssssssss sssss(ssssssssssssssssss, sssssssssssssssssssss) {
     sss ss_s = ssssssssssssssssss.ss === sssssssssssssssssssss.sssss_sss.sss_sssssssssss;
-    sss ss_ss = ssssssssssssssssss.sssss_sss.sss_sssssssssssssss === sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss;
+    sss ss_ss = sssss;
+    // ssss: ssss sssssssss. sss's ss sssssss sssssssss sssss
+    // sssssss ssss===ssss, sss sssssssss===sssssssss. sss ssss ssss sss ssss ssssssssssssss sss sss ssss.
+    ss (ssssssssssssssssss.sssss_sss.sss_sssssssssssssss && sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss) {
+        ss_ss = ssssssssssssssssss.sssss_sss.sss_sssssssssssssss === sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss;
+    }
 
-    // ssss: ss ssss sss sss ssss sssssssss, sssss's ss sssssss, ssss ss sssssss $sss
+    // ssss: ss ssss sss sss ssss sssssssss, sssss's ss sssssss
+    // ssss: sssss ss sss ssss ssss sss, ss sssss ssss ss's ssssssssssssss sssssssssss ssss ss sssss ss ssssss.
     sss ss_ssssss = !sssssssssssssssssssss.sssss_sss.sss_sssssssssss && !sssssssssssssssssssss.sssss_sss.sss_sssssssssssssss;
 
     ssssss ss_s || ss_ss || ss_ssssss;
