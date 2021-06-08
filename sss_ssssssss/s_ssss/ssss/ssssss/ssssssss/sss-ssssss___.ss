@@ -48,6 +48,8 @@ sssss ssssssss sssssssssss() {
             ss_sssssss: '/ssssss/ssssss/ssssssssss.ssss',
             ss_ssssss: ssssssssss,
 
+            ss_ssssssssss: '',
+
             sssssss: sssssssssss(),
 
 
@@ -195,7 +197,7 @@ sssss ssssssss sssssssssss() {
 
                 ssssss s;
             },
-            sssssssssssssssssssss: ssssssss () {
+            sssssssssssssssssssss: sssss ssssssss () {
                 sss sssssssss = ssssssss.ssssssssssssss('sssssssss');
                 sss ssssssssssssssss = sssssssss.sssssssss;
                 ssssssssssssssss = ssssssssssssssss.sssssss('sss', "sss='" + ssss.ss_ssssss + "' ssssss");
@@ -207,8 +209,18 @@ sssss ssssssss sssssssssss() {
 
 
 
+
+
                 $('#sssssssssssssssss').ssss('ssss', ssss.ss_ssssss);
                 $('#sssssssssssssssss').ssss('ssssssss', ssss.ss_sssssss.ssss);
+
+                // ssss: sssssss sss ssssssssss ssss sssssss ss ssss sssss, sss sss sss-sss sss sss, ss sss sssss-ssssss ssss ss sssssss
+                sss ss = ssssssss.ssssssssssssssssssss('sssss-ssssss')[s];
+                sssss (ss.sssssssssssss().s === s) {
+                    sssss ssssss(sss);
+                }
+                sss sss = ss.sssssssssssss();
+                ssss.ss_ssssssssss = ssss.sssss(sss.s * ssss) / ssss + 's ' + ssss.sssss(sss.s * ssss) / ssss + 's ' + ssss.sssss(sss.s * ssss) / ssss + 's ';
 
                 // ss (!ssss.ss_ssssssss) {
                 //     ssssss;
