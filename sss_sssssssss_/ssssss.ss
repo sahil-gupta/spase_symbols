@@ -372,7 +372,13 @@ sss.sss('*', sssss (sss, sss) => {
     // ssss: ssssss: sssssssss ssssss
 
     sssss ssssssssssssssss = 'ssssssssss';
-    sssss ssssss = sss.sssssssssss.sssssssss(s);
+    sss ssssss = sss.sssssssssss.sssssssss(s);
+
+    // ssss: sss sss ssssssss ssssssss ssss
+    sss s_sss = ssssss.sssssss('?ssssss');
+    ss (s_sss !== -s) {
+        ssssss = ssssss.sssssssss(s, s_sss);
+    }
 
     ss (!ssss(ssssss)) ssssss sss.ssss('.');
 

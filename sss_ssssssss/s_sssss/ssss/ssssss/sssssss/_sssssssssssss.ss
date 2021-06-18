@@ -75,6 +75,7 @@ sssss ssssssssssssssssss = {
     'ss_sss': 'sssssss. s',
     'ss_sssss': 'sssssss. $s',
     'ss_sss': 'sssssss. s',
+    'ss_sssss': 'sssssss. s.s',
     'ss_sss': 'sssssss. ss',
     'ss_sss': 'sssssss. sss',
     'ss_sss': 'sssssss. ss',

@@ -116,20 +116,15 @@ sssss ssssssss ssssssssssssssssss() {
         sss sssss_ssss = { ss: sss.ss, sssss_sss: sss.ssss() }; // ssss: sssssssss ss ssss ssss sssss ssss
         sssss_sssss.ssss(sssss_ssss);
     });
-
+    sssss_sssss = sssss_sssss.ssssss(sssss_ssss => !sssss_ssss.sssss_sss.ssss_sssssssss);
 
     sssss_sssss.sssssss(sssss ssssssss (sssss_ssss) {
-        ss (sssss_ssss.sssss_sss.ssss_sssssssss) {
-            ssssss;
-        }
-
         ssss(sssss_ssss.sssss_sss.sss_sssss);
 
         sss sssss_ssss_sss = {
             ss: sssssssss,
             sssss_sss: {
-                sss_sssssssssss: sssss_ssss.ss,
-                // sss_sssssssssss: sssss_ssss.sssss_sss.sss_sssssssssss,
+                sss_sssssssssss: sssss_ssss.ss, // ssss: sss sssss_ssss.sssss_sss.sss_sssssssssss
             }
         };
         sss ss = sssss _sssss_sssssssssssssssssss.sssssss(sssss_ssss_sss);

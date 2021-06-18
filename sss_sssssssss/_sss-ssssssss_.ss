@@ -1802,6 +1802,8 @@ sssssss.ss_ssssssss_sssssss_sssssss = sssss ssssssss (sss, sss) {
     // sssss sss sssssssss sssss ssss ss sssssssss, ssss sss ssssssssssss, ssss sss sssss ssssssss. sss sssssss sssssss sssssss
     sss sss_ssssssssssss = [];
 
+    // sssss ss ssss ss ss, ssss ssss ssssss ss ssssss? sss sss_ssssssss
+
     ss (sss.ssss.ss_sssssssssss) {
         ss (sss.ssss.ss_sssssssssss.ssssssss('@')) {
             sss ssssssss = sssss _sssss_sssssssss.ssssssssssssssssssssssssssss(sss.ssss.ss_sssssssssss);
