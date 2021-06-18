@@ -350,11 +350,17 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
             ssssss;
         }
 
+        sss ssssssss;
+        sss sssss;
 
         // ssss: sss ssss sssssss sss s sssss ssss ssssssss
         ss (ss_sss) {
             // sss ssssssssssss = sssss _sssss_sssssssss.sssssss(ssss, ssss, ss_ssss);
-            sss ssssssss = sssss sssssssssssssssssssss(ss_ssss);
+            ssssssss = sssss sssssssssssssssssssss(ss_ssss);
+
+            sssss = 'sssss://sssssss.sssss.ss/ssssssss?s='.sssssss('sssss', (_sssssssss.sssssssss__sss ? 'sssssss.sssss' : 'sssss')) + ssssssss.sssss;
+            sssss ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssssssssss(sssss));
+
             ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss(ssssssss.sssss));
             ssssss;
         }
@@ -371,12 +377,18 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
                 ssssss;
             }
             ss_ssss = sssss_ssss_s.sssss_sss.sss_sssssssssss;
-            sss ssssssss = sssss sssssssssssssssssssss(ss_ssss);
+            ssssssss = sssss sssssssssssssssssssss(ss_ssss);
+
+            sssss = 'sssss://sssssss.sssss.ss/ssssssss?s='.sssssss('sssss', (_sssssssss.sssssssss__sss ? 'sssssss.sssss' : 'sssss')) + ssssssss.sssss;
+            sssss ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssssssssss(sssss));
+
             ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss(ssssssss.sssss));
             ssssss;
         }
 
-        sss ssssssss = sssss ssssssssssssssssssssssssssss(sss_sssssssss[s]);
+
+
+        ssssssss = sssss ssssssssssssssssssssssssssss(sss_sssssssss[s]);
         sss ssssss = ssssssss.sss;
         ss (!ssssss) {
             ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssss('sssss sssss'));
@@ -414,6 +426,10 @@ sssss ssssssss ssssssssssss(sssss_ssss_sss, sssss_ssss_ssssssss) {
 
         // ssss: sssss sss ssssss ssss sssssss sssss
         // ssss: sssssss ssss ss sssssss ssss ssssssssss
+
+        sssss = 'sssss://sssssss.sssss.ss/ssssssss?s='.sssssss('sssss', (_sssssssss.sssssssss__sss ? 'sssssss.sssss' : 'sssss')) + ssssssss.sssss;
+        sssss ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.ssssssssssssss(sssss));
+
         sss s = ss;
         sss (sss s = s; s < ssssssss.ssssss; s += s) {
             sssss ssssssssssss(ss_sss, ss_sssss, ss_ssss, ss_ssssss, _sssss_ssssssssssssss.sssssssssssss(ssssssss.sssss(s, s + s)));
