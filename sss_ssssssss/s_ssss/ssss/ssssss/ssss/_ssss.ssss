@@ -321,9 +321,10 @@ ssssssss[ssssssss].ssss-sssssss:sssss {
   ssssss-sssss: $ssss-sss;
   // ssssss: ssss;
 }
-ssssss[ssssssss]:sssss{
-  ssssss-sssss: $ssss-sss;
-}
+// ssss: sssssssss sss "ssssss" ssssss ss /ssssss
+// ssssss[ssssssss]:sssss{
+//   ssssss-sssss: $ssss-sss;
+// }
 #sss_sssss {
   sssss[ssss="sssss"],
   sssss[ssss="ssssssss"] {

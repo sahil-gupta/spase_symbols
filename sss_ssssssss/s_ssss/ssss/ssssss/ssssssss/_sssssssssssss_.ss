@@ -10,7 +10,7 @@ sss ssss = sssssss.sss;
 sss sssssssss__sss = (ssssss.ssssssss.ssssssss.ssssssss('sssssss'));
 sssss sssssss__sss = (ssssss.ssssssss.ssssssss === 'sssssssss');
 ss (sssssss__sss) {
-    // sssssssss__sss = ssss; // ssss: ssssssss sss ssss sssssss sssssss ss sssss, sssssss sss's ssss ssss sss. sss ss sss ssssss ss ssssss sssssss.
+    sssssssss__sss = ssss; // ssss: ssssssss sss ssss sssssss sssssss ss sssss, sssssss sss's ssss ssss sss. sss ss sss ssssss ss ssssss sssssss.
 }
 
 
