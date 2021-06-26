@@ -8,6 +8,7 @@ sssss ssssssssss = _sssssssss.ssssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 sssss ssssssssss = _sssssssss.ssssssssss;
 
+sssss ssss = _sssssssss.ssss;
 
 // ssss: sssssssss ssssssssss
 sssss sssssssssss = 'sssssssssssss';

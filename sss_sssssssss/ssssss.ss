@@ -36,10 +36,6 @@ ss (_sssssssss.sssssssss__ssssss) {
     ss (_sssssssss.sssssss__sss) {
         ssssssssssssss.ssss('ssss://sssssssss:ssss');
         ssssssssssssss.ssss('ssss://sssssssss.sssss:ssss');
-
-        sssssssssss(() => {
-            ssss(ssss.sss());
-        }, ssss);
     } ssss {
         sssssssssssss = 'sssssssss-sssssss.sssss.ss';
 
